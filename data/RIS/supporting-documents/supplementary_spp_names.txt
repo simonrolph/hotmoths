@@ -1,0 +1,433 @@
+"SPECIES_ID"	"BRC_CONCEPT"	"BRC_SPECIES_NAME"	"ABH_NUMBER"	"ABH_SPECIES_NAME"	"ABH_COMMON_NAME"	"BF_NUMBER"
+125	"Lep_5959"	"Habrosyne pyritoides"	"65.009"	"Habrosyne pyritoides"	"Buff Arches"	1653
+126	"Lep_5956"	"Thyatira batis"	"65.008"	"Thyatira batis"	"Peach Blossom"	1652
+127	"Lep_9357"	"Tethea ocularis subsp. octogesimea"	"65.010"	"Tethea ocularis octogesimea"	"Figure of Eighty"	1654
+129	"Lep_5971"	"Ochropacha duplaris"	"65.013"	"Ochropacha duplaris"	"Common Lutestring"	1657
+131	"Lep_9157"	"Cymatophorina diluta subsp. hartwiegi"	"65.014"	"Cymatophorina diluta hartwiegi"	"Oak Lutestring"	1658
+132	"Lep_5977"	"Achlya flavicornis"	"65.016"	"Achlya flavicornis"	"Yellow Horned"	1659
+133	"Lep_5980"	"Polyploca ridens"	"65.015"	"Polyploca ridens"	"Frosted Green"	1660
+161	"Lep_5938"	"Watsonalla binaria"	"65.002"	"Watsonalla binaria"	"Oak Hook-tip"	1646
+163	"Lep_5944"	"Drepana falcataria"	"65.005"	"Drepana falcataria"	"Pebble Hook-tip"	1648
+164	"Lep_5935"	"Falcaria lacertinaria"	"65.001"	"Falcaria lacertinaria"	"Scalloped Hook-tip"	1645
+165	"Lep_5953"	"Cilix glaucata"	"65.007"	"Cilix glaucata"	"Chinese Character"	1651
+135	"Lep_7078"	"Orgyia antiqua"	"72.017"	"Orgyia antiqua"	"Vapourer"	2026
+137	"Lep_7084"	"Calliteara pudibunda"	"72.015"	"Calliteara pudibunda"	"Pale Tussock"	2028
+138	"Lep_7087"	"Euproctis chrysorrhoea"	"72.012"	"Euproctis chrysorrhoea"	"Brown-tail"	2029
+139	"Lep_7090"	"Euproctis similis"	"72.013"	"Euproctis similis"	"Yellow-tail"	2030
+144	"Lep_7099"	"Lymantria monacha"	"72.010"	"Lymantria monacha"	"Black Arches"	2033
+172	"Lep_7114"	"Nudaria mundana"	"72.036"	"Nudaria mundana"	"Muslin Footman"	2038
+173	"Lep_7105"	"Thumatha senex"	"72.037"	"Thumatha senex"	"Round-winged Muslin"	2035
+174	"Lep_7111"	"Miltochrista miniata"	"72.035"	"Miltochrista miniata"	"Rosy Footman"	2037
+176	"Lep_7120"	"Cybosia mesomella"	"72.038"	"Cybosia mesomella"	"Four-dotted Footman"	2040
+178	"Lep_7147"	"Eilema depressa"	"72.043"	"Eilema depressa"	"Buff Footman"	2049
+179	"Lep_7132"	"Eilema griseola"	"72.044"	"Eilema griseola"	"Dingy Footman"	2044
+180	"Lep_7150"	"Eilema lurideola"	"72.045"	"Eilema lurideola"	"Common Footman"	2050
+181	"Lep_7141"	"Eilema complana"	"72.046"	"Eilema complana"	"Scarce Footman"	2047
+185	"Lep_7129"	"Eilema sororcula"	"72.049"	"Eilema sororcula"	"Orange Footman"	2043
+191	"Lep_7207"	"Tyria jacobaeae"	"72.031"	"Tyria jacobaeae"	"Cinnabar"	2069
+192	"Lep_7180"	"Spilosoma lubricipeda"	"72.020"	"Spilosoma lubricipeda"	"White Ermine"	2060
+194	"Lep_7183"	"Spilosoma lutea"	"72.019"	"Spilosoma lutea"	"Buff Ermine"	2061
+195	"Lep_7189"	"Diaphora mendica"	"72.022"	"Diaphora mendica"	"Muslin Moth"	2063
+196	"Lep_7177"	"Diacrisia sannio"	"72.023"	"Diacrisia sannio"	"Clouded Buff"	2059
+197	"Lep_7192"	"Phragmatobia fuliginosa"	"72.024"	"Phragmatobia fuliginosa"	"Ruby Tiger"	2064
+200	"Lep_7171"	"Arctia caja"	"72.026"	"Arctia caja"	"Garden Tiger"	2057
+610	"Lep_8356"	"Catocala nupta"	"72.078"	"Catocala nupta"	"Red Underwing"	2452
+644	"Lep_8398"	"Lygephila pastinum"	"72.063"	"Lygephila pastinum"	"Blackneck"	2466
+648	"Lep_8422"	"Rivula sericealis"	"72.002"	"Rivula sericealis"	"Straw Dot"	2474
+650	"Lep_8425"	"Parascotia fuliginaria"	"72.066"	"Parascotia fuliginaria"	"Waved Black"	2475
+651	"Lep_8407"	"Scoliopteryx libatrix"	"72.001"	"Scoliopteryx libatrix"	"Herald"	2469
+652	"Lep_8428"	"Hypena crassalis"	"72.007"	"Hypena crassalis"	"Beautiful Snout"	2476
+653	"Lep_8431"	"Hypena proboscidalis"	"72.003"	"Hypena proboscidalis"	"Snout"	2477
+658	"Lep_8452"	"Schrankia costaestrigalis"	"72.061"	"Schrankia costaestrigalis"	"Pinion-streaked Snout"	2484
+661	"Lep_8467"	"Herminia tarsipennalis"	"72.053"	"Herminia tarsipennalis"	"Fan-foot"	2489
+662	"Lep_8476"	"Herminia grisealis"	"72.055"	"Herminia grisealis"	"Small Fan-foot"	2492
+666	"Lep_8419"	"Laspeyria flexula"	"72.069"	"Laspeyria flexula"	"Beautiful Hook-tip"	2473
+669	"Lep_5989"	"Alsophila aescularia"	"70.245"	"Alsophila aescularia"	"March Moth"	1663
+671	"Lep_9341"	"Pseudoterpna pruinata subsp. atropunctaria"	"70.297"	"Pseudoterpna pruinata atropunctaria"	"Grass Emerald"	1665
+672	"Lep_5998"	"Geometra papilionaria"	"70.299"	"Geometra papilionaria"	"Large Emerald"	1666
+673	"Lep_6001"	"Comibaena bajularia"	"70.300"	"Comibaena bajularia"	"Blotched Emerald"	1667
+674	"Lep_6007"	"Hemithea aestivaria"	"70.305"	"Hemithea aestivaria"	"Common Emerald"	1669
+679	"Lep_6019"	"Hemistola chrysoprasaria"	"70.302"	"Hemistola chrysoprasaria"	"Small Emerald"	1673
+680	"Lep_6022"	"Jodis lactearia"	"70.303"	"Jodis lactearia"	"Little Emerald"	1674
+681	"Lep_6046"	"Timandra comae"	"70.029"	"Timandra comae"	"Blood-vein"	1682
+682	"Lep_6031"	"Cyclophora albipunctata"	"70.032"	"Cyclophora albipunctata"	"Birch Mocha"	1677
+687	"Lep_6040"	"Cyclophora punctaria"	"70.036"	"Cyclophora punctaria"	"Maiden's Blush"	1680
+688	"Lep_6043"	"Cyclophora linearia"	"70.037"	"Cyclophora linearia"	"Clay Triple-lines"	1681
+689	"Lep_6082"	"Scopula ternata"	"70.026"	"Scopula ternata"	"Smoky Wave"	1694
+692	"Lep_6067"	"Scopula marginepunctata"	"70.023"	"Scopula marginepunctata"	"Mullein Wave"	1689
+694	"Lep_6070"	"Scopula imitaria"	"70.024"	"Scopula imitaria"	"Small Blood-vein"	1690
+698	"Lep_6076"	"Scopula immutata"	"70.025"	"Scopula immutata"	"Lesser Cream Wave"	1692
+699	"Lep_6079"	"Scopula floslactata"	"70.027"	"Scopula floslactata"	"Cream Wave"	1693
+701	"Lep_6097"	"Idaea rusticata"	"70.004"	"Idaea rusticata"	"Least Carpet"	1699
+702	"Lep_6115"	"Idaea fuscovenosa"	"70.006"	"Idaea fuscovenosa"	"Dwarf Cream Wave"	1705
+707	"Lep_6124"	"Idaea dimidiata"	"70.011"	"Idaea dimidiata"	"Single-dotted Wave"	1708
+710	"Lep_6121"	"Idaea seriata"	"70.008"	"Idaea seriata"	"Small Dusty Wave"	1707
+711	"Lep_6127"	"Idaea subsericeata"	"70.009"	"Idaea subsericeata"	"Satin Wave"	1709
+716	"Lep_6145"	"Idaea straminata"	"70.018"	"Idaea straminata"	"Plain Wave"	1715
+717	"Lep_6139"	"Idaea aversata"	"70.016"	"Idaea aversata"	"Riband Wave"	1713
+718	"Lep_6133"	"Idaea trigeminata"	"70.012"	"Idaea trigeminata"	"Treble Brown Spot"	1711
+719	"Lep_6106"	"Idaea biselata"	"70.013"	"Idaea biselata"	"Small Fan-footed Wave"	1702
+720	"Lep_6136"	"Idaea emarginata"	"70.015"	"Idaea emarginata"	"Small Scallop"	1712
+721	"Lep_6148"	"Rhodometra sacraria"	"70.038"	"Rhodometra sacraria"	"Vestal"	1716
+723	"Lep_6178"	"Xanthorhoe quadrifasiata"	"70.055"	"Xanthorhoe quadrifasiata"	"Large Twin-spot Carpet"	1726
+724	"Lep_6169"	"Xanthorhoe decoloraria"	"70.048"	"Xanthorhoe decoloraria"	"Red Carpet"	1723
+725	"Lep_6175"	"Xanthorhoe ferrugata"	"70.052"	"Xanthorhoe ferrugata"	"Dark-barred Twin-spot Carpet"	1725
+726	"Lep_6172"	"Xanthorhoe spadicearia"	"70.051"	"Xanthorhoe spadicearia"	"Red Twin-spot Carpet"	1724
+728	"Lep_6166"	"Xanthorhoe designata"	"70.053"	"Xanthorhoe designata"	"Flame Carpet"	1722
+729	"Lep_6181"	"Xanthorhoe montanata"	"70.054"	"Xanthorhoe montanata"	"Silver-ground Carpet"	1727
+730	"Lep_6184"	"Xanthorhoe fluctuata"	"70.049"	"Xanthorhoe fluctuata"	"Garden Carpet"	1728
+733	"Lep_6328"	"Colostygia pectinataria"	"70.100"	"Colostygia pectinataria"	"Green Carpet"	1776
+734	"Lep_11076"	"Coenotephria salicata"	"70.102"	"Coenotephria salicata"	"Striped Twin-spot Carpet"	1753
+735	"Lep_6325"	"Colostygia multistrigaria"	"70.101"	"Colostygia multistrigaria"	"Mottled Grey"	1775
+736	"Lep_6427"	"Mesotype didymata"	"70.131"	"Mesotype didymata"	"Twin-spot Carpet"	1809
+738	"Lep_6238"	"Earophila badiata"	"70.066"	"Earophila badiata"	"Shoulder Stripe"	1746
+739	"Lep_6241"	"Anticlea derivata"	"70.067"	"Anticlea derivata"	"Streamer"	1747
+740	"Lep_6244"	"Mesoleuca albicillata"	"70.068"	"Mesoleuca albicillata"	"Beautiful Carpet"	1748
+741	"Lep_6232"	"Entephria caesiata"	"70.072"	"Entephria caesiata"	"Grey Mountain Carpet"	1744
+746	"Lep_6406"	"Perizoma affinitata"	"70.132"	"Perizoma affinitata"	"Rivulet"	1802
+747	"Lep_6409"	"Perizoma alchemillata"	"70.133"	"Perizoma alchemillata"	"Small Rivulet"	1803
+748	"Lep_6424"	"Perizoma flavofasciata"	"70.138"	"Perizoma flavofasciata"	"Sandy Carpet"	1808
+749	"Lep_6421"	"Perizoma albulata"	"70.137"	"Perizoma albulata"	"Grass Rivulet"	1807
+750	"Lep_6412"	"Perizoma bifaciata"	"70.134"	"Perizoma bifaciata"	"Barred Rivulet"	1804
+752	"Lep_6382"	"Euphyia unangulata"	"70.065"	"Euphyia unangulata"	"Sharp-angled Carpet"	1794
+754	"Lep_6379"	"Euphyia biangulata"	"70.064"	"Euphyia biangulata"	"Cloaked Carpet"	1793
+758	"Lep_6226"	"Camptogramma bilineata"	"70.059"	"Camptogramma bilineata"	"Yellow Shell"	1742
+759	"Lep_6352"	"Melanthia procellata"	"70.128"	"Melanthia procellata"	"Pretty Chalk Carpet"	1784
+761	"Lep_6256"	"Cosmorhoe ocellata"	"70.087"	"Cosmorhoe ocellata"	"Purple Bar"	1752
+762	"Lep_6250"	"Lampropteryx suffumata"	"70.103"	"Lampropteryx suffumata"	"Water Carpet"	1750
+763	"Lep_6253"	"Lampropteryx otregiata"	"70.104"	"Lampropteryx otregiata"	"Devon Carpet"	1751
+764	"Lep_6319"	"Electrophaes corylata"	"70.086"	"Electrophaes corylata"	"Broken-barred Carpet"	1773
+765	"Lep_6277"	"Ecliptopera silaceata"	"70.094"	"Ecliptopera silaceata"	"Small Phoenix"	1759
+767	"Lep_6262"	"Eulithis prunata"	"70.089"	"Eulithis prunata"	"Phoenix"	1754
+768	"Lep_6265"	"Eulithis testata"	"70.090"	"Eulithis testata"	"Chevron"	1755
+769	"Lep_6268"	"Eulithis populata"	"70.091"	"Eulithis populata"	"Northern Spinach"	1756
+770	"Lep_6271"	"Eulithis mellinata"	"70.092"	"Eulithis mellinata"	"Spinach"	1757
+771	"Lep_6274"	"Gandaritis pyraliata"	"70.093"	"Gandaritis pyraliata"	"Barred Straw"	1758
+772	"Lep_6295"	"Cidaria fulvata"	"70.085"	"Cidaria fulvata"	"Barred Yellow"	1765
+773	"Lep_6298"	"Plemyria rubiginata"	"70.084"	"Plemyria rubiginata"	"Blue-bordered Carpet"	1766
+774	"Lep_6280"	"Chloroclysta siterata"	"70.095"	"Chloroclysta siterata"	"Red-green Carpet"	1760
+775	"Lep_6283"	"Chloroclysta miata"	"70.096"	"Chloroclysta miata"	"Autumn Green Carpet"	1761
+776	"Lep_6292"	"Dysstroma truncata"	"70.097"	"Dysstroma truncata"	"Common Marbled Carpet"	1764
+778	"Lep_6286"	"Dysstroma citrata"	"70.098"	"Dysstroma citrata"	"Dark Marbled Carpet"	1762
+779	"Lep_6304"	"Thera obeliscata"	"70.081"	"Thera obeliscata"	"Grey Pine Carpet"	1768
+780	"Lep_6307"	"Thera britannica"	"70.079"	"Thera britannica"	"Spruce Carpet"	1769
+782	"Lep_6301"	"Pennithera firmata"	"70.077"	"Pennithera firmata"	"Pine Carpet"	1767
+783	"Lep_6313"	"Thera juniperata"	"70.082"	"Thera juniperata"	"Juniper Carpet"	1771
+784	"Lep_6331"	"Hydriomena furcata"	"70.074"	"Hydriomena furcata"	"July Highflyer"	1777
+785	"Lep_6334"	"Hydriomena impluviata"	"70.075"	"Hydriomena impluviata"	"May Highflyer"	1778
+787	"Lep_6373"	"Philereme vetulata"	"70.118"	"Philereme vetulata"	"Brown Scallop"	1791
+788	"Lep_9314"	"Philereme transversata subsp. britannica"	"70.119"	"Philereme transversata britannica"	"Dark Umber"	1792
+789	"Lep_6370"	"Triphosa dubitata"	"70.123"	"Triphosa dubitata"	"Tissue"	1790
+791	"Lep_6367"	"Hydria undulata"	"70.121"	"Hydria undulata"	"Scallop Shell"	1789
+794	"Lep_6217"	"Epirrhoe rivata"	"70.062"	"Epirrhoe rivata"	"Wood Carpet"	1739
+795	"Lep_6214"	"Epirrhoe alternata"	"70.061"	"Epirrhoe alternata"	"Common Carpet"	1738
+797	"Lep_6220"	"Epirrhoe galiata"	"70.063"	"Epirrhoe galiata"	"Galium Carpet"	1740
+800	"Lep_6592"	"Chesias legatella"	"70.195"	"Chesias legatella"	"Streak"	1864
+801	"Lep_6595"	"Chesias rufata"	"70.196"	"Chesias rufata"	"Broom-tip"	1865
+803	"Lep_6601"	"Aplocera plagiata"	"70.192"	"Aplocera plagiata"	"Treble-bar"	1867
+804	"Lep_6604"	"Aplocera efformata"	"70.193"	"Aplocera efformata"	"Lesser Treble-bar"	1868
+807	"Lep_6343"	"Horisme vitalbata"	"70.126"	"Horisme vitalbata"	"Small Waved Umber"	1781
+809	"Lep_6346"	"Horisme tersata"	"70.127"	"Horisme tersata"	"Fern"	1782
+811	"Lep_6646"	"Pterapherapteryx sexalata"	"70.199"	"Pterapherapteryx sexalata"	"Small Seraphim"	1882
+812	"Lep_6649"	"Acasis viretata"	"70.200"	"Acasis viretata"	"Yellow-barred Brindle"	1883
+814	"Lep_6643"	"Trichopteryx carpinata"	"70.202"	"Trichopteryx carpinata"	"Early Tooth-striped"	1881
+815	"Lep_6157"	"Orthonama vittata"	"70.046"	"Orthonama vittata"	"Oblique Carpet"	1719
+816	"Lep_6199"	"Scotopteryx mucronata"	"70.040"	"Scotopteryx mucronata"	"Lead Belle"	1733
+817	"Lep_10725"	"Scotopteryx luridata subsp. plumbaria"	"70.041"	"Scotopteryx luridata plumbaria"	"July Belle"	1734
+818	"Lep_6196"	"Scotopteryx chenopodiata"	"70.045"	"Scotopteryx chenopodiata"	"Shaded Broad-bar"	1732
+822	"Lep_6235"	"Larentia clavaria"	"70.070"	"Larentia clavaria"	"Mallow"	1745
+823	"Lep_6247"	"Pelurga comitata"	"70.069"	"Pelurga comitata"	"Dark Spinach"	1749
+824	"Lep_6391"	"Epirrita autumnata"	"70.109"	"Epirrita autumnata"	"Autumnal Moth"	1797
+825	"Lep_6394"	"Epirrita filigrammaria"	"70.110"	"Epirrita filigrammaria"	"Small Autumnal Moth"	1798
+826	"Lep_6385"	"Epirrita dilutata"	"70.107"	"Epirrita dilutata"	"November Moth"	1795
+827	"Lep_6388"	"Epirrita christyi"	"70.108"	"Epirrita christyi"	"Pale November Moth"	1796
+828	"Lep_6397"	"Operophtera brumata"	"70.106"	"Operophtera brumata"	"Winter Moth"	1799
+829	"Lep_6400"	"Operophtera fagata"	"70.105"	"Operophtera fagata"	"Northern Winter Moth"	1800
+830	"Lep_6625"	"Asthena albulata"	"70.111"	"Asthena albulata"	"Small White Wave"	1875
+832	"Lep_6628"	"Hydrelia flammeolaria"	"70.114"	"Hydrelia flammeolaria"	"Small Yellow Wave"	1876
+834	"Lep_6622"	"Euchoeca nebulata"	"70.112"	"Euchoeca nebulata"	"Dingy Shell"	1874
+835	"Lep_6619"	"Venusia cambrica"	"70.115"	"Venusia cambrica"	"Welsh Wave"	1873
+840	"Lep_6526"	"Eupithecia simpliciata"	"70.166"	"Eupithecia simpliciata"	"Plain Pug"	1842
+843	"Lep_6433"	"Eupithecia tenuiata"	"70.147"	"Eupithecia tenuiata"	"Slender Pug"	1811
+844	"Lep_6436"	"Eupithecia inturbata"	"70.148"	"Eupithecia inturbata"	"Maple Pug"	1812
+845	"Lep_6439"	"Eupithecia haworthiata"	"70.146"	"Eupithecia haworthiata"	"Haworth's Pug"	1813
+847	"Lep_6448"	"Eupithecia linariata"	"70.150"	"Eupithecia linariata"	"Toadflax Pug"	1816
+848	"Lep_6451"	"Eupithecia pulchellata"	"70.151"	"Eupithecia pulchellata"	"Foxglove Pug"	1817
+850	"Lep_6457"	"Eupithecia exiguata"	"70.184"	"Eupithecia exiguata"	"Mottled Pug"	1819
+855	"Lep_6475"	"Eupithecia centaureata"	"70.173"	"Eupithecia centaureata"	"Lime-speck Pug"	1825
+857	"Lep_6481"	"Eupithecia intricata"	"70.176"	"Eupithecia intricata"	"Freyer's Pug"	1827
+858	"Lep_6484"	"Eupithecia satyrata"	"70.177"	"Eupithecia satyrata"	"Satyr Pug"	1828
+859	"Lep_6505"	"Eupithecia tripunctaria"	"70.160"	"Eupithecia tripunctaria"	"White-spotted Pug"	1835
+860	"Lep_6490"	"Eupithecia absinthiata"	"70.179"	"Eupithecia absinthiata"	"Wormwood Pug"	1830
+863	"Lep_6496"	"Eupithecia assimilata"	"70.182"	"Eupithecia assimilata"	"Currant Pug"	1832
+864	"Lep_6502"	"Eupithecia vulgata"	"70.183"	"Eupithecia vulgata"	"Common Pug"	1834
+866	"Lep_6511"	"Eupithecia subfuscata"	"70.190"	"Eupithecia subfuscata"	"Grey Pug"	1837
+867	"Lep_6514"	"Eupithecia icterata"	"70.187"	"Eupithecia icterata"	"Tawny Speckled Pug"	1838
+868	"Lep_6517"	"Eupithecia succenturiata"	"70.188"	"Eupithecia succenturiata"	"Bordered Pug"	1839
+869	"Lep_6532"	"Eupithecia indigata"	"70.171"	"Eupithecia indigata"	"Ochreous Pug"	1844
+872	"Lep_10900"	"Eupithecia nanata subsp. angusta"	"70.168"	"Eupithecia nanata"	"Narrow-winged Pug"	1846
+873	"Lep_6544"	"Eupithecia innotata"	"70.169"	"Eupithecia innotata"	"Angle-barred Pug"	1848
+876	"Lep_6553"	"Eupithecia virgaureata"	"70.161"	"Eupithecia virgaureata"	"Golden-rod Pug"	1851
+877	"Lep_6556"	"Eupithecia abbreviata"	"70.156"	"Eupithecia abbreviata"	"Brindled Pug"	1852
+878	"Lep_6559"	"Eupithecia dodoneata"	"70.157"	"Eupithecia dodoneata"	"Oak-tree Pug"	1853
+880	"Lep_6562"	"Eupithecia pusillata"	"70.158"	"Eupithecia pusillata"	"Juniper Pug"	1854
+882	"Lep_6568"	"Eupithecia lariciata"	"70.163"	"Eupithecia lariciata"	"Larch Pug"	1856
+883	"Lep_6571"	"Eupithecia tantillaria"	"70.162"	"Eupithecia tantillaria"	"Dwarf Pug"	1857
+884	"Lep_6574"	"Chloroclystis v-ata"	"70.142"	"Chloroclystis v-ata"	"V-Pug"	1858
+886	"Lep_6580"	"Pasiphila rectangulata"	"70.144"	"Pasiphila rectangulata"	"Green Pug"	1860
+887	"Lep_6586"	"Gymnoscelis rufifasciata"	"70.141"	"Gymnoscelis rufifasciata"	"Double-striped Pug"	1862
+889	"Lep_6652"	"Abraxas grossulariata"	"70.205"	"Abraxas grossulariata"	"Magpie"	1884
+891	"Lep_6661"	"Lomaspilis marginata"	"70.207"	"Lomaspilis marginata"	"Clouded Border"	1887
+892	"Lep_6664"	"Ligdia adustata"	"70.208"	"Ligdia adustata"	"Scorched Carpet"	1888
+894	"Lep_6871"	"Lomographa bimaculata"	"70.279"	"Lomographa bimaculata"	"White-pinion Spotted"	1957
+895	"Lep_6874"	"Lomographa temerata"	"70.280"	"Lomographa temerata"	"Clouded Silver"	1958
+896	"Lep_6865"	"Cabera pusaria"	"70.277"	"Cabera pusaria"	"Common White Wave"	1955
+897	"Lep_6868"	"Cabera exanthemata"	"70.278"	"Cabera exanthemata"	"Common Wave"	1956
+898	"Lep_6886"	"Hylaea fasciaria"	"70.284"	"Hylaea fasciaria"	"Barred Red"	1962
+899	"Lep_6883"	"Campaea margaritaria"	"70.283"	"Campaea margaritaria"	"Light Emerald"	1961
+901	"Lep_6667"	"Macaria notata"	"70.211"	"Macaria notata"	"Peacock Moth"	1889
+902	"Lep_6670"	"Macaria alternata"	"70.212"	"Macaria alternata"	"Sharp-angled Peacock"	1890
+903	"Lep_6679"	"Macaria liturata"	"70.214"	"Macaria liturata"	"Tawny-barred Angle"	1893
+904	"Lep_6880"	"Theria primaria"	"70.282"	"Theria primaria"	"Early Moth"	1960
+905	"Lep_6796"	"Agriopis leucophaearia"	"70.253"	"Agriopis leucophaearia"	"Spring Usher"	1932
+906	"Lep_6799"	"Agriopis aurantiaria"	"70.254"	"Agriopis aurantiaria"	"Scarce Umber"	1933
+907	"Lep_6802"	"Agriopis marginaria"	"70.255"	"Agriopis marginaria"	"Dotted Border"	1934
+908	"Lep_6805"	"Erannis defoliaria"	"70.256"	"Erannis defoliaria"	"Mottled Umber"	1935
+909	"Lep_6709"	"Plagodis pulveraria"	"70.223"	"Plagodis pulveraria"	"Barred Umber"	1903
+910	"Lep_6733"	"Ennomos autumnaria"	"70.232"	"Ennomos autumnaria"	"Large Thorn"	1911
+911	"Lep_6736"	"Ennomos quercinaria"	"70.233"	"Ennomos quercinaria"	"August Thorn"	1912
+912	"Lep_6739"	"Ennomos alniaria"	"70.234"	"Ennomos alniaria"	"Canary-shouldered Thorn"	1913
+913	"Lep_6742"	"Ennomos fuscantaria"	"70.235"	"Ennomos fuscantaria"	"Dusky Thorn"	1914
+914	"Lep_6745"	"Ennomos erosaria"	"70.236"	"Ennomos erosaria"	"September Thorn"	1915
+915	"Lep_6751"	"Selenia dentaria"	"70.237"	"Selenia dentaria"	"Early Thorn"	1917
+916	"Lep_6754"	"Selenia lunularia"	"70.238"	"Selenia lunularia"	"Lunar Thorn"	1918
+917	"Lep_6757"	"Selenia tetralunaria"	"70.239"	"Selenia tetralunaria"	"Purple Thorn"	1919
+918	"Lep_6730"	"Apeira syringaria"	"70.231"	"Apeira syringaria"	"Lilac Beauty"	1910
+919	"Lep_6760"	"Odontopera bidentata"	"70.240"	"Odontopera bidentata"	"Scalloped Hazel"	1920
+920	"Lep_6769"	"Colotois pennaria"	"70.244"	"Colotois pennaria"	"Feathered Thorn"	1923
+921	"Lep_6763"	"Crocallis elinguaria"	"70.241"	"Crocallis elinguaria"	"Scalloped Oak"	1921
+922	"Lep_6712"	"Plagodis dolabraria"	"70.224"	"Plagodis dolabraria"	"Scorched Wing"	1904
+923	"Lep_6718"	"Opisthograptis luteolata"	"70.226"	"Opisthograptis luteolata"	"Brimstone Moth"	1906
+924	"Lep_6721"	"Epione repandaria"	"70.227"	"Epione repandaria"	"Bordered Beauty"	1907
+928	"Lep_6766"	"Ourapteryx sambucaria"	"70.243"	"Ourapteryx sambucaria"	"Swallow-tailed Moth"	1922
+929	"Lep_6778"	"Phigalia pilosaria"	"70.247"	"Phigalia pilosaria"	"Pale Brindled Beauty"	1926
+930	"Lep_6775"	"Apocheima hispidaria"	"70.246"	"Apocheima hispidaria"	"Small Brindled Beauty"	1925
+933	"Lep_6781"	"Lycia hirtaria"	"70.248"	"Lycia hirtaria"	"Brindled Beauty"	1927
+934	"Lep_6790"	"Biston strataria"	"70.251"	"Biston strataria"	"Oak Beauty"	1930
+935	"Lep_6793"	"Biston betularia"	"70.252"	"Biston betularia"	"Peppered Moth"	1931
+936	"Lep_6808"	"Menophra abruptaria"	"70.257"	"Menophra abruptaria"	"Waved Umber"	1936
+938	"Lep_6811"	"Peribatodes rhomboidaria"	"70.258"	"Peribatodes rhomboidaria"	"Willow Beauty"	1937
+939	"Lep_6835"	"Cleorodes lichenaria"	"70.288"	"Cleorodes lichenaria"	"Brussels Lace"	1945
+940	"Lep_6820"	"Deileptenia ribeata"	"70.264"	"Deileptenia ribeata"	"Satin Beauty"	1940
+941	"Lep_6823"	"Alcis repandata"	"70.265"	"Alcis repandata"	"Mottled Beauty"	1941
+943	"Lep_6826"	"Alcis jubata"	"70.266"	"Alcis jubata"	"Dotted Carpet"	1942
+945	"Lep_6832"	"Hypomecis punctinalis"	"70.268"	"Hypomecis punctinalis"	"Pale Oak Beauty"	1944
+946	"Lep_11068"	"Ectropis crepuscularia"	"70.270"	"Ectropis crepuscularia"	"Engrailed"	1947
+949	"Lep_6850"	"Parectropis similaria"	"70.273"	"Parectropis similaria"	"Brindled White-spot"	1950
+950	"Lep_6853"	"Aethalura punctulata"	"70.274"	"Aethalura punctulata"	"Grey Birch"	1951
+952	"Lep_6715"	"Pachycnemia hippocastanaria"	"70.225"	"Pachycnemia hippocastanaria"	"Horse Chestnut"	1905
+959	"Lep_6862"	"Bupalus piniaria"	"70.276"	"Bupalus piniaria"	"Bordered White"	1954
+961	"Lep_6691"	"Macaria wauaria"	"70.215"	"Macaria wauaria"	"V-Moth"	1897
+963	"Lep_6706"	"Petrophora chlorosata"	"70.222"	"Petrophora chlorosata"	"Brown Silver-line"	1902
+964	"Lep_6682"	"Chiasmia clathrata"	"70.218"	"Chiasmia clathrata"	"Latticed Heath"	1894
+965	"Lep_6907"	"Dyscia fagaria"	"70.292"	"Dyscia fagaria"	"Grey Scalloped Bar"	1969
+968	"Lep_6904"	"Aspitates ochrearia"	"70.294"	"Aspitates ochrearia"	"Yellow Belle"	1968
+266	"Lep_1042"	"Hepialus humuli"	"3.005"	"Hepialus humuli"	"Ghost Moth"	14
+267	"Lep_1045"	"Triodia sylvina"	"3.001"	"Triodia sylvina"	"Orange Swift"	15
+268	"Lep_1054"	"Korscheltellus fusconebulosa"	"3.003"	"Korscheltellus fusconebulosa"	"Map-winged Swift"	18
+269	"Lep_1051"	"Korscheltellus lupulina"	"3.002"	"Korscheltellus lupulina"	"Common Swift"	17
+270	"Lep_1048"	"Phymatopus hecta"	"3.004"	"Phymatopus hecta"	"Gold Swift"	16
+145	"Lep_5902"	"Malacosoma neustria"	"66.003"	"Malacosoma neustria"	"Lackey"	1634
+147	"Lep_5896"	"Trichiura crataegi"	"66.002"	"Trichiura crataegi"	"Pale Eggar"	1632
+148	"Lep_5893"	"Poecilocampa populi"	"66.001"	"Poecilocampa populi"	"December Moth"	1631
+150	"Lep_5911"	"Lasiocampa quercus"	"66.007"	"Lasiocampa quercus"	"Oak Eggar"	1637
+152	"Lep_5914"	"Macrothylacia rubi"	"66.008"	"Macrothylacia rubi"	"Fox Moth"	1638
+154	"Lep_5920"	"Euthrix potatoria"	"66.010"	"Euthrix potatoria"	"Drinker"	1640
+156	"Lep_5926"	"Gastropacha quercifolia"	"66.012"	"Gastropacha quercifolia"	"Lappet"	1642
+1001	"Lep_5194"	"Nomophila noctuella"	"63.052"	"Nomophila noctuella"	"Rush Veneer"	1398
+1015	"Lep_5185"	"Udea ferrugalis"	"63.031"	"Udea ferrugalis"	"Rusty-dot Pearl"	1395
+2178	"Lep_2392"	"Plutella xylostella"	"18.001"	"Plutella xylostella"	"Diamond-back Moth"	464
+273	"Lep_7246"	"Euxoa nigricans"	"73.314"	"Euxoa nigricans"	"Garden Dart"	2082
+274	"Lep_7243"	"Euxoa tritici"	"73.313"	"Euxoa tritici"	"White-line Dart"	2081
+277	"Lep_7261"	"Agrotis segetum"	"73.319"	"Agrotis segetum"	"Turnip Moth"	2087
+280	"Lep_7264"	"Agrotis clavis"	"73.320"	"Agrotis clavis"	"Heart & Club"	2088
+282	"Lep_7276"	"Agrotis puta"	"73.325"	"Agrotis puta"	"Shuttle-shaped Dart"	2092
+285	"Lep_7267"	"Agrotis exclamationis"	"73.317"	"Agrotis exclamationis"	"Heart & Dart"	2089
+286	"Lep_7273"	"Agrotis ipsilon"	"73.327"	"Agrotis ipsilon"	"Dark Sword-grass"	2091
+289	"Lep_7354"	"Lycophotia porphyrea"	"73.338"	"Lycophotia porphyrea"	"True Lover's Knot"	2118
+295	"Lep_7339"	"Spaelotis ravida"	"73.349"	"Spaelotis ravida"	"Stout Dart"	2113
+297	"Lep_7342"	"Graphiphora augur"	"73.351"	"Graphiphora augur"	"Double Dart"	2114
+298	"Lep_7366"	"Diarsia brunnea"	"73.332"	"Diarsia brunnea"	"Purple Clay"	2122
+299	"Lep_7360"	"Diarsia mendica"	"73.333"	"Diarsia mendica"	"Ingrailed Clay"	2120
+301	"Lep_7363"	"Diarsia dahlii"	"73.331"	"Diarsia dahlii"	"Barred Chestnut"	2121
+302	"Lep_7369"	"Diarsia rubi"	"73.334"	"Diarsia rubi"	"Small Square-spot"	2123
+304	"Lep_7306"	"Ochropleura plecta"	"73.329"	"Ochropleura plecta"	"Flame Shoulder"	2102
+305	"Lep_7405"	"Xestia agathina"	"73.356"	"Xestia agathina"	"Heath Rustic"	2135
+309	"Lep_7351"	"Eugnorisma glareosa"	"73.365"	"Eugnorisma glareosa"	"Autumnal Rustic"	2117
+310	"Lep_7396"	"Xestia castanea"	"73.355"	"Xestia castanea"	"Neglected Rustic"	2132
+311	"Lep_7390"	"Xestia baja"	"73.353"	"Xestia baja"	"Dotted Clay"	2130
+313	"Lep_7378"	"Xestia c-nigrum"	"73.359"	"Xestia c-nigrum"	"Setaceous Hebrew Character"	2126
+314	"Lep_7381"	"Xestia ditrapezium"	"73.360"	"Xestia ditrapezium"	"Triple-spotted Clay"	2127
+315	"Lep_7384"	"Xestia triangulum"	"73.361"	"Xestia triangulum"	"Double Square-spot"	2128
+317	"Lep_7399"	"Xestia sexstrigata"	"73.358"	"Xestia sexstrigata"	"Six-striped Rustic"	2133
+318	"Lep_7402"	"Xestia xanthographa"	"73.357"	"Xestia xanthographa"	"Square-spot Rustic"	2134
+319	"Lep_7294"	"Axylia putris"	"73.328"	"Axylia putris"	"Flame"	2098
+320	"Lep_7414"	"Anaplectoides prasina"	"73.352"	"Anaplectoides prasina"	"Green Arches"	2138
+323	"Lep_7417"	"Cerastis rubricosa"	"73.336"	"Cerastis rubricosa"	"Red Chestnut"	2139
+324	"Lep_7408"	"Naenia typica"	"73.368"	"Naenia typica"	"Gothic"	2136
+327	"Lep_7327"	"Noctua comes"	"73.345"	"Noctua comes"	"Lesser Yellow Underwing"	2109
+329	"Lep_7333"	"Noctua janthe"	"73.348"	"Noctua janthe"	"Lesser Broad-bordered Yellow Underwing"	2111
+330	"Lep_9291"	"Noctua interjecta subsp. caliginosa"	"73.346"	"Noctua interjecta caliginosa"	"Least Yellow Underwing"	2112
+331	"Lep_7321"	"Noctua pronuba"	"73.342"	"Noctua pronuba"	"Large Yellow Underwing"	2107
+332	"Lep_7330"	"Noctua fimbriata"	"73.343"	"Noctua fimbriata"	"Broad-bordered Yellow Underwing"	2110
+345	"Lep_7462"	"Mamestra brassicae"	"73.274"	"Mamestra brassicae"	"Cabbage Moth"	2154
+346	"Lep_7465"	"Melanchra persicariae"	"73.270"	"Melanchra persicariae"	"Dot Moth"	2155
+349	"Lep_7450"	"Polia nebulosa"	"73.261"	"Polia nebulosa"	"Grey Arches"	2150
+351	"Lep_7480"	"Lacanobia oleracea"	"73.267"	"Lacanobia oleracea"	"Bright-line Brown-eye"	2160
+353	"Lep_7489"	"Ceramica pisi"	"73.271"	"Ceramica pisi"	"Broom Moth"	2163
+354	"Lep_7441"	"Hada plebeja"	"73.273"	"Hada plebeja"	"Shears"	2147
+355	"Lep_7435"	"Anarta trifolii"	"73.255"	"Anarta trifolii"	"Nutmeg"	2145
+359	"Lep_7474"	"Lacanobia thalassina"	"73.264"	"Lacanobia thalassina"	"Pale-shouldered Brocade"	2158
+361	"Lep_7486"	"Papestra biren"	"73.272"	"Papestra biren"	"Glaucous Shears"	2162
+363	"Lep_7492"	"Hecatera bicolorata"	"73.279"	"Hecatera bicolorata"	"Broad-barred White"	2164
+368	"Lep_7519"	"Hadena bicruris"	"73.281"	"Hadena bicruris"	"Lychnis"	2173
+370	"Lep_7498"	"Sideridis rivularis"	"73.276"	"Sideridis rivularis"	"Campion"	2166
+371	"Lep_9227"	"Hadena perplexa subsp. perplexa"	"73.286"	"Hadena perplexa perplexa"	"Tawny Shears"	2167
+376	"Lep_7534"	"Tholera decimalis"	"73.253"	"Tholera decimalis"	"Feathered Gothic"	2178
+377	"Lep_7531"	"Tholera cespitis"	"73.252"	"Tholera cespitis"	"Hedge Rustic"	2177
+378	"Lep_7528"	"Cerapteryx graminis"	"73.254"	"Cerapteryx graminis"	"Antler Moth"	2176
+382	"Lep_7570"	"Orthosia gothica"	"73.249"	"Orthosia gothica"	"Hebrew Character"	2190
+384	"Lep_7546"	"Orthosia cruda"	"73.245"	"Orthosia cruda"	"Small Quaker"	2182
+385	"Lep_7561"	"Orthosia cerasi"	"73.244"	"Orthosia cerasi"	"Common Quaker"	2187
+386	"Lep_7555"	"Orthosia populeti"	"73.246"	"Orthosia populeti"	"Lead-coloured Drab"	2185
+387	"Lep_7564"	"Orthosia incerta"	"73.242"	"Orthosia incerta"	"Clouded Drab"	2188
+388	"Lep_7567"	"Anorthoa munda"	"73.250"	"Anorthoa munda"	"Twin-spotted Quaker"	2189
+390	"Lep_7558"	"Orthosia gracilis"	"73.247"	"Orthosia gracilis"	"Powdered Quaker"	2186
+391	"Lep_7537"	"Panolis flammea"	"73.241"	"Panolis flammea"	"Pine Beauty"	2179
+393	"Lep_7597"	"Mythimna pallens"	"73.291"	"Mythimna pallens"	"Common Wainscot"	2199
+395	"Lep_7594"	"Mythimna impura"	"73.293"	"Mythimna impura"	"Smoky Wainscot"	2198
+400	"Lep_7615"	"Leucania comma"	"73.301"	"Leucania comma"	"Shoulder-striped Wainscot"	2205
+406	"Lep_7582"	"Mythimna albipuncta"	"73.297"	"Mythimna albipuncta"	"White-point"	2194
+407	"Lep_7579"	"Mythimna ferrago"	"73.298"	"Mythimna ferrago"	"Clay"	2193
+408	"Lep_7576"	"Mythimna conigera"	"73.290"	"Mythimna conigera"	"Brown-line Bright-eye"	2192
+410	"Lep_8182"	"Stilbia anomala"	"73.061"	"Stilbia anomala"	"Anomalous"	2394
+411	"Lep_8125"	"Rhizedra lutosa"	"73.134"	"Rhizedra lutosa"	"Large Wainscot"	2375
+413	"Lep_8050"	"Denticucullus pygmina"	"73.144"	"Denticucullus pygmina"	"Small Wainscot"	2350
+427	"Lep_8137"	"Coenobia rufa"	"73.142"	"Coenobia rufa"	"Small Rufous"	2379
+429	"Lep_8140"	"Charanyca trigrammica"	"73.101"	"Charanyca trigrammica"	"Treble Lines"	2380
+430	"Lep_8161"	"Caradrina morpheus"	"73.092"	"Caradrina morpheus"	"Mottled Rustic"	2387
+431	"Lep_8143"	"Hoplodrina octogenaria"	"73.096"	"Hoplodrina octogenaria"	"Uncertain"	2381
+432	"Lep_8146"	"Hoplodrina blanda"	"73.097"	"Hoplodrina blanda"	"Rustic"	2382
+433	"Lep_8152"	"Hoplodrina ambigua"	"73.099"	"Hoplodrina ambigua"	"Vine's Rustic"	2384
+435	"Lep_8167"	"Caradrina clavipalpis"	"73.095"	"Caradrina clavipalpis"	"Pale Mottled Willow"	2389
+441	"Lep_7966"	"Apamea lithoxylaea"	"73.163"	"Apamea lithoxylaea"	"Light Arches"	2322
+444	"Lep_7963"	"Apamea monoglypha"	"73.162"	"Apamea monoglypha"	"Dark Arches"	2321
+446	"Lep_7981"	"Apamea epomidion"	"73.155"	"Apamea epomidion"	"Clouded Brindle"	2327
+447	"Lep_7978"	"Apamea crenata"	"73.156"	"Apamea crenata"	"Clouded-bordered Brindle"	2326
+448	"Lep_8002"	"Apamea sordens"	"73.158"	"Apamea sordens"	"Rustic Shoulder-knot"	2334
+449	"Lep_7993"	"Apamea unanimis"	"73.159"	"Apamea unanimis"	"Small Clouded Brindle"	2331
+452	"Lep_7999"	"Apamea anceps"	"73.157"	"Apamea anceps"	"Large Nutmeg"	2333
+454	"Lep_7990"	"Apamea remissa"	"73.154"	"Apamea remissa"	"Dusky Brocade"	2330
+455	"Lep_8005"	"Apamea scolopacina"	"73.160"	"Apamea scolopacina"	"Slender Brindle"	2335
+457	"Lep_8008"	"Lateroligia ophiogramma"	"73.168"	"Lateroligia ophiogramma"	"Double Lobed"	2336
+458	"Lep_7942"	"Apterogenum ypsillon"	"73.222"	"Apterogenum ypsillon"	"Dingy Shears"	2314
+461	"Lep_8056"	"Eremobia ochroleuca"	"73.120"	"Eremobia ochroleuca"	"Dusky Sallow"	2352
+462	"Lep_8011"	"Oligia strigilis"	"73.173"	"Oligia strigilis"	"Marbled Minor"	2337
+463	"Lep_8017"	"Oligia latruncula"	"73.174"	"Oligia latruncula"	"Tawny Marbled Minor"	2339
+464	"Lep_8014"	"Oligia versicolor"	"73.175"	"Oligia versicolor"	"Rufous Minor"	2338
+465	"Lep_8020"	"Oligia fasciuncula"	"73.176"	"Oligia fasciuncula"	"Middle-barred Minor"	2340
+466	"Lep_8026"	"Litoligia literosa"	"73.171"	"Litoligia literosa"	"Rosy Minor"	2342
+467	"Lep_8023"	"Mesoligia furuncula"	"73.172"	"Mesoligia furuncula"	"Cloaked Minor"	2341
+469	"Lep_8059"	"Luperina testacea"	"73.131"	"Luperina testacea"	"Flounced Rustic"	2353
+472	"Lep_7915"	"Euplexia lucipara"	"73.114"	"Euplexia lucipara"	"Small Angle Shades"	2305
+473	"Lep_7918"	"Phlogophora meticulosa"	"73.113"	"Phlogophora meticulosa"	"Angle Shades"	2306
+476	"Lep_7909"	"Thalpophila matura"	"73.109"	"Thalpophila matura"	"Straw Underwing"	2303
+478	"Lep_8035"	"Photedes minima"	"73.147"	"Photedes minima"	"Small Dotted Buff"	2345
+481	"Lep_8101"	"Celaena haworthii"	"73.118"	"Celaena haworthii"	"Haworth's Minor"	2367
+482	"Lep_9132"	"Helotropha leucostigma subsp. leucostigma"	"73.119"	"Helotropha leucostigma leucostigma"	"Crescent"	2368
+484	"Lep_8080"	"Amphipoea oculea"	"73.128"	"Amphipoea oculea"	"Ear Moth"	2360
+486	"Lep_8071"	"Amphipoea lucens"	"73.127"	"Amphipoea lucens"	"Large Ear"	2357
+487	"Lep_8077"	"Amphipoea crinanensis"	"73.129"	"Amphipoea crinanensis"	"Crinan Ear"	2359
+488	"Lep_8083"	"Hydraecia micacea"	"73.123"	"Hydraecia micacea"	"Rosy Rustic"	2361
+490	"Lep_8092"	"Gortyna flavago"	"73.121"	"Gortyna flavago"	"Frosted Orange"	2364
+493	"Lep_7957"	"Cosmia pyralina"	"73.217"	"Cosmia pyralina"	"Lunar-spotted Pinion"	2319
+494	"Lep_7948"	"Cosmia affinis"	"73.215"	"Cosmia affinis"	"Lesser-spotted Pinion"	2316
+496	"Lep_7954"	"Cosmia trapezina"	"73.216"	"Cosmia trapezina"	"Dun-bar"	2318
+502	"Lep_7891"	"Amphipyra pyramidea"	"73.062"	"Amphipyra pyramidea"	"Copper Underwing"	2297
+503	"Lep_7897"	"Amphipyra tragopoginis"	"73.064"	"Amphipyra tragopoginis"	"Mouse Moth"	2299
+504	"Lep_7906"	"Rusina ferruginea"	"73.102"	"Rusina ferruginea"	"Brown Rustic"	2302
+506	"Lep_7879"	"Bryophila domestica"	"73.084"	"Bryophila domestica"	"Marbled Beauty"	2293
+514	"Lep_7834"	"Subacronicta megacephala"	"73.046"	"Subacronicta megacephala"	"Poplar Grey"	2278
+518	"Lep_7852"	"Acronicta psi"	"73.038"	"Acronicta psi"	"Grey Dagger"	2284
+523	"Lep_7867"	"Acronicta rumicis"	"73.045"	"Acronicta rumicis"	"Knot Grass"	2289
+524	"Lep_7873"	"Craniophora ligustri"	"73.047"	"Craniophora ligustri"	"Coronet"	2291
+539	"Lep_7708"	"Lithophane socia"	"73.201"	"Lithophane socia"	"Pale Pinion"	2236
+540	"Lep_9256"	"Lithophane leautieri subsp. hesperica"	"73.206"	"Lithophane leautieri hesperica"	"Blair's Shoulder-knot"	2240
+543	"Lep_9258"	"Lithophane ornitopus subsp. lactipennis"	"73.202"	"Lithophane ornitopus lactipennis"	"Grey Shoulder-knot"	2237
+545	"Lep_7723"	"Xylena vetusta"	"73.209"	"Xylena vetusta"	"Red Sword-grass"	2241
+546	"Lep_7729"	"Xylocampa areola"	"73.069"	"Xylocampa areola"	"Early Grey"	2243
+550	"Lep_7681"	"Asteroscopus sphinx"	"73.065"	"Asteroscopus sphinx"	"Sprawler"	2227
+552	"Lep_7675"	"Brachylomia viminalis"	"73.220"	"Brachylomia viminalis"	"Minor Shoulder-knot"	2225
+553	"Lep_7693"	"Aporophyla lutulenta"	"73.231"	"Aporophyla lutulenta"	"Deep-brown Dart"	2231
+555	"Lep_7696"	"Aporophyla nigra"	"73.233"	"Aporophyla nigra"	"Black Rustic"	2232
+557	"Lep_7735"	"Allophyes oxyacanthae"	"73.068"	"Allophyes oxyacanthae"	"Green-brindled Crescent"	2245
+559	"Lep_7741"	"Griposia aprilina"	"73.224"	"Griposia aprilina"	"Merveille du Jour"	2247
+562	"Lep_7750"	"Mniotype adusta"	"73.238"	"Mniotype adusta"	"Dark Brocade"	2250
+563	"Lep_7765"	"Polymixis lichenea"	"73.235"	"Polymixis lichenea"	"Feathered Ranunculus"	2255
+565	"Lep_7744"	"Dryobotodes eremita"	"73.225"	"Dryobotodes eremita"	"Brindled Green"	2248
+567	"Lep_7687"	"Dasypolia templi"	"73.234"	"Dasypolia templi"	"Brindled Ochre"	2229
+568	"Lep_7756"	"Polymixis flavicincta"	"73.237"	"Polymixis flavicincta"	"Large Ranunculus"	2252
+569	"Lep_7762"	"Antitype chi"	"73.228"	"Antitype chi"	"Grey Chi"	2254
+571	"Lep_7768"	"Eupsilia transversa"	"73.210"	"Eupsilia transversa"	"Satellite"	2256
+573	"Lep_7780"	"Conistra rubiginea"	"73.197"	"Conistra rubiginea"	"Dotted Chestnut"	2260
+574	"Lep_7810"	"Omphaloscelis lunosa"	"73.193"	"Omphaloscelis lunosa"	"Lunar Underwing"	2270
+575	"Lep_7789"	"Agrochola lota"	"73.189"	"Agrochola lota"	"Red-line Quaker"	2263
+576	"Lep_7792"	"Agrochola macilenta"	"73.190"	"Agrochola macilenta"	"Yellow-line Quaker"	2264
+577	"Lep_7786"	"Agrochola circellaris"	"73.192"	"Agrochola circellaris"	"Brick"	2262
+578	"Lep_7801"	"Agrochola lychnidis"	"73.186"	"Agrochola lychnidis"	"Beaded Chestnut"	2267
+579	"Lep_7795"	"Agrochola helvola"	"73.188"	"Agrochola helvola"	"Flounced Chestnut"	2265
+580	"Lep_7798"	"Agrochola litura"	"73.187"	"Agrochola litura"	"Brown-spot Pinion"	2266
+581	"Lep_7807"	"Atethmia centrago"	"73.219"	"Atethmia centrago"	"Centre-barred Sallow"	2269
+582	"Lep_7813"	"Tiliacea citrago"	"73.179"	"Tiliacea citrago"	"Orange Sallow"	2271
+583	"Lep_7816"	"Tiliacea aurago"	"73.180"	"Tiliacea aurago"	"Barred Sallow"	2272
+584	"Lep_7819"	"Xanthia togata"	"73.181"	"Xanthia togata"	"Pink-barred Sallow"	2273
+585	"Lep_7822"	"Cirrhia icteritia"	"73.182"	"Cirrhia icteritia"	"Sallow"	2274
+586	"Lep_7825"	"Cirrhia gilvago"	"73.183"	"Cirrhia gilvago"	"Dusky-lemon Sallow"	2275
+590	"Lep_7774"	"Conistra vaccinii"	"73.194"	"Conistra vaccinii"	"Chestnut"	2258
+591	"Lep_7777"	"Conistra ligula"	"73.195"	"Conistra ligula"	"Dark Chestnut"	2259
+603	"Lep_8230"	"Deltote pygarga"	"73.024"	"Deltote pygarga"	"Marbled White Spot"	2410
+617	"Lep_8275"	"Colocasia coryli"	"73.032"	"Colocasia coryli"	"Nut-tree Tussock"	2425
+619	"Lep_7060"	"Diloba caeruleocephala"	"73.033"	"Diloba caeruleocephala"	"Figure of Eight"	2020
+621	"Lep_8311"	"Polychrysia moneta"	"73.014"	"Polychrysia moneta"	"Golden Plusia"	2437
+623	"Lep_8302"	"Diachrysia chrysitis"	"73.012"	"Diachrysia chrysitis"	"Burnished Brass"	2434
+626	"Lep_8332"	"Autographa bractea"	"73.018"	"Autographa bractea"	"Gold Spangle"	2444
+627	"Lep_8317"	"Plusia festucae"	"73.022"	"Plusia festucae"	"Gold Spot"	2439
+630	"Lep_8329"	"Autographa jota"	"73.017"	"Autographa jota"	"Plain Golden Y"	2443
+631	"Lep_8326"	"Autographa pulchrina"	"73.016"	"Autographa pulchrina"	"Beautiful Golden Y"	2442
+635	"Lep_8323"	"Autographa gamma"	"73.015"	"Autographa gamma"	"Silver Y"	2441
+636	"Lep_8341"	"Syngrapha interrogationis"	"73.021"	"Syngrapha interrogationis"	"Scarce Silver Y"	2447
+638	"Lep_8347"	"Abrostola triplasia"	"73.002"	"Abrostola triplasia"	"Dark Spectacle"	2449
+639	"Lep_8350"	"Abrostola tripartita"	"73.001"	"Abrostola tripartita"	"Spectacle"	2450
+3392	"Lep_9081"	"Mesapamea secalis/didyma"			"Common Rustic/Lesser Common Rustic"	
+3394	"Lep_9098"	"Amphipyra berbera subsp. berbera"	"73.063"	"Amphipyra berbera berbera"	"Svensson's Copper Underwing"	2298
+166	"Lep_7231"	"Nola cucullatella"	"74.003"	"Nola cucullatella"	"Short-cloaked Moth"	2077
+168	"Lep_7228"	"Meganola albula"	"74.002"	"Meganola albula"	"Kent Black Arches"	2076
+169	"Lep_7234"	"Nola confusalis"	"74.004"	"Nola confusalis"	"Least Black Arches"	2078
+592	"Lep_10724"	"Pseudoips prasinana subsp. britannica"	"74.008"	"Pseudoips prasinana britannica"	"Green Silver-lines"	2422
+595	"Lep_8269"	"Nycteola revayana"	"74.009"	"Nycteola revayana"	"Oak Nycteoline"	2423
+104	"Lep_6997"	"Stauropus fagi"	"71.009"	"Stauropus fagi"	"Lobster Moth"	1999
+106	"Lep_7042"	"Drymonia dodonaea"	"71.010"	"Drymonia dodonaea"	"Marbled Brown"	2014
+107	"Lep_7045"	"Drymonia ruficornis"	"71.011"	"Drymonia ruficornis"	"Lunar Marbled Brown"	2015
+108	"Lep_7021"	"Pheosia tremula"	"71.017"	"Pheosia tremula"	"Swallow Prominent"	2007
+109	"Lep_7018"	"Pheosia gnoma"	"71.018"	"Pheosia gnoma"	"Lesser Swallow Prominent"	2006
+110	"Lep_7009"	"Notodonta ziczac"	"71.013"	"Notodonta ziczac"	"Pebble Prominent"	2003
+111	"Lep_7000"	"Notodonta dromedarius"	"71.012"	"Notodonta dromedarius"	"Iron Prominent"	2000
+114	"Lep_7015"	"Peridea anceps"	"71.016"	"Peridea anceps"	"Great Prominent"	2005
+117	"Lep_7024"	"Ptilodon capucina"	"71.021"	"Ptilodon capucina"	"Coxcomb Prominent"	2008
+118	"Lep_7030"	"Odontosia carmelita"	"71.023"	"Odontosia carmelita"	"Scarce Prominent"	2010
+120	"Lep_7033"	"Pterostoma palpina"	"71.020"	"Pterostoma palpina"	"Pale Prominent"	2011
+121	"Lep_6982"	"Phalera bucephala"	"71.025"	"Phalera bucephala"	"Buff-tip"	1994
+122	"Lep_7057"	"Clostera curtula"	"71.027"	"Clostera curtula"	"Chocolate-tip"	2019
+159	"Lep_5929"	"Saturnia pavonia"	"68.001"	"Saturnia pavonia"	"Emperor Moth"	1643
+80	"Lep_6943"	"Laothoe populi"	"69.003"	"Laothoe populi"	"Poplar Hawk-moth"	1981
+96	"Lep_6973"	"Deilephila elpenor"	"69.016"	"Deilephila elpenor"	"Elephant Hawk-moth"	1991

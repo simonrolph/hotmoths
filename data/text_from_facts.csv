@@ -1,0 +1,9 @@
+feature,value,text
+diurnal,TRUE,I love the sun
+diurnal,TRUE,"Suns out, wings out"
+diurnal,FALSE,I love lamp
+resident,TRUE,#bornandraised
+resident,FALSE,Just winging it
+diurnal,FALSE,Lamps are the best!
+resident,TRUE,Local landlubber
+resident,FALSE,My grace unfolds like nothing else!

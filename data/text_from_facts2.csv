@@ -1,0 +1,57 @@
+feature,value,text
+diurnal,TRUE,I love the sun
+diurnal,TRUE,"Suns out, wings out"
+diurnal,TRUE,Beach holidays? Yes please
+diurnal,TRUE,Sun sun sun
+diurnal,TRUE,Afraid of the dark
+diurnal,FALSE,I love lamp
+diurnal,FALSE,Lamps are the best
+diurnal,FALSE,Bit of a stargazer
+diurnal,FALSE,Definitely a night owl
+diurnal,FALSE,Always napping in the daytime
+diurnal,FALSE,Leave a light on
+resident,TRUE,Local landlubber
+resident,TRUE,#bornandraised
+resident,TRUE,I've never had a passport
+resident,TRUE,Local
+resident,TRUE,Local
+resident,FALSE,Just winging it
+resident,FALSE,My grace unfolds like nothing else!
+resident,FALSE,Going travelling on my gap year
+resident,FALSE,Traveller
+resident,FALSE,Traveller
+pickiness,O,A limited palatte when it comes to food
+pickiness,O,A bit picky
+pickiness,O,Not much of a foodie
+pickiness,O,"Picky, but I like a bit of culinary vareity"
+pickiness,O,Salads only please
+pickiness,P,Not fussy about food
+pickiness,P,If it's green I'll eat it
+pickiness,P,"All the foods, all the time"
+pickiness,P,"Ice cream or anchovies, I don't mind"
+pickiness,P,Always dinner time
+pickiness,M,Very choosy with my food
+pickiness,M,"Keep it simple, only eat one thing"
+pickiness,M,Very picky with my food
+pickiness,M,Always have to take my own dinner if we go out
+pickiness,M,Picky with food
+widespread,TRUE,Big family
+widespread,TRUE,I get about the country
+widespread,TRUE,Bit of a commoner
+widespread,TRUE,Just your everyday
+widespread,TRUE,"You'll bump into me, I'm always about"
+widespread,FALSE,Keep it local
+widespread,FALSE,1 in a million
+widespread,FALSE,A real catch
+widespread,FALSE,"Rare, but don't care."
+widespread,FALSE,Don't get about much.
+big,TRUE,Taller than average
+big,TRUE,You'll see me coming
+big,TRUE,Big lad
+big,TRUE,"Larger than average, but I'm not going to apologise"
+big,TRUE,Big wings means big… heart
+big,FALSE,Shorter than average
+big,FALSE,Size isn't everything
+big,FALSE,Small but beautiful
+big,FALSE,A bit of a wee one
+big,FALSE,Small but powerful

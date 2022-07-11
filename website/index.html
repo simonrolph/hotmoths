@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Hot Moths</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Contrail+One&display=swap" rel="stylesheet">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_io//favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_io//favicon-16x16.png">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="tinder">
+  <h1>Hot Moths <i class="fa fa-fire"></i><p style="font-size: 20px;">in your area</p></h1>
+  
+  <div class="tinder--status">
+      
+    <i class="fa fa-ban"></i>
+    <i class="fa fa-heart"></i>
+  </div>
+
+
+<!-- intro Modal -->
+<div id="titleModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <h3>Welcome to Hot Moths</h3>
+    <p>Researchers at the UK Centre for Ecology & Hydrology have developed a sophisitcated AI algorithm for translating moth communications into human readable text.</p>
+    <p>On first contact, the moths expressed their deep concern about their poor reputation as 'carpet eaters' and 'hole makers'.</p>
+    <p>We have worked with the moth community develop a sophisitcated platform to help humans match with moth counterparts.</p>
+    <p>We hope this will usher in a new era of moth-human relations.</p>
+    <br>
+    <button onclick="closetitle()" id="closebutton">Find moths near you</button>
+  </div>
+
+</div>
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h3>It's a match!</h3>
+    <p>When the AI is further developed you'll be able to chat to your new moth friend in realtime, but for now why check out the profiles of some other moths.</p>
+    <br>
+  </div>
+
+</div>
+
+  
+
+  <div class="tinder--cards" id="tindercards">
+    <div class="tinder--card">
+      <img src="https://butterfly-conservation.org/sites/default/files/styles/srcset_medium/public/2018-06/34575316620_e27f38176c_o.jpg">
+      <h3>Elephant Hawkmoth</h3>
+      <p><a id="locationtext"><i class="fa fa-map-marker"></i> <span id="moth-dist-1">?</span> km from your location</a></p>
+      <p>I like lamps</p>
+      <p>I am sad</p>
+      <p>I like the black of the night</p>
+    </div>
+    <div class="tinder--card">
+      <img src="https://placeimg.com/600/300/nature">
+      <h3>Demo card 2</h3>
+      <p>This is a demo for Tinder like swipe cards</p>
+    </div>
+    <div class="tinder--card">
+      <img src="https://placeimg.com/600/300/nature">
+      <h3>Demo card 3</h3>
+      <p>This is a demo for Tinder like swipe cards</p>
+    </div>
+    <div class="tinder--card">
+      <img src="https://placeimg.com/600/300/nature">
+      <h3>Demo card 4</h3>
+      <p>This is a demo for Tinder like swipe cards</p>
+    </div>
+    <div class="tinder--card">
+      <img src="https://placeimg.com/600/300/nature">
+      <h3>Demo card 5</h3>
+      <p>This is a demo for Tinder like swipe cards</p>
+    </div>
+  </div>
+
+  <div class="tinder--buttons">
+    <button id="nope"><i class="fa fa-ban"></i></button>
+    <a href="https://butterfly-conservation.org/moths"><button id="info" ><i class="fa fa-info"></i></button></a>
+    <button id="love"><i class="fa fa-heart"></i></button>
+  </div>
+</div>
+<!-- partial -->
+  <script src='https://hammerjs.github.io/dist/hammer.min.js'></script>
+  
+  <script  src="./script.js"></script>
+
+
+
+</body>
+</html>

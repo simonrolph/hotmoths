@@ -1,0 +1,2022 @@
+abh_number ,b&f_number ,scientific_name ,vernacular_name ,family 
+1.001,1,Micropterix tunbergella,,Micropterigidae
+1.002,2,Micropterix mansuetella,,Micropterigidae
+1.003,3,Micropterix aureatella,,Micropterigidae
+1.004,4,Micropterix aruncella,,Micropterigidae
+1.005,5,Micropterix calthella,,Micropterigidae
+2,,Eriocraniidae,,Eriocraniidae
+2.001,6,Dyseriocrania subpurpurella,,Eriocraniidae
+2.002,7,Paracrania chrysolepidella,,Eriocraniidae
+2.003,8,Eriocrania unimaculella,,Eriocraniidae
+2.004,9,Eriocrania sparrmannella,,Eriocraniidae
+2.005,10,Eriocrania salopiella,,Eriocraniidae
+2.006,11,Eriocrania cicatricella,,Eriocraniidae
+2.006,,Eriocrania haworthi,,Eriocraniidae
+2.006,,Eriocrania purpurella,,Eriocraniidae
+2.007,13,Eriocrania semipurpurella,,Eriocraniidae
+2.008,12,Eriocrania sangii,,Eriocraniidae
+4.001,118,Enteucha acetosae,,Nepticulidae
+4.002,116,Stigmella lapponica,,Nepticulidae
+4.003,117,Stigmella confusella,,Nepticulidae
+4.004,90,Stigmella tiliae,,Nepticulidae
+4.005,110,Stigmella betulicola,,Nepticulidae
+4.005,,Stigmella betulicola f. nanivora,,Nepticulidae
+4.006,113,Stigmella sakhalinella,,Nepticulidae
+4.007,112,Stigmella luteella,,Nepticulidae
+4.008,114,Stigmella glutinosae,,Nepticulidae
+4.008,,Stigmella distinguenda,,Nepticulidae
+4.009,115,Stigmella alnetella,,Nepticulidae
+4.01,111,Stigmella microtheriella,,Nepticulidae
+4.011,109,Stigmella prunetorum,,Nepticulidae
+4.012,102,Stigmella aceris,,Nepticulidae
+4.013,97,Stigmella malella,Apple Pygmy,Nepticulidae
+4.014,98,Stigmella catharticella,,Nepticulidae
+4.015,92,Stigmella anomalella,Rose Leaf Miner,Nepticulidae
+4.016,94,Stigmella spinosissimae,,Nepticulidae
+4.017,93,Stigmella centifoliella,,Nepticulidae
+4.018,80,Stigmella ulmivora,,Nepticulidae
+4.018,,Stigmella ulmiphaga,,Nepticulidae
+4.019,95,Stigmella viscerella,,Nepticulidae
+4.02,82,Stigmella paradoxa,,Nepticulidae
+4.021,106,Stigmella torminalis,,Nepticulidae
+4.022,107,Stigmella regiella,,Nepticulidae
+4.023,108,Stigmella crataegella,,Nepticulidae
+4.024,104,Stigmella magdalenae,,Nepticulidae
+4.025,103,Stigmella nylandriella,,Nepticulidae
+4.025,,Stigmella aucupariae,,Nepticulidae
+4.026,100,Stigmella oxyacanthella,,Nepticulidae
+4.027,101,Stigmella pyri,,Nepticulidae
+4.028,91,Stigmella minusculella,,Nepticulidae
+4.029,105,Stigmella desperatella,,Nepticulidae
+4.03,99,Stigmella hybnerella,,Nepticulidae
+4.03,,Stigmella ignobilella,,Nepticulidae
+4.031,99a,Stigmella mespilicola,,Nepticulidae
+4.032,75,Stigmella floslactella,,Nepticulidae
+4.033,76,Stigmella carpinella,,Nepticulidae
+4.034,77,Stigmella tityrella,,Nepticulidae
+4.035,68,Stigmella salicis,,Nepticulidae
+4.035,,Stigmella auritella,,Nepticulidae
+4.036,72,Stigmella myrtillella,,Nepticulidae
+4.037,71,Stigmella zelleriella,,Nepticulidae
+4.037,,Stigmella repentiella,,Nepticulidae
+4.038,70,Stigmella obliquella,,Nepticulidae
+4.039,73,Stigmella trimaculella,,Nepticulidae
+4.04,74,Stigmella assimilella,,Nepticulidae
+4.041,66,Stigmella sorbi,,Nepticulidae
+4.042,67,Stigmella plagicolella,,Nepticulidae
+4.043,63,Stigmella lemniscella,,Nepticulidae
+4.043,,Stigmella marginicolella,,Nepticulidae
+4.044,64,Stigmella continuella,,Nepticulidae
+4.045,50,Stigmella aurella,,Nepticulidae
+4.045,,Stigmella aurella f. gei,,Nepticulidae
+4.045,,Stigmella aurella f. nitens,,Nepticulidae
+4.045,,Stigmella fragariella,,Nepticulidae
+4.046,54,Stigmella auromarginella,,Nepticulidae
+4.047,53,Stigmella splendidissimella,,Nepticulidae
+4.047,,Stigmella splendidissimella f. dulcella,,Nepticulidae
+4.048,54a,Stigmella pretiosa,,Nepticulidae
+4.049,55,Stigmella aeneofasciella,,Nepticulidae
+4.05,56,Stigmella dryadella,,Nepticulidae
+4.051,59,Stigmella poterii,,Nepticulidae
+4.051,,Stigmella poterii f. serella,,Nepticulidae
+4.051,,Stigmella poterii f. tengstroemi,,Nepticulidae
+4.051,,Stigmella tormentillella,,Nepticulidae
+4.052,57,Stigmella filipendulae,,Nepticulidae
+4.052,58,Stigmella ulmariae,,Nepticulidae
+4.053,78,Stigmella incognitella,,Nepticulidae
+4.053,,Stigmella pomella,,Nepticulidae
+4.054,79,Stigmella perpygmaeella,,Nepticulidae
+4.054,,Stigmella pygmaeella,,Nepticulidae
+4.055,81,Stigmella hemargyrella,,Nepticulidae
+4.056,65,Stigmella speciosa,,Nepticulidae
+4.057,85,Stigmella suberivora,,Nepticulidae
+4.058,89,Stigmella basiguttella,,Nepticulidae
+4.059,87,Stigmella svenssoni,,Nepticulidae
+4.06,84,Stigmella ruficapitella,,Nepticulidae
+4.061,83,Stigmella atricapitella,,Nepticulidae
+4.062,88,Stigmella samiatella,,Nepticulidae
+4.063,86,Stigmella roborella,,Nepticulidae
+4.064,44,Trifurcula headleyella,,Nepticulidae
+4.065,48,Trifurcula cryptella,,Nepticulidae
+4.066,49,Trifurcula eurema,,Nepticulidae
+4.067,45,Trifurcula subnitidella,,Nepticulidae
+4.067,,Trifurcula griseella,,Nepticulidae
+4.068,46,Trifurcula immundella,,Nepticulidae
+4.069,47,Trifurcula beirnei,,Nepticulidae
+4.07,46a,Trifurcula squamatella,,Nepticulidae
+4.07,,Trifurcula maxima,,Nepticulidae
+4.071,40,Bohemannia pulverosella,,Nepticulidae
+4.072,19,Bohemannia quadrimaculella,,Nepticulidae
+4.073,33,Bohemannia auriciliella,,Nepticulidae
+4.073,,Bohemannia bradfordi,,Nepticulidae
+4.074,21,Ectoedemia sericopeza,,Nepticulidae
+4.075,22,Ectoedemia louisella,,Nepticulidae
+4.075,,Ectoedemia sphendamni,,Nepticulidae
+4.076,20,Ectoedemia decentella,,Nepticulidae
+4.077,43,Ectoedemia weaveri,,Nepticulidae
+4.078,42,Ectoedemia septembrella,,Nepticulidae
+4.079,41,Ectoedemia atrifrontella,,Nepticulidae
+4.08,41b,Ectoedemia longicaudella,,Nepticulidae
+4.081,41a,Ectoedemia amani,,Nepticulidae
+4.082,25,Ectoedemia intimella,,Nepticulidae
+4.083,24a,Ectoedemia hannoverella,,Nepticulidae
+4.084,24,Ectoedemia turbidella,,Nepticulidae
+4.085,23,Ectoedemia argyropeza,,Nepticulidae
+4.086,35a,Ectoedemia heckfordi,,Nepticulidae
+4.087,36,Ectoedemia quinquella,,Nepticulidae
+4.088,36a,Ectoedemia heringella,,Nepticulidae
+4.089,37,Ectoedemia albifasciella,,Nepticulidae
+4.09,38,Ectoedemia subbimaculella,,Nepticulidae
+4.091,39,Ectoedemia heringi,,Nepticulidae
+4.092,32,Ectoedemia erythrogenella,,Nepticulidae
+4.093,26,Ectoedemia agrimoniae,,Nepticulidae
+4.094,28,Ectoedemia angulifasciella,,Nepticulidae
+4.095,29,Ectoedemia atricollis,,Nepticulidae
+4.096,30,Ectoedemia arcuatella,,Nepticulidae
+4.097,31,Ectoedemia rubivora,,Nepticulidae
+4.098,27,Ectoedemia spinosella,,Nepticulidae
+4.099,34,Ectoedemia occultella,,Nepticulidae
+4.099,,Ectoedemia argentipedella,,Nepticulidae
+4.099,,Ectoedemia mediofasciella,,Nepticulidae
+4.1,35,Ectoedemia minimella,,Nepticulidae
+4.1,,Ectoedemia woolhopiella,,Nepticulidae
+5.001,119,Opostega salaciella,,Opostegidae
+5.002,122,Opostega spatulella,,Opostegidae
+5.003,120,Pseudopostega auritella,,Opostegidae
+5.004,121,Pseudopostega crepusculella,,Opostegidae
+6,,Heliozelidae,,Heliozelidae
+6.001,158,Antispila metallella,,Heliozelidae
+6.001,,Antispila pfeifferella,,Heliozelidae
+6.002,159,Antispila treitschkiella,,Heliozelidae
+6.002,,Antispila petryi,,Heliozelidae
+6.003,154,Heliozela sericiella,,Heliozelidae
+6.003,,Heliozela stanneella,,Heliozelidae
+6.004,156,Heliozela resplendella,,Heliozelidae
+6.005,157,Heliozela hammoniella,,Heliozelidae
+6.005,,Heliozela betulae,,Heliozelidae
+7.001,148,Nemophora degeerella,,Adelidae
+7.002,147,Nemophora metallica,,Adelidae
+7.002,,Nemophora scabiosella,,Adelidae
+7.003,146,Nemophora cupriacella,,Adelidae
+7.004,144,Nemophora fasciella,,Adelidae
+7.005,145,Nemophora minimella,,Adelidae
+7.006,150,Adela reaumurella,,Adelidae
+7.006,,Adela viridella,,Adelidae
+7.007,149,Adela cuprella,,Adelidae
+7.008,151,Adela croesella,,Adelidae
+7.009,153,Cauchas fibulella,,Adelidae
+7.01,152,Cauchas rufimitrella,,Adelidae
+7.011,142,Nematopogon pilella,,Adelidae
+7.012,141,Nematopogon schwarziellus,,Adelidae
+7.013,143a,Nematopogon magna,,Adelidae
+7.013,,Nematopogon variella,,Adelidae
+7.014,143,Nematopogon metaxella,,Adelidae
+7.015,140,Nematopogon swammerdamella,,Adelidae
+8.001,129,Incurvaria pectinea,,Incurvariidae
+8.002,130,Incurvaria masculella,,Incurvariidae
+8.003,131,Incurvaria oehlmanniella,,Incurvariidae
+8.004,132,Incurvaria praelatella,,Incurvariidae
+8.005,128,Phylloporia bistrigella,,Incurvariidae
+9.001,133,Lampronia capitella,Currant Shoot Borer,Prodoxidae
+9.002,135,Lampronia luzella,,Prodoxidae
+9.003,136,Lampronia corticella,Raspberry Moth,Prodoxidae
+9.003,,Lampronia rubiella,Raspberry Moth,Prodoxidae
+9.004,137,Lampronia morosa,,Prodoxidae
+9.005,134,Lampronia flavimitrella,,Prodoxidae
+9.006,138,Lampronia fuscatella,,Prodoxidae
+9.007,139,Lampronia pubicornis,,Prodoxidae
+10.001,123,Tischeria ekebladella,,Tischeriidae
+10.002,124,Tischeria dodonaea,,Tischeriidae
+10.003,125,Coptotriche marginea,,Tischeriidae
+10.004,125a,Coptotriche heinemanni,,Tischeriidae
+10.005,126,Coptotriche gaunacella,,Tischeriidae
+10.006,127,Coptotriche angusticollella,,Tischeriidae
+11.001,180,Diplodoma laichartingella,,Psychidae
+11.001,,Diplodoma herminata,,Psychidae
+11.002,175,Narycia duplicella,,Psychidae
+11.002,,Narycia monilifera,,Psychidae
+11.003,176,Dahlica triquetrella,,Psychidae
+11.004,177,Dahlica inconspicuella,Lesser Lichen Case-bearer,Psychidae
+11.004,,Dahlica douglasii,Lesser Lichen Case-bearer,Psychidae
+11.005,179,Dahlica lichenella,Lichen Case-bearer,Psychidae
+11.006,181,Taleporia tubulosa,,Psychidae
+11.007,182,Bankesia conspurcatella,,Psychidae
+11.008,184,Luffia lapidella,,Psychidae
+11.009,185,Luffia ferchaultella,,Psychidae
+11.01,183,Bacotia claustrella,,Psychidae
+11.01,,Bacotia sepium,,Psychidae
+11.011,188,Proutia betulina,,Psychidae
+11.012,186,Psyche casta,,Psychidae
+11.013,187,Psyche crassiorella,,Psychidae
+11.014,189,Epichnopterix plumella,,Psychidae
+11.015,190,Whittleia retiella,,Psychidae
+11.016,191,Acanthopsyche atra,,Psychidae
+11.017,192,Pachythelia villosella,,Psychidae
+11.018,195,Sterrhopterix fusca,,Psychidae
+12.001,207,Myrmecozela ochraceella,,Tineidae
+12.0011,208,Ateliotum insularis,,Tineidae
+12.002,201,Tenaga nigripunctella,,Tineidae
+12.002,248,Tenaga pomiliella,,Tineidae
+12.003,202,Eudarcia richardsoni,,Tineidae
+12.004,203a,Infurcitinea captans,,Tineidae
+12.0047,,Infurcitinea teriolella,,Tineidae
+12.005,204,Infurcitinea albicomella,,Tineidae
+12.006,203,Infurcitinea argentimaculella,,Tineidae
+12.007,205,Ischnoscia borreonella,,Tineidae
+12.008,206,Stenoptinea cyaneimarmorella,,Tineidae
+12.008,,Stenoptinea angustipennis,,Tineidae
+12.009,198,Dryadaula pactolia,,Tineidae
+12.01,196,Morophaga choragella,,Tineidae
+12.01,,Morophaga boleti,,Tineidae
+12.011,225,Triaxomera fulvimitrella,,Tineidae
+12.012,224,Triaxomera parasitella,,Tineidae
+12.013,222,Archinemapogon yildizae,,Tineidae
+12.013,,Archinemapogon arcuatella,,Tineidae
+12.013,,Archinemapogon laterella,,Tineidae
+12.014,223,Nemaxera betulinella,,Tineidae
+12.014,,Nemaxera corticella,,Tineidae
+12.015,215,Nemapogon granella,Corn Moth,Tineidae
+12.016,216,Nemapogon cloacella,Cork Moth,Tineidae
+12.017,217,Nemapogon wolffiella,,Tineidae
+12.017,,Nemapogon albipunuctella,,Tineidae
+12.018,216a,Nemapogon inconditella,,Tineidae
+12.018,,Nemapogon heydeni,,Tineidae
+12.019,219,Nemapogon ruricolella,,Tineidae
+12.02,218,Nemapogon variatella,,Tineidae
+12.02,,Nemapogon personella,,Tineidae
+12.021,220,Nemapogon clematella,,Tineidae
+12.022,221,Nemapogon picarella,,Tineidae
+12.0221,221a,Nemapogon falstriella,,Tineidae
+12.023,226,Triaxomasia caprimulgella,,Tineidae
+12.024,213,Cephimallota crassiflavella,,Tineidae
+12.025,234,Trichophaga tapetzella,Tapestry Moth,Tineidae
+12.0251,235,Trichophaga mormopis,,Tineidae
+12.0251,235,Trichophaga percna,,Tineidae
+12.026,236,Tineola bisselliella,Common Clothes Moth,Tineidae
+12.027,240,Tinea pellionella,Case-bearing Clothes Moth,Tineidae
+12.0271,247b,Tinea murariella,,Tineidae
+12.0272,242,Tinea metonella,,Tineidae
+12.0272,242,Tinea translucens,,Tineidae
+12.028,243,Tinea dubiella,,Tineidae
+12.028,,Tinea turicensis,,Tineidae
+12.029,244,Tinea flavescentella,,Tineidae
+12.0291,241,Tinea lanella,,Tineidae
+12.03,245,Tinea pallescentella,Large Pale Clothes Moth,Tineidae
+12.031,239,Tinea columbariella,,Tineidae
+12.032,246,Tinea semifulvella,,Tineidae
+12.033,247,Tinea trinotella,,Tineidae
+12.0331,247a,Tinea fictrix,,Tineidae
+12.034,237,Niditinea fuscella,Brown-dotted Clothes Moth,Tineidae
+12.034,,Niditinea fuscipunctella,Brown-dotted Clothes Moth,Tineidae
+12.035,238,Niditinea striolella,,Tineidae
+12.035,,Niditinea piercella,,Tineidae
+12.036,227,Monopis laevigella,Skin Moth,Tineidae
+12.036,,Monopis rusticella,Skin Moth,Tineidae
+12.037,228,Monopis weaverella,,Tineidae
+12.038,229,Monopis obviella,,Tineidae
+12.038,,Monopis ferruginella,,Tineidae
+12.039,230,Monopis crocicapitella,,Tineidae
+12.04,231,Monopis imella,,Tineidae
+12.041,232,Monopis monachella,,Tineidae
+12.042,233,Monopis fenestratella,,Tineidae
+12.0421,250,Ceratophaga haidarabadi,,Tineidae
+12.0422,249,Ceratophaga orientalis,,Tineidae
+12.043,211,Haplotinea ditella,,Tineidae
+12.044,212,Haplotinea insectella,,Tineidae
+12.044,,Haplotinea misella,,Tineidae
+12.0441,209,Setomorpha rutella,Tropical Tobacco Moth,Tineidae
+12.0442,210,Lindera tessellatella,,Tineidae
+12.045,278a,Opogona omoscopa,,Tineidae
+12.0451,278,Opogona sacchari,,Tineidae
+12.0452,279,Opogona antistacta,,Tineidae
+12.046,277,Oinophila v-flava,Yellow V Moth,Tineidae
+12.047,199,Psychoides verhuella,,Tineidae
+12.048,200,Psychoides filicivora,,Tineidae
+13.001,446,Roeslerstammia pronubella,,Roeslerstammiidae
+13.002,447,Roeslerstammia erxlebella,,Roeslerstammiidae
+14.001,265,Bucculatrix cristatella,,Bucculatricidae
+14.002,266,Bucculatrix nigricomella,,Bucculatricidae
+14.003,267,Bucculatrix maritima,,Bucculatricidae
+14.004,269a,Bucculatrix chrysanthemella,,Bucculatricidae
+14.005,268,Bucculatrix humiliella,,Bucculatricidae
+14.005,,Bucculatrix capreella,,Bucculatricidae
+14.005,,Bucculatrix merei,,Bucculatricidae
+14.006,270,Bucculatrix frangutella,,Bucculatricidae
+14.006,,Bucculatrix frangulella,,Bucculatricidae
+14.007,271,Bucculatrix albedinella,,Bucculatricidae
+14.007,,Bucculatrix boyerella,,Bucculatricidae
+14.008,272,Bucculatrix cidarella,,Bucculatricidae
+14.009,273,Bucculatrix thoracella,,Bucculatricidae
+14.01,274,Bucculatrix ulmella,,Bucculatricidae
+14.011,274a,Bucculatrix ulmifoliae,,Bucculatricidae
+14.012,275,Bucculatrix bechsteinella,,Bucculatricidae
+14.012,,Bucculatrix crataegi,,Bucculatricidae
+14.013,276,Bucculatrix demaryella,,Bucculatricidae
+15.001,299,Parectopa ononidis,,Gracillariidae
+15.002,280,Caloptilia cuculipennella,,Gracillariidae
+15.003,281,Caloptilia populetorum,,Gracillariidae
+15.004,282,Caloptilia elongella,,Gracillariidae
+15.005,283,Caloptilia betulicola,,Gracillariidae
+15.006,284,Caloptilia rufipennella,,Gracillariidae
+15.007,285,Caloptilia azaleella,Azalea Leaf Miner,Gracillariidae
+15.007,,Caloptilia rhodinella,Azalea Leaf Miner,Gracillariidae
+15.008,286,Caloptilia alchimiella,,Gracillariidae
+15.009,287,Caloptilia robustella,,Gracillariidae
+15.01,288,Caloptilia stigmatella,,Gracillariidae
+15.011,289,Caloptilia falconipennella,,Gracillariidae
+15.012,290,Caloptilia semifascia,,Gracillariidae
+15.012,295,Caloptilia pyrenaeella,,Gracillariidae
+15.012,,Caloptilia hauderi sens. auctt.,,Gracillariidae
+15.013,291,Caloptilia hemidactylella,,Gracillariidae
+15.014,293,Gracillaria syringella,,Gracillariidae
+15.015,294,Aspilapteryx tringipennella,,Gracillariidae
+15.016,297,Euspilapteryx auroguttella,,Gracillariidae
+15.017,296,Calybites phasianipennella,,Gracillariidae
+15.018,292,Povolnya leucapennella,,Gracillariidae
+15.018,,Caloptilia sulphurella,,Gracillariidae
+15.019,313,Acrocercops brongniardella,,Gracillariidae
+15.02,311,Dialectica imperialella,,Gracillariidae
+15.02,,Acrocercops hofmanniella,,Gracillariidae
+15.0201,311a,Dialectica scalariella,,Gracillariidae
+15.021,314,Leucospilapteryx omissella,,Gracillariidae
+15.022,310,Callisto denticulella,,Gracillariidae
+15.023,310a,Callisto coffeella,,Gracillariidae
+15.024,300,Parornix loganella,,Gracillariidae
+15.025,301,Parornix betulae,,Gracillariidae
+15.026,302,Parornix fagivora,,Gracillariidae
+15.027,302a,Parornix carpinella,,Gracillariidae
+15.028,303,Parornix anglicella,,Gracillariidae
+15.029,304,Parornix devoniella,,Gracillariidae
+15.03,305,Parornix scoticella,,Gracillariidae
+15.031,306,Parornix alpicola,,Gracillariidae
+15.031,,Parornix alpicola leucostola,,Gracillariidae
+15.032,308,Parornix finitimella,,Gracillariidae
+15.0321,,Parornix atripalpella,,Gracillariidae
+15.033,309,Parornix torquillella,,Gracillariidae
+15.034,315,Phyllonorycter harrisella,,Gracillariidae
+15.034,,Phyllonorycter cramerella,,Gracillariidae
+15.035,316,Phyllonorycter roboris,,Gracillariidae
+15.036,317,Phyllonorycter heegeriella,,Gracillariidae
+15.037,318,Phyllonorycter tenerella,,Gracillariidae
+15.038,319,Phyllonorycter kuhlweiniella,,Gracillariidae
+15.038,,Phyllonorycter saportella,,Gracillariidae
+15.039,320,Phyllonorycter quercifoliella,,Gracillariidae
+15.04,321,Phyllonorycter messaniella,,Gracillariidae
+15.041,321a,Phyllonorycter platani,,Gracillariidae
+15.042,322,Phyllonorycter muelleriella,,Gracillariidae
+15.043,323,Phyllonorycter oxyacanthae,,Gracillariidae
+15.044,324,Phyllonorycter sorbi,,Gracillariidae
+15.045,325,Phyllonorycter mespilella,,Gracillariidae
+15.045,,Phyllonorycter pomifoliella,,Gracillariidae
+15.045,,Phyllonorycter pyrivorella,,Gracillariidae
+15.046,326,Phyllonorycter blancardella,,Gracillariidae
+15.046,,Phyllonorycter concomitella,,Gracillariidae
+15.047,327,Phyllonorycter hostis,,Gracillariidae
+15.047,,Phyllonorycter cydoniella,,Gracillariidae
+15.048,328,Phyllonorycter junoniella,,Gracillariidae
+15.049,329,Phyllonorycter spinicolella,,Gracillariidae
+15.049,,Phyllonorycter deflexella,,Gracillariidae
+15.049,,Phyllonorycter pomonella,,Gracillariidae
+15.05,330,Phyllonorycter cerasicolella,,Gracillariidae
+15.051,331,Phyllonorycter lantanella,,Gracillariidae
+15.052,332,Phyllonorycter corylifoliella,,Gracillariidae
+15.052,,Phyllonorycter corylifoliella f. betulae,,Gracillariidae
+15.053,332a,Phyllonorycter leucographella,Firethorn Leaf Miner,Gracillariidae
+15.054,333,Phyllonorycter salictella,,Gracillariidae
+15.054,333,Phyllonorycter viminiella,,Gracillariidae
+15.055,334,Phyllonorycter viminetorum,,Gracillariidae
+15.056,335,Phyllonorycter salicicolella,,Gracillariidae
+15.057,336,Phyllonorycter dubitella,,Gracillariidae
+15.058,337,Phyllonorycter hilarella,,Gracillariidae
+15.058,,Phyllonorycter spinolella,,Gracillariidae
+15.059,338,Phyllonorycter cavella,,Gracillariidae
+15.06,339,Phyllonorycter ulicicolella,,Gracillariidae
+15.061,340,Phyllonorycter scopariella,,Gracillariidae
+15.062,340a,Phyllonorycter staintoniella,,Gracillariidae
+15.063,341,Phyllonorycter maestingella,,Gracillariidae
+15.064,342,Phyllonorycter coryli,Nut Leaf Blister Moth,Gracillariidae
+15.065,343,Phyllonorycter esperella,,Gracillariidae
+15.065,,Phyllonorycter carpinicolella,,Gracillariidae
+15.065,,Phyllonorycter quinnata,,Gracillariidae
+15.066,344,Phyllonorycter strigulatella,,Gracillariidae
+15.067,345,Phyllonorycter rajella,,Gracillariidae
+15.067,,Phyllonorycter alnifoliella,,Gracillariidae
+15.068,346,Phyllonorycter distentella,,Gracillariidae
+15.069,347,Phyllonorycter anderidae,,Gracillariidae
+15.07,348,Phyllonorycter quinqueguttella,,Gracillariidae
+15.071,349,Phyllonorycter nigrescentella,,Gracillariidae
+15.072,350,Phyllonorycter insignitella,,Gracillariidae
+15.073,351,Phyllonorycter lautella,,Gracillariidae
+15.074,352,Phyllonorycter schreberella,,Gracillariidae
+15.075,353,Phyllonorycter ulmifoliella,,Gracillariidae
+15.076,354,Phyllonorycter emberizaepenella,,Gracillariidae
+15.077,355,Phyllonorycter scabiosella,,Gracillariidae
+15.078,356,Phyllonorycter tristrigella,,Gracillariidae
+15.079,357,Phyllonorycter stettinensis,,Gracillariidae
+15.08,358,Phyllonorycter froelichiella,,Gracillariidae
+15.081,359,Phyllonorycter nicellii,,Gracillariidae
+15.082,360,Phyllonorycter klemannella,,Gracillariidae
+15.083,361,Phyllonorycter trifasciella,,Gracillariidae
+15.084,362,Phyllonorycter acerifoliella,,Gracillariidae
+15.084,,Phyllonorycter arcuatella,,Gracillariidae
+15.084,,Phyllonorycter sylvella,,Gracillariidae
+15.085,363,Phyllonorycter joannisi,,Gracillariidae
+15.086,364,Phyllonorycter geniculella,,Gracillariidae
+15.0861,,Phyllonorycter apparella,,Gracillariidae
+15.0862,364a,Phyllonorycter pastorella,,Gracillariidae
+15.087,365,Phyllonorycter comparella,,Gracillariidae
+15.088,366,Phyllonorycter sagitella,,Gracillariidae
+15.089,366a,Cameraria ohridella,,Gracillariidae
+15.09,367,Phyllocnistis saligna,,Gracillariidae
+15.091,367a,Phyllocnistis ramulicola,,Gracillariidae
+15.092,368,Phyllocnistis unipunctella,,Gracillariidae
+15.093,369,Phyllocnistis xenia,,Gracillariidae
+15.0931,366b,Phyllocnistis citrella,,Gracillariidae
+16.001,424,Yponomeuta evonymella,Bird-cherry Ermine,Yponomeutidae
+16.002,425,Yponomeuta padella,Orchard Ermine,Yponomeutidae
+16.003,426,Yponomeuta malinellus,Apple Ermine,Yponomeutidae
+16.004,427,Yponomeuta cagnagella,Spindle Ermine,Yponomeutidae
+16.005,428,Yponomeuta rorrella,Willow Ermine,Yponomeutidae
+16.006,429,Yponomeuta irrorella,,Yponomeutidae
+16.007,430,Yponomeuta plumbella,,Yponomeutidae
+16.008,431,Yponomeuta sedella,,Yponomeutidae
+16.008,,Yponomeuta vigintipunctata,,Yponomeutidae
+16.009,432,Euhyponomeuta stannella,,Yponomeutidae
+16.01,435,Zelleria hepariella,,Yponomeutidae
+16.011,435a,Zelleria oleastrella,,Yponomeutidae
+16.012,434,Kessleria saxifragae,,Yponomeutidae
+16.013,433,Kessleria fasciapennella,,Yponomeutidae
+16.014,436,Pseudoswammerdamia combinella,,Yponomeutidae
+16.015,437,Swammerdamia caesiella,,Yponomeutidae
+16.016,437a,Swammerdamia passerella,,Yponomeutidae
+16.016,,Swammerdamia nanivora,,Yponomeutidae
+16.017,438,Swammerdamia pyrella,,Yponomeutidae
+16.018,439,Swammerdamia compunctella,,Yponomeutidae
+16.019,440,Paraswammerdamia albicapitella,,Yponomeutidae
+16.019,,Paraswammerdamia spiniella,,Yponomeutidae
+16.02,441,Paraswammerdamia nebulella,,Yponomeutidae
+16.02,,Paraswammerdamia lutarea,,Yponomeutidae
+16.021,442,Cedestis gysseleniella,,Yponomeutidae
+16.022,443,Cedestis subfasciella,,Yponomeutidae
+16.023,444,Ocnerostoma piniariella,,Yponomeutidae
+16.024,445,Ocnerostoma friesei,,Yponomeutidae
+17.001,451,Ypsolopha mucronella,,Ypsolophidae
+17.002,452,Ypsolopha nemorella,,Ypsolophidae
+17.003,453,Ypsolopha dentella,Honeysuckle Moth,Ypsolophidae
+17.004,454,Ypsolopha asperella,,Ypsolophidae
+17.005,455,Ypsolopha scabrella,,Ypsolophidae
+17.006,456,Ypsolopha horridella,,Ypsolophidae
+17.007,457,Ypsolopha lucella,,Ypsolophidae
+17.008,458,Ypsolopha alpella,,Ypsolophidae
+17.009,459,Ypsolopha sylvella,,Ypsolophidae
+17.01,460,Ypsolopha parenthesella,,Ypsolophidae
+17.01,,Ypsolopha costella,,Ypsolophidae
+17.011,461,Ypsolopha ustella,,Ypsolophidae
+17.011,,Ypsolopha radiatella,,Ypsolophidae
+17.012,462,Ypsolopha sequella,,Ypsolophidae
+17.013,463,Ypsolopha vittella,,Ypsolophidae
+17.014,251,Ochsenheimeria taurella,,Ypsolophidae
+17.014,,Ochsenheimeria mediopectinellus,,Ypsolophidae
+17.015,252,Ochsenheimeria urella,,Ypsolophidae
+17.015,,Ochsenheimeria bisontella,,Ypsolophidae
+17.016,253,Ochsenheimeria vacculella,Cereal Stem Moth,Ypsolophidae
+18.001,464,Plutella xylostella,Diamond-back Moth,Plutellidae
+18.001,,Plutella maculipennis,Diamond-back Moth,Plutellidae
+18.002,465a,Plutella haasi,,Plutellidae
+18.003,465,Plutella porrectella,,Plutellidae
+18.004,466,Rhigognostis senilella,,Plutellidae
+18.004,,Rhigognostis dalella,,Plutellidae
+18.005,467,Rhigognostis annulatella,,Plutellidae
+18.006,468,Rhigognostis incarnatella,,Plutellidae
+18.007,469,Eidophasia messingiella,,Plutellidae
+19.001,470,Orthotelia sparganella,,Glyphipterigidae
+19.002,397,Glyphipterix thrasonella,,Glyphipterigidae
+19.003,396,Glyphipterix fuscoviridella,,Glyphipterigidae
+19.004,393,Glyphipterix equitella,,Glyphipterigidae
+19.004,,Glyphipterix minorella,,Glyphipterigidae
+19.005,395,Glyphipterix haworthana,,Glyphipterigidae
+19.006,394,Glyphipterix forsterella,,Glyphipterigidae
+19.007,391,Glyphipterix simpliciella,Cocksfoot Moth,Glyphipterigidae
+19.007,,Glyphipterix fischeriella,Cocksfoot Moth,Glyphipterigidae
+19.008,392,Glyphipterix schoenicolella,,Glyphipterigidae
+19.009,471,Digitivalva perlepidella,,Glyphipterigidae
+19.01,472,Digitivalva pulicariae,,Glyphipterigidae
+19.011,473,Acrolepiopsis assectella,Leek Moth,Glyphipterigidae
+19.012,474,Acrolepiopsis betulella,,Glyphipterigidae
+19.013,475,Acrolepiopsis marcidella,,Glyphipterigidae
+19.014,476,Acrolepia autumnitella,,Glyphipterigidae
+19.014,,Acrolepia pygmaeana,,Glyphipterigidae
+20.001,401,Argyresthia laevigatella,,Argyresthiidae
+20.002,403,Argyresthia glabratella,,Argyresthiidae
+20.003,404,Argyresthia praecocella,,Argyresthiidae
+20.004,405,Argyresthia arceuthina,,Argyresthiidae
+20.005,409a,Argyresthia trifasciata,,Argyresthiidae
+20.006,407,Argyresthia dilectella,,Argyresthiidae
+20.007,409b,Argyresthia cupressella,Cypress Tip Moth,Argyresthiidae
+20.008,406,Argyresthia abdominalis,,Argyresthiidae
+20.009,408,Argyresthia aurulentella,,Argyresthiidae
+20.01,409,Argyresthia ivella,,Argyresthiidae
+20.011,410,Argyresthia brockeella,,Argyresthiidae
+20.012,411,Argyresthia goedartella,,Argyresthiidae
+20.013,412,Argyresthia pygmaeella,,Argyresthiidae
+20.013,,Argyresthia rudolphella,,Argyresthiidae
+20.014,413,Argyresthia sorbiella,,Argyresthiidae
+20.015,414,Argyresthia curvella,,Argyresthiidae
+20.015,,Argyresthia arcella,,Argyresthiidae
+20.016,415,Argyresthia retinella,,Argyresthiidae
+20.017,416,Argyresthia glaucinella,,Argyresthiidae
+20.018,417,Argyresthia spinosella,,Argyresthiidae
+20.018,,Argyresthia mendica,,Argyresthiidae
+20.019,418,Argyresthia conjugella,Apple Fruit Moth,Argyresthiidae
+20.019,,Argyresthia conjugella f. aerariella,Apple Fruit Moth,Argyresthiidae
+20.019,,Argyresthia conjugella f. maculosa,Apple Fruit Moth,Argyresthiidae
+20.02,419,Argyresthia semifusca,,Argyresthiidae
+20.02,,Argyresthia spiniella,,Argyresthiidae
+20.021,420,Argyresthia pruniella,Cherry Fruit Moth,Argyresthiidae
+20.021,,Argyresthia ephippella,Cherry Fruit Moth,Argyresthiidae
+20.022,421,Argyresthia bonnetella,,Argyresthiidae
+20.022,,Argyresthia nitidella,,Argyresthiidae
+20.023,422,Argyresthia albistria,,Argyresthiidae
+20.024,423,Argyresthia semitestacella,,Argyresthiidae
+21.001,263,Lyonetia clerkella,Apple Leaf Miner,Lyonetiidae
+21.002,262,Lyonetia prunifoliella,,Lyonetiidae
+21.003,259,Leucoptera lotella,,Lyonetiidae
+21.004,254,Leucoptera laburnella,Laburnum Leaf Miner,Lyonetiidae
+21.004,,Leucoptera laburnella f. wailesella,Laburnum Leaf Miner,Lyonetiidae
+21.005,256,Leucoptera spartifoliella,,Lyonetiidae
+21.006,258,Leucoptera lathyrifoliella,,Lyonetiidae
+21.006,,Leucoptera lathyrifoliella f. orobi,,Lyonetiidae
+21.007,257,Leucoptera orobi,,Lyonetiidae
+21.008,260,Leucoptera malifoliella,Pear Leaf Blister Moth,Lyonetiidae
+21.008,,Leucoptera scitella,Pear Leaf Blister Moth,Lyonetiidae
+21.009,261,Leucoptera sinuella,,Lyonetiidae
+22.001,448,Atemelia torquatella,,Praydidae
+22.002,449,Prays fraxinella,Ash Bud Moth,Praydidae
+22.002,,Prays curtisella,Ash Bud Moth,Praydidae
+22.002,,Prays fraxinella f. rustica,Ash Bud Moth,Praydidae
+22.003,448a,Prays ruficeps,,Praydidae
+22.004,449c,Prays oleae,,Praydidae
+22.0041,449a,Prays citri,,Praydidae
+22.005,449b,Prays peregrina,,Praydidae
+23.001,400,Heliodines roesella,,Heliodinidae
+24.001,264,Bedellia somnulentella,,Bedelliidae
+25.001,450,Scythropia crataegella,Hawthorn Moth,Scythropiidae
+25.001,,Scythropia cornella,Hawthorn Moth,Scythropiidae
+26.001,398,Tinagma ocnerostomella,,Douglasiidae
+26.002,399,Tinagma balteolella,,Douglasiidae
+27.001,870,Oegoconia quadripuncta,,Autostichidae
+27.002,871a,Oegoconia caradjai,,Autostichidae
+27.0021,,Oegoconia novimundi,,Autostichidae
+27.003,871,Oegoconia deauratella,,Autostichidae
+27.004,872,Symmoca signatella,,Autostichidae
+28.001,639,Bisigna procerella,,Oecophoridae
+28.002,634a,Schiffermuelleria schaefferella,,Oecophoridae
+28.003,634,Schiffermuelleria grandis,,Oecophoridae
+28.004,636,Denisia similella,,Oecophoridae
+28.005,638a,Denisia albimaculea,,Oecophoridae
+28.006,638,Denisia augustella,,Oecophoridae
+28.007,635,Denisia subaquilea,,Oecophoridae
+28.008,642a,Metalampra italica,,Oecophoridae
+28.009,648,Endrosis sarcitrella,White-shouldered House-moth,Oecophoridae
+28.01,647,Hofmannophila pseudospretella,Brown House-moth,Oecophoridae
+28.011,645,Borkhausenia minutella,,Oecophoridae
+28.012,644,Borkhausenia fuscescens,,Oecophoridae
+28.013,637,Crassa tinctella,,Oecophoridae
+28.014,642,Crassa unitella,,Oecophoridae
+28.015,640,Batia lunaris,,Oecophoridae
+28.016,640a,Batia internella,,Oecophoridae
+28.017,641,Batia lambdella,,Oecophoridae
+28.018,643,Epicallima formosella,,Oecophoridae
+28.019,649,Esperia sulphurella,,Oecophoridae
+28.02,650,Dasycera oliviella,,Oecophoridae
+28.021,651,Oecophora bractella,,Oecophoridae
+28.022,652,Alabonia geoffrella,,Oecophoridae
+28.023,652a,Harpella forficella,,Oecophoridae
+28.024,656,Tachystola acroxantha,,Oecophoridae
+28.025,654,Pleurota bicostella,,Oecophoridae
+28.026,655,Pleurota aristella,,Oecophoridae
+28.027,653,Aplota palpellus,,Oecophoridae
+28.028,656a,Barea asbolaea,,Oecophoridae
+29.001,663,Diurnea fagella,,Chimabachidae
+29.002,664,Diurnea lipsiella,,Chimabachidae
+29.002,,Diurnea phryganella,,Chimabachidae
+29.003,665,Dasystoma salicella,,Chimabachidae
+30.001,661,Pseudatemelia flavifrontella,,Lypusidae
+30.002,662,Pseudatemelia subochreella,,Lypusidae
+30.003,660,Pseudatemelia josephinae,,Lypusidae
+30.004,659,Amphisbatis incongruella,,Lypusidae
+31.001,658,Carcina quercana,,Peleopodidae
+32.001,666,Semioscopis avellanella,,Depressariidae
+32.002,667,Semioscopis steinkellneriana,,Depressariidae
+32.003,668,Luquetia lobella,,Depressariidae
+32.004,685,Levipalpus hepatariella,,Depressariidae
+32.005,686,Exaeretia ciniflonella,,Depressariidae
+32.006,687,Exaeretia allisella,,Depressariidae
+32.007,701,Agonopterix ocellana,,Depressariidae
+32.008,709,Agonopterix liturosa,,Depressariidae
+32.008,,Agonopterix huebneri,,Depressariidae
+32.009,691,Agonopterix purpurea,,Depressariidae
+32.01,710,Agonopterix conterminella,,Depressariidae
+32.011,704,Agonopterix scopariella,,Depressariidae
+32.012,703,Agonopterix atomella,,Depressariidae
+32.012,,Agonopterix pulverella,,Depressariidae
+32.013,708,Agonopterix carduella,,Depressariidae
+32.014,697a,Agonopterix kuznetzovi,,Depressariidae
+32.015,692,Agonopterix subpropinquella,,Depressariidae
+32.016,696,Agonopterix propinquella,,Depressariidae
+32.017,697,Agonopterix arenella,,Depressariidae
+32.018,688,Agonopterix heracliana,,Depressariidae
+32.018,,Agonopterix applana,,Depressariidae
+32.019,689,Agonopterix ciliella,,Depressariidae
+32.02,711,Agonopterix curvipunctosa,,Depressariidae
+32.02,,Agonopterix zephyrella,,Depressariidae
+32.021,693,Agonopterix putridella,,Depressariidae
+32.022,715,Agonopterix capreolella,,Depressariidae
+32.023,716,Agonopterix rotundella,,Depressariidae
+32.024,702,Agonopterix assimilella,,Depressariidae
+32.025,694,Agonopterix nanatella,,Depressariidae
+32.026,698,Agonopterix kaekeritziana,,Depressariidae
+32.026,,Agonopterix liturella,,Depressariidae
+32.027,699,Agonopterix bipunctosa,,Depressariidae
+32.028,700,Agonopterix pallorella,,Depressariidae
+32.029,705,Agonopterix umbellana,,Depressariidae
+32.029,,Agonopterix ulicetella,,Depressariidae
+32.029,,Agonopterix umbellana f. prostratella,,Depressariidae
+32.03,706,Agonopterix nervosa,,Depressariidae
+32.031,695,Agonopterix alstromeriana,,Depressariidae
+32.032,713,Agonopterix angelicella,,Depressariidae
+32.033,712,Agonopterix astrantiae,,Depressariidae
+32.034,690,Agonopterix cnicella,,Depressariidae
+32.035,714,Agonopterix yeatiana,,Depressariidae
+32.036,672,Depressaria radiella,Parsnip Moth,Depressariidae
+32.036,,Depressaria pastinacella,Parsnip Moth,Depressariidae
+32.037,673,Depressaria pimpinellae,,Depressariidae
+32.038,674,Depressaria badiella,,Depressariidae
+32.038,,Depressaria brunneella,,Depressariidae
+32.039,670,Depressaria daucella,,Depressariidae
+32.04,671,Depressaria ultimella,,Depressariidae
+32.041,684,Depressaria silesiaca,,Depressariidae
+32.042,676,Depressaria pulcherrimella,,Depressariidae
+32.043,678,Depressaria sordidatella,,Depressariidae
+32.043,,Depressaria weirella,,Depressariidae
+32.044,677,Depressaria douglasella,,Depressariidae
+32.045,680,Depressaria albipunctella,,Depressariidae
+32.045,,Depressaria aegopodiella,,Depressariidae
+32.046,681,Depressaria olerella,,Depressariidae
+32.047,682,Depressaria chaerophylli,,Depressariidae
+32.048,683,Depressaria depressana,,Depressariidae
+32.048,,Depressaria depressella,,Depressariidae
+32.049,669,Depressaria discipunctella,,Depressariidae
+32.05,646,Telechrysis tripuncta,,Depressariidae
+32.051,657,Hypercallia citrinalis,,Depressariidae
+33.001,718,Ethmia dodecea,,Ethmiidae
+33.002,719,Ethmia quadrillella,,Ethmiidae
+33.002,,Ethmia funerella,,Ethmiidae
+33.002,,Ethmia inversella,,Ethmiidae
+33.003,721,Ethmia pusiella,,Ethmiidae
+33.004,717,Ethmia terminella,,Ethmiidae
+33.005,722,Ethmia pyrausta,,Ethmiidae
+33.006,720,Ethmia bipunctella,,Ethmiidae
+34.001,899,Pancalia leuwenhoekella,,Cosmopterigidae
+34.002,900,Pancalia schwarzella,,Cosmopterigidae
+34.002,,Pancalia latreillella,,Cosmopterigidae
+34.003,901,Euclemensia woodiella,,Cosmopterigidae
+34.004,898,Limnaecia phragmitella,,Cosmopterigidae
+34.005,894,Cosmopterix zieglerella,,Cosmopterigidae
+34.005,,Cosmopterix eximia,,Cosmopterigidae
+34.006,895,Cosmopterix schmidiella,,Cosmopterigidae
+34.007,896,Cosmopterix orichalcea,,Cosmopterigidae
+34.008,896a,Cosmopterix scribaiella,,Cosmopterigidae
+34.009,896b,Cosmopterix pulchrimella,,Cosmopterigidae
+34.01,897,Cosmopterix lienigiella,,Cosmopterigidae
+34.011,898a,Pyroderces argyrogrammos,,Cosmopterigidae
+34.0111,897a,Anatrachyntis badia,,Cosmopterigidae
+34.0112,897b,Anatrachyntis simplex,,Cosmopterigidae
+34.012,908,Sorhagenia rhamniella,,Cosmopterigidae
+34.013,909,Sorhagenia lophyrella,,Cosmopterigidae
+34.014,910,Sorhagenia janiszewskae,,Cosmopterigidae
+35.001,845,Syncopacma sangiella,,Gelechiidae
+35.002,849,Syncopacma cinctella,,Gelechiidae
+35.002,,Syncopacma vorticella,,Gelechiidae
+35.003,844,Syncopacma larseniella,,Gelechiidae
+35.004,847,Syncopacma taeniolella,,Gelechiidae
+35.005,847a,Syncopacma albifrontella,,Gelechiidae
+35.006,846,Syncopacma vinella,,Gelechiidae
+35.007,848,Syncopacma albipalpella,,Gelechiidae
+35.008,848a,Syncopacma suecicella,,Gelechiidae
+35.009,850,Syncopacma polychromella,,Gelechiidae
+35.01,843,Aproaerema anthyllidella,,Gelechiidae
+35.011,853,Anacampsis populella,,Gelechiidae
+35.011,,Anacampsis populella f. fuscatella,,Gelechiidae
+35.012,854,Anacampsis blattariella,,Gelechiidae
+35.013,852,Anacampsis temerella,,Gelechiidae
+35.014,860,Mesophleps silacella,,Gelechiidae
+35.015,838,Nothris verbascella,,Gelechiidae
+35.016,839,Nothris congressariella,,Gelechiidae
+35.017,797,Neofaculta ericetella,,Gelechiidae
+35.018,858,Hypatima rhomboidella,,Gelechiidae
+35.019,857,Anarsia lineatella,Peach Twig Borer,Gelechiidae
+35.0191,,Anarsia innoxiella,,Gelechiidae
+35.02,856,Anarsia spartiella,,Gelechiidae
+35.0205,,Dichomeris acuminatus,,Gelechiidae
+35.021,863,Dichomeris juniperella,,Gelechiidae
+35.022,862,Dichomeris marginella,Juniper Webber,Gelechiidae
+35.023,864,Dichomeris ustalella,,Gelechiidae
+35.024,865,Dichomeris derasella,,Gelechiidae
+35.024,,Dichomeris fasciella,,Gelechiidae
+35.025,851,Dichomeris alacella,,Gelechiidae
+35.026,855,Acompsia cinerella,,Gelechiidae
+35.027,861,Acompsia schmidtiellus,,Gelechiidae
+35.028,866,Brachmia blandella,,Gelechiidae
+35.029,867,Brachmia inornatella,,Gelechiidae
+35.0299,,Helcystogramma triannulella,,Gelechiidae
+35.03,869,Helcystogramma lutatella,,Gelechiidae
+35.031,868,Helcystogramma rufescens,,Gelechiidae
+35.032,809,Pexicopia malvella,Hollyhock Seed Moth,Gelechiidae
+35.033,808,Platyedra subcinerea,,Gelechiidae
+35.034,749,Sitotroga cerealella,Angoumois Grain Moth,Gelechiidae
+35.035,746,Chrysoesthia drurella,,Gelechiidae
+35.035,,Chrysoesthia hermannella,,Gelechiidae
+35.036,747,Chrysoesthia sexguttella,,Gelechiidae
+35.036,,Chrysoesthia stipella,,Gelechiidae
+35.037,840,Thiotricha subocellea,,Gelechiidae
+35.038,789,Bryotropha domestica,,Gelechiidae
+35.039,788,Bryotropha politella,,Gelechiidae
+35.04,787,Bryotropha terrella,,Gelechiidae
+35.041,786,Bryotropha desertella,,Gelechiidae
+35.042,783,Bryotropha boreella,,Gelechiidae
+35.043,784,Bryotropha galbanella,,Gelechiidae
+35.044,777a,Bryotropha dryadella,,Gelechiidae
+35.045,777,Bryotropha basaltinella,,Gelechiidae
+35.046,782,Bryotropha senectella,,Gelechiidae
+35.047,779,Bryotropha affinis,,Gelechiidae
+35.048,778,Bryotropha umbrosella,,Gelechiidae
+35.048,,Bryotropha mundella,,Gelechiidae
+35.048,,Bryotropha portlandicella,,Gelechiidae
+35.049,780,Bryotropha similis,,Gelechiidae
+35.05,752,Aristotelia ericinella,,Gelechiidae
+35.051,751,Aristotelia subdecurtella,,Gelechiidae
+35.052,753,Aristotelia brizella,,Gelechiidae
+35.053,729,Isophrictis striatella,,Gelechiidae
+35.054,727,Metzneria neuropterella,,Gelechiidae
+35.055,725,Metzneria aestivella,,Gelechiidae
+35.055,,Metzneria carlinella,,Gelechiidae
+35.056,724,Metzneria lappella,,Gelechiidae
+35.057,723,Metzneria littorella,,Gelechiidae
+35.058,726,Metzneria metzneriella,,Gelechiidae
+35.059,727a,Metzneria aprilella,,Gelechiidae
+35.06,730,Apodia bifractella,,Gelechiidae
+35.061,748,Ptocheuusa paupella,,Gelechiidae
+35.061,,Ptocheuusa inopella,,Gelechiidae
+35.062,750,Psamathocrita osseella,,Gelechiidae
+35.063,750a,Psamathocrita argentella,,Gelechiidae
+35.064,734,Argolamprotes micella,,Gelechiidae
+35.065,728,Monochroa cytisella,,Gelechiidae
+35.066,735,Monochroa tenebrella,,Gelechiidae
+35.067,739,Monochroa conspersella,,Gelechiidae
+35.067,,Monochroa morosa,,Gelechiidae
+35.067,,Monochroa quaestionella,,Gelechiidae
+35.068,738,Monochroa tetragonella,,Gelechiidae
+35.069,743,Monochroa elongella,,Gelechiidae
+35.07,742,Monochroa lutulentella,,Gelechiidae
+35.071,736,Monochroa lucidella,,Gelechiidae
+35.072,745,Monochroa divisella,,Gelechiidae
+35.073,737,Monochroa palustrellus,,Gelechiidae
+35.074,744a,Monochroa moyses,,Gelechiidae
+35.075,744,Monochroa arundinetella,,Gelechiidae
+35.076,741,Monochroa suffusella,,Gelechiidae
+35.077,740,Monochroa hornigi,,Gelechiidae
+35.078,740a,Monochroa niphognatha,,Gelechiidae
+35.079,733,Eulamprotes wilkella,,Gelechiidae
+35.08,732,Eulamprotes unicolorella,,Gelechiidae
+35.081,731,Eulamprotes atrella,,Gelechiidae
+35.082,731a,Eulamprotes immaculatella,,Gelechiidae
+35.082,,Eulamprotes phaeella,,Gelechiidae
+35.083,754,Xystophora pulveratella,,Gelechiidae
+35.084,761a,Athrips rancidella,Cotoneaster Webworm,Gelechiidae
+35.085,762,Athrips mouffetella,,Gelechiidae
+35.086,761,Athrips tetrapunctella,,Gelechiidae
+35.087,798,Neofriseria peliella,,Gelechiidae
+35.088,799,Neofriseria singula,,Gelechiidae
+35.089,794,Prolita sexpunctella,,Gelechiidae
+35.089,,Prolita virgella,,Gelechiidae
+35.09,795,Prolita solutella,,Gelechiidae
+35.091,841,Sophronia semicostella,,Gelechiidae
+35.092,793,Mirificarma lentiginosella,,Gelechiidae
+35.093,792,Mirificarma mulinella,,Gelechiidae
+35.094,796,Aroga velocella,,Gelechiidae
+35.095,791,Chionodes distinctella,,Gelechiidae
+35.096,790,Chionodes fumatella,,Gelechiidae
+35.097,800,Gelechia rhombella,,Gelechiidae
+35.098,801,Gelechia scotinella,,Gelechiidae
+35.099,801a,Gelechia senticetella,,Gelechiidae
+35.1,802,Gelechia sabinellus,,Gelechiidae
+35.1,,Gelechia sabinella,,Gelechiidae
+35.101,802a,Gelechia sororculella,,Gelechiidae
+35.102,803,Gelechia muscosella,,Gelechiidae
+35.103,804,Gelechia cuneatella,,Gelechiidae
+35.104,805,Gelechia hippophaella,,Gelechiidae
+35.105,806,Gelechia nigra,,Gelechiidae
+35.106,807,Gelechia turpella,,Gelechiidae
+35.107,859,Psoricoptera gibbosella,,Gelechiidae
+35.108,824,Gnorimoschema streliciella,,Gelechiidae
+35.109,822,Scrobipalpa acuminatella,,Gelechiidae
+35.11,814a,Scrobipalpa pauperella,,Gelechiidae
+35.11,,Scrobipalpa klimeschi,,Gelechiidae
+35.111,821,Scrobipalpa murinella,,Gelechiidae
+35.112,810,Scrobipalpa suaedella,,Gelechiidae
+35.113,813,Scrobipalpa salicorniae,,Gelechiidae
+35.114,812,Scrobipalpa instabilella,,Gelechiidae
+35.115,815,Scrobipalpa nitentella,,Gelechiidae
+35.115,,Scrobipalpa seminella,,Gelechiidae
+35.116,816,Scrobipalpa obsoletella,,Gelechiidae
+35.117,818,Scrobipalpa atriplicella,,Gelechiidae
+35.118,814,Scrobipalpa ocellatella,Beet Moth,Gelechiidae
+35.119,811,Scrobipalpa samadensis,,Gelechiidae
+35.119,,Scrobipalpa samadensis plantaginella,,Gelechiidae
+35.12,820,Scrobipalpa artemisiella,Thyme Moth,Gelechiidae
+35.121,811a,Scrobipalpa stangei,,Gelechiidae
+35.122,817,Scrobipalpa clintoni,,Gelechiidae
+35.123,819,Scrobipalpa costella,,Gelechiidae
+35.124,823,Scrobipalpula diffluella,,Gelechiidae
+35.124,,Scrobipalpula psilella,,Gelechiidae
+35.125,823a,Scrobipalpula tussilaginis,,Gelechiidae
+35.126,825,Phthorimaea operculella,Potato Tuber Moth,Gelechiidae
+35.127,825a,Tuta absoluta,,Gelechiidae
+35.128,827,Caryocolum alsinella,,Gelechiidae
+35.128,,Caryocolum semidecandrella,,Gelechiidae
+35.129,828,Caryocolum viscariella,,Gelechiidae
+35.13,826,Caryocolum vicinella,,Gelechiidae
+35.131,829,Caryocolum marmorea,,Gelechiidae
+35.132,830,Caryocolum fraternella,,Gelechiidae
+35.133,832,Caryocolum blandella,,Gelechiidae
+35.133,,Caryocolum gerronella,,Gelechiidae
+35.134,832a,Caryocolum blandelloides,,Gelechiidae
+35.135,831,Caryocolum proxima,,Gelechiidae
+35.136,835,Caryocolum blandulella,,Gelechiidae
+35.137,834,Caryocolum tricolorella,,Gelechiidae
+35.138,833,Caryocolum junctella,,Gelechiidae
+35.139,837,Caryocolum huebneri,,Gelechiidae
+35.139,,Caryocolum knaggsiella,,Gelechiidae
+35.14,836,Caryocolum kroesmanniella,,Gelechiidae
+35.14,,Caryocolum huebneri (synonym),,Gelechiidae
+35.141,765,Teleiodes vulgella,,Gelechiidae
+35.142,769,Teleiodes wagae,,Gelechiidae
+35.143,774,Teleiodes luculella,,Gelechiidae
+35.144,774a,Teleiodes flavimaculella,,Gelechiidae
+35.145,775,Teleiodes sequax,,Gelechiidae
+35.146,776,Teleiopsis diffinis,,Gelechiidae
+35.147,767,Carpatolechia decorella,,Gelechiidae
+35.148,772,Carpatolechia fugitivella,,Gelechiidae
+35.149,771,Carpatolechia alburnella,,Gelechiidae
+35.15,768,Carpatolechia notatella,,Gelechiidae
+35.151,770,Carpatolechia proximella,,Gelechiidae
+35.152,764,Pseudotelphusa scalella,,Gelechiidae
+35.153,773,Pseudotelphusa paripunctella,,Gelechiidae
+35.154,763,Xenolechia aethiops,,Gelechiidae
+35.155,766,Altenia scriptella,,Gelechiidae
+35.156,757,Recurvaria nanella,,Gelechiidae
+35.157,758,Recurvaria leucatella,,Gelechiidae
+35.158,759,Coleotechnites piceaella,,Gelechiidae
+35.159,760,Exoteleia dodecella,,Gelechiidae
+35.16,755,Stenolechia gemmella,,Gelechiidae
+35.161,756,Parachronistis albiceps,,Gelechiidae
+36.001,878,Batrachedra praeangusta,,Batrachedridae
+36.0021,879a,Batrachedra parvulipunctella,,Batrachedridae
+37.001,486,Augasma aeratella,,Coleophoridae
+37.002,487,Coleophora lutarea,,Coleophoridae
+37.002,,Metriotes modestella,,Coleophoridae
+37.003,488,Coleophora limoniella,,Coleophoridae
+37.004,489,Coleophora albella,,Coleophoridae
+37.004,,Coleophora leucapennella,,Coleophoridae
+37.005,490,Coleophora lutipennella,,Coleophoridae
+37.006,491,Coleophora gryphipennella,,Coleophoridae
+37.007,492,Coleophora flavipennella,,Coleophoridae
+37.008,496a,Coleophora adjectella,,Coleophoridae
+37.009,496,Coleophora milvipennis,,Coleophoridae
+37.01,498,Coleophora alnifoliae,,Coleophoridae
+37.011,497,Coleophora badiipennella,,Coleophoridae
+37.012,499,Coleophora limosipennella,,Coleophoridae
+37.013,501,Coleophora siccifolia,,Coleophoridae
+37.014,494,Coleophora coracipennella,,Coleophoridae
+37.014,,Coleophora nigricella,,Coleophoridae
+37.015,493,Coleophora serratella,,Coleophoridae
+37.015,,Coleophora fuscedinella,,Coleophoridae
+37.016,495,Coleophora spinella,Apple and Plum Case-bearer,Coleophoridae
+37.016,,Coleophora cerasivorella,Apple and Plum Case-bearer,Coleophoridae
+37.017,494a,Coleophora prunifoliae,,Coleophoridae
+37.018,500,Coleophora hydrolapathella,,Coleophoridae
+37.019,502,Coleophora trigeminella,,Coleophoridae
+37.02,503,Coleophora fuscocuprella,,Coleophoridae
+37.021,508,Coleophora arctostaphyli,,Coleophoridae
+37.022,504,Coleophora lusciniaepennella,,Coleophoridae
+37.022,,Coleophora viminetella,,Coleophoridae
+37.023,505,Coleophora idaeella,,Coleophoridae
+37.024,506,Coleophora vitisella,,Coleophoridae
+37.025,507,Coleophora glitzella,,Coleophoridae
+37.026,509,Coleophora violacea,,Coleophoridae
+37.026,,Coleophora albicornuella,,Coleophoridae
+37.026,,Coleophora hornigi,,Coleophoridae
+37.027,513,Coleophora potentillae,,Coleophoridae
+37.028,510,Coleophora juncicolella,,Coleophoridae
+37.029,511,Coleophora orbitella,,Coleophoridae
+37.03,512,Coleophora binderella,,Coleophoridae
+37.031,514,Coleophora ahenella,,Coleophoridae
+37.032,515,Coleophora albitarsella,,Coleophoridae
+37.033,516,Coleophora trifolii,,Coleophoridae
+37.034,517a,Coleophora frischella,,Coleophoridae
+37.035,517,Coleophora alcyonipennella,Clover Case-bearer,Coleophoridae
+37.036,521,Coleophora conyzae,,Coleophoridae
+37.037,521a,Coleophora calycotomella,,Coleophoridae
+37.037,521a,Coleophora calycotomella (duplicate),,Coleophoridae
+37.038,522,Coleophora lineolea,,Coleophoridae
+37.039,523,Coleophora hemerobiella,,Coleophoridae
+37.04,524,Coleophora lithargyrinella,,Coleophoridae
+37.041,546,Coleophora genistae,,Coleophoridae
+37.042,545,Coleophora saturatella,,Coleophoridae
+37.043,548,Coleophora niveicostella,,Coleophoridae
+37.044,547,Coleophora discordella,,Coleophoridae
+37.045,528,Coleophora chalcogrammella,,Coleophoridae
+37.046,519,Coleophora deauratella,,Coleophoridae
+37.047,520,Coleophora amethystinella,,Coleophoridae
+37.048,518,Coleophora mayrella,,Coleophoridae
+37.048,,Coleophora spissicornis,,Coleophoridae
+37.049,533,Coleophora anatipennella,Pistol Case-bearer,Coleophoridae
+37.049,,Coleophora bernoulliella,Pistol Case-bearer,Coleophoridae
+37.05,532,Coleophora albidella,,Coleophoridae
+37.051,537,Coleophora kuehnella,,Coleophoridae
+37.051,,Coleophora lamellifera,,Coleophoridae
+37.051,,Coleophora palliatella,,Coleophoridae
+37.052,535,Coleophora ibipennella,,Coleophoridae
+37.052,,Coleophora ardeaepennella,,Coleophoridae
+37.052,,Coleophora nemorum,,Coleophoridae
+37.053,536,Coleophora betulella,,Coleophoridae
+37.054,534,Coleophora currucipennella,,Coleophoridae
+37.055,541,Coleophora pyrrhulipennella,,Coleophoridae
+37.056,542,Coleophora serpylletorum,,Coleophoridae
+37.057,540,Coleophora vibicigerella,,Coleophoridae
+37.058,539,Coleophora conspicuella,,Coleophoridae
+37.059,538,Coleophora vibicella,,Coleophoridae
+37.06,531,Coleophora ochrea,,Coleophoridae
+37.061,530,Coleophora lixella,,Coleophoridae
+37.062,529,Coleophora tricolor,,Coleophoridae
+37.063,544,Coleophora albicosta,,Coleophoridae
+37.064,543,Coleophora vulnerariae,,Coleophoridae
+37.065,549,Coleophora pennella,,Coleophoridae
+37.065,,Coleophora onosmella,,Coleophoridae
+37.066,526,Coleophora laricella,Larch Case-bearer,Coleophoridae
+37.067,579,Coleophora antennariella,,Coleophoridae
+37.068,586,Coleophora adjunctella,,Coleophoridae
+37.069,587,Coleophora caespititiella,,Coleophoridae
+37.069,,Coleophora argrammella,,Coleophoridae
+37.07,583,Coleophora tamesis,,Coleophoridae
+37.071,582,Coleophora glaucicolella,,Coleophoridae
+37.072,578,Coleophora otidipennella,,Coleophoridae
+37.072,,Coleophora murinipennella,,Coleophoridae
+37.073,584,Coleophora alticolella,,Coleophoridae
+37.074,581,Coleophora taeniipennella,,Coleophoridae
+37.074,,Coleophora galactaula,,Coleophoridae
+37.075,575,Coleophora salinella,,Coleophoridae
+37.076,580,Coleophora sylvaticella,,Coleophoridae
+37.077,552,Coleophora lassella,,Coleophoridae
+37.077,,Coleophora teidensis,,Coleophoridae
+37.078,585,Coleophora maritimella,,Coleophoridae
+37.078,,Coleophora obtusella,,Coleophoridae
+37.079,574a,Coleophora aestuariella,,Coleophoridae
+37.08,564,Coleophora virgaureae,,Coleophoridae
+37.08,,Coleophora obscenella,,Coleophoridae
+37.081,561,Coleophora therinella,,Coleophoridae
+37.082,562,Coleophora asteris,,Coleophoridae
+37.083,565,Coleophora saxicolella,,Coleophoridae
+37.083,,Coleophora benanderi,,Coleophoridae
+37.084,566,Coleophora sternipennella,,Coleophoridae
+37.084,,Coleophora flavaginella,,Coleophoridae
+37.085,569,Coleophora squamosella,,Coleophoridae
+37.086,568,Coleophora versurella,,Coleophoridae
+37.087,572,Coleophora vestianella,,Coleophoridae
+37.087,,Coleophora annulatella,,Coleophoridae
+37.087,,Coleophora laripennella,,Coleophoridae
+37.088,573,Coleophora atriplicis,,Coleophoridae
+37.089,570,Coleophora pappiferella,,Coleophoridae
+37.09,577,Coleophora artemisicolella,,Coleophoridae
+37.09,,Coleophora granulatella,,Coleophoridae
+37.091,574,Coleophora deviella,,Coleophoridae
+37.091,,Coleophora suaedivora,,Coleophoridae
+37.092,551,Coleophora galbulipennella,,Coleophoridae
+37.092,,Coleophora otitae,,Coleophoridae
+37.093,559,Coleophora peribenanderi,,Coleophoridae
+37.094,558,Coleophora ramosella,,Coleophoridae
+37.095,556,Coleophora trochilella,,Coleophoridae
+37.096,557,Coleophora gardesanella,,Coleophoridae
+37.096,,Coleophora machinella,,Coleophoridae
+37.097,556a,Coleophora linosyridella,,Coleophoridae
+37.098,554,Coleophora inulae,,Coleophoridae
+37.098,,Coleophora inulicolella,,Coleophoridae
+37.099,553,Coleophora striatipennella,,Coleophoridae
+37.099,,Coleophora apicella,,Coleophoridae
+37.1,525,Coleophora solitariella,,Coleophoridae
+37.101,576,Coleophora albicans,,Coleophoridae
+37.102,563,Coleophora argentula,,Coleophoridae
+37.103,555,Coleophora follicularis,,Coleophoridae
+37.103,,Coleophora troglodytella,,Coleophoridae
+37.104,567,Coleophora adspersella,,Coleophoridae
+37.105,550,Coleophora nutantella,,Coleophoridae
+37.106,560,Coleophora paripennella,,Coleophoridae
+37.107,589,Coleophora clypeiferella,,Coleophoridae
+37.108,588,Coleophora salicorniae,,Coleophoridae
+37.109,527,Coleophora wockeella,,Coleophoridae
+38.001,590,Perittia obscurepunctella,,Elachistidae
+38.002,591,Perittia farinella,,Elachistidae
+38.003,592,Stephensia brunnichella,,Elachistidae
+38.004,610,Elachista argentella,,Elachistidae
+38.004,,Elachista cygnipennella,,Elachistidae
+38.005,611,Elachista triatomea,,Elachistidae
+38.006,612,Elachista collitella,,Elachistidae
+38.007,613,Elachista subocellea,,Elachistidae
+38.008,614,Elachista triseriatella,,Elachistidae
+38.009,615,Elachista cahorsensis,,Elachistidae
+38.01,616,Elachista bedellella,,Elachistidae
+38.011,616a,Elachista littoricola,,Elachistidae
+38.012,617,Elachista obliquella,,Elachistidae
+38.012,,Elachista megerlella,,Elachistidae
+38.013,618,Elachista cingillella,,Elachistidae
+38.014,619,Elachista unifasciella,,Elachistidae
+38.014,,Elachista densicornuella,,Elachistidae
+38.015,620,Elachista gangabella,,Elachistidae
+38.015,,Elachista taeniatella,,Elachistidae
+38.016,621,Elachista subalbidella,,Elachistidae
+38.017,622,Elachista adscitella,,Elachistidae
+38.018,623,Elachista bisulcella,,Elachistidae
+38.018,,Elachista zonariella,,Elachistidae
+38.019,593,Elachista regificella,,Elachistidae
+38.02,593a,Elachista geminatella,,Elachistidae
+38.021,093b,Elachista tengstromi,,Elachistidae
+38.022,594,Elachista gleichenella,,Elachistidae
+38.022,,Elachista magnificella,,Elachistidae
+38.023,595,Elachista biatomella,,Elachistidae
+38.024,596,Elachista poae,,Elachistidae
+38.025,597,Elachista atricomella,,Elachistidae
+38.026,598,Elachista kilmunella,,Elachistidae
+38.027,598a,Elachista eskoi,,Elachistidae
+38.028,599,Elachista alpinella,,Elachistidae
+38.029,600,Elachista luticomella,,Elachistidae
+38.03,601,Elachista albifrontella,,Elachistidae
+38.031,601a,Elachista nobilella,,Elachistidae
+38.032,602,Elachista apicipunctella,,Elachistidae
+38.033,603,Elachista subnigrella,,Elachistidae
+38.034,604,Elachista orstadii,,Elachistidae
+38.035,605,Elachista pomerana,,Elachistidae
+38.036,606,Elachista humilis,,Elachistidae
+38.036,,Elachista occultella,,Elachistidae
+38.036,,Elachista perplexella,,Elachistidae
+38.037,607,Elachista canapennella,,Elachistidae
+38.037,,Elachista obscurella,,Elachistidae
+38.037,,Elachista pulchrella,,Elachistidae
+38.038,608,Elachista rufocinerea,,Elachistidae
+38.039,609,Elachista maculicerusella,,Elachistidae
+38.039,,Elachista cerusella,,Elachistidae
+38.039,,Elachista monosemiella,,Elachistidae
+38.04,624,Elachista trapeziella,,Elachistidae
+38.041,625,Elachista cinereopunctella,,Elachistidae
+38.042,626,Elachista serricornis,,Elachistidae
+38.043,627,Elachista scirpi,,Elachistidae
+38.044,628,Elachista eleochariella,,Elachistidae
+38.045,629,Elachista utonella,,Elachistidae
+38.045,,Biselachista paludum,,Elachistidae
+38.046,630,Elachista albidella,,Elachistidae
+38.046,,Biselachista rhynchosporella,,Elachistidae
+38.047,631,Elachista freyerella,,Elachistidae
+38.047,,Cosmiotes nigrella,,Elachistidae
+38.048,632,Elachista consortella,,Elachistidae
+38.048,,Cosmiotes exiguella,,Elachistidae
+38.049,633,Elachista stabilella,,Elachistidae
+39.001,905,Blastodacna hellerella,,Parametriotidae
+39.002,906,Blastodacna atra,Apple Pith Moth,Parametriotidae
+39.003,904,Spuleria flavicaput,,Parametriotidae
+39.004,907,Dystebenna stephensi,,Parametriotidae
+39.005,903,Chrysoclista linneella,,Parametriotidae
+39.006,902,Chrysoclista lathamella,,Parametriotidae
+39.006,,Chrysoclista bimaculella,,Parametriotidae
+40.001,885,Mompha conturbatella,,Momphidae
+40.002,886,Mompha ochraceella,,Momphidae
+40.003,887,Mompha lacteella,,Momphidae
+40.004,888,Mompha propinquella,,Momphidae
+40.005,889,Mompha divisella,,Momphidae
+40.006,890,Mompha jurassicella,,Momphidae
+40.006,,Mompha subdivisella,,Momphidae
+40.007,889a,Mompha bradleyi,,Momphidae
+40.008,892,Mompha subbistrigella,,Momphidae
+40.009,891,Mompha sturnipennella,,Momphidae
+40.009,,Mompha nodicolella,,Momphidae
+40.01,893,Mompha epilobiella,,Momphidae
+40.01,,Mompha fulvescens,,Momphidae
+40.011,880,Mompha langiella,,Momphidae
+40.012,884,Mompha miscella,,Momphidae
+40.013,882,Mompha locupletella,,Momphidae
+40.014,881,Mompha terminella,,Momphidae
+40.015,883,Mompha raschkiella,,Momphidae
+41.001,875,Blastobasis phycidella,,Blastobasidae
+41.002,873,Blastobasis adustella,,Blastobasidae
+41.002,,Blastobasis lignea,,Blastobasidae
+41.003,874,Blastobasis lacticolella,,Blastobasidae
+41.003,,Blastobasis decolorella,,Blastobasidae
+41.004,873a,Blastobasis vittata,,Blastobasidae
+41.0041,,Blastobasis maroccanella,,Blastobasidae
+41.005,875a,Blastobasis rebeli,,Blastobasidae
+41.005,,Blastobasis wolffi,,Blastobasidae
+41.006,875b,Hypatopa binotella,,Blastobasidae
+42.001,877c,Pachyrhabda steropodes,,Stathmopodidae
+42.002,877,Stathmopoda pedella,,Stathmopodidae
+42.0021,877a,Stathmopoda diplaspis,,Stathmopodidae
+42.0022,877b,Stathmopoda auriferella,,Stathmopodidae
+43.001,913,Scythris fallacella,,Scythrididae
+43.002,911,Scythris grandipennis,,Scythrididae
+43.003,912,Scythris fuscoaenea,,Scythrididae
+43.004,915,Scythris picaepennis,,Scythrididae
+43.005,914,Scythris crassiuscula,,Scythrididae
+43.005,,Scythris fletcherella,,Scythrididae
+43.006,920,Scythris potentillella,,Scythrididae
+43.0061,920b,Scythris sinensis,,Scythrididae
+43.007,918,Scythris limbella,,Scythrididae
+43.007,,Scythris quadriguttella,,Scythrididae
+43.008,920a,Scythris inspersella,,Scythrididae
+43.009,917,Scythris empetrella,,Scythrididae
+43.009,,Scythris variella,,Scythrididae
+43.01,916,Scythris siccella,,Scythrididae
+43.011,919,Scythris cicadella,,Scythrididae
+44.001,1288,Alucita hexadactyla,Many-plumed Moth,Alucitidae
+45.001,1488,Agdistis bennetii,Saltmarsh Plume,Pterophoridae
+45.002,1487,Agdistis meridionalis,Cliff Plume,Pterophoridae
+45.003,1488a,Agdistis tamaricis,Tamarisk Plume,Pterophoridae
+45.004,1501,Platyptilia gonodactyla,Triangle Plume,Pterophoridae
+45.005,1500,Platyptilia calodactyla,Goldenrod Plume,Pterophoridae
+45.006,1502,Platyptilia isodactylus,Hoary Plume,Pterophoridae
+45.007,1499,Platyptilia tesseradactyla,Irish Plume,Pterophoridae
+45.008,1504,Gillmeria pallidactyla,Yarrow Plume,Pterophoridae
+45.009,1503,Gillmeria ochrodactyla,Tansy Plume,Pterophoridae
+45.01,1497,Amblyptilia acanthadactyla,Beautiful Plume,Pterophoridae
+45.011,1498,Amblyptilia punctidactyla,Brindled Plume,Pterophoridae
+45.012,1509,Stenoptilia pterodactyla,Brown Plume,Pterophoridae
+45.013,1508,Stenoptilia bipunctidactyla,Twin-spot Plume,Pterophoridae
+45.014,1508e,Stenoptilia scabiodactylus,Gregson's Plume,Pterophoridae
+45.015,1508d,Stenoptilia inopinata,Scarce Plume,Pterophoridae
+45.016,1508f,Stenoptilia gallobritannidactyla,,Pterophoridae
+45.017,1508c,Stenoptilia annadactyla,Small Scabious Plume,Pterophoridae
+45.018,1508a,Stenoptilia islandicus,Mountain Plume,Pterophoridae
+45.019,1506,Stenoptilia millieridactyla,Saxifrage Plume,Pterophoridae
+45.02,1505,Stenoptilia pneumonanthes,Gentian Plume,Pterophoridae
+45.021,1507,Stenoptilia zophodactylus,Dowdy Plume,Pterophoridae
+45.022,1496,Cnaemidophorus rhododactyla,Rose Plume,Pterophoridae
+45.023,1495,Marasmarcha lunaedactyla,Crescent Plume,Pterophoridae
+45.024,1489,Oxyptilus pilosellae,Downland Plume,Pterophoridae
+45.025,1490,Oxyptilus parvidactyla,Small Plume,Pterophoridae
+45.026,1491,Crombrugghia distans,Breckland Plume,Pterophoridae
+45.027,1492,Crombrugghia laetus,Scarce Light Plume,Pterophoridae
+45.028,1494,Capperia britanniodactylus,Wood Sage Plume,Pterophoridae
+45.029,1493,Buckleria paludum,Sundew Plume,Pterophoridae
+45.03,1513,Pterophorus pentadactyla,White Plume,Pterophoridae
+45.031,1514,Porrittia galactodactyla,Spotted-white Plume,Pterophoridae
+45.032,1511,Merrifieldia tridactyla,Western Thyme Plume,Pterophoridae
+45.033,1510,Merrifieldia leucodactyla,Thyme Plume,Pterophoridae
+45.034,1512,Merrifieldia baliodactylus,Dingy White Plume,Pterophoridae
+45.035,1515,Wheeleria spilodactylus,Horehound Plume,Pterophoridae
+45.036,1516,Pselnophorus heterodactyla,Short-winged Plume,Pterophoridae
+45.037,1523,Oidaematophorus lithodactyla,Dusky Plume,Pterophoridae
+45.038,1522,Hellinsia tephradactyla,Plain Plume,Pterophoridae
+45.039,1519,Hellinsia carphodactyla,Citron Plume,Pterophoridae
+45.04,1518,Hellinsia lienigianus,Mugwort Plume,Pterophoridae
+45.041,1520,Hellinsia osteodactylus,Small Goldenrod Plume,Pterophoridae
+45.042,1521,Hellinsia chrysocomae,Scarce Goldenrod Plume,Pterophoridae
+45.043,1517,Adaina microdactyla,Hemp Agrimony Plume,Pterophoridae
+45.044,1524,Emmelina monodactyla,Common Plume,Pterophoridae
+45.045,1524a,Emmelina argoteles,Reedbed Plume,Pterophoridae
+46.001,485,Schreckensteinia festaliella,,Schrekensteiniidae
+47.001,478,Phaulernis fulviguttella,,Epermeniidae
+47.002,477,Phaulernis dentella,,Epermeniidae
+47.003,482,Epermenia insecurella,,Epermeniidae
+47.004,484,Epermenia aequidentellus,,Epermeniidae
+47.005,483,Epermenia chaerophyllella,,Epermeniidae
+47.006,481,Epermenia falciformis,,Epermeniidae
+47.007,479,Epermenia farreni,,Epermeniidae
+47.008,480,Epermenia profugella,,Epermeniidae
+48.001,385,Anthophila fabriciana,,Choreutidae
+48.002,388,Prochoreutis myllerana,,Choreutidae
+48.003,387,Prochoreutis sehestediana,,Choreutidae
+48.004,386a,Tebenna bjerkandrella,,Choreutidae
+48.005,386,Tebenna micalis,,Choreutidae
+48.006,390,Choreutis diana,,Choreutidae
+48.007,389,Choreutis pariana,Apple Leaf Skeletonizer,Choreutidae
+48.0071,389a,Choreutis nemorana,,Choreutidae
+49.001,1013,Olindia schumacherana,,Tortricidae
+49.002,1014,Isotrias rectifasciana,,Tortricidae
+49.003,1012,Sparganothis pilleriana,,Tortricidae
+49.004,1010,Ditula angustiorana,Red-barred Tortrix,Tortricidae
+49.005,1006,Epagoge grotiana,,Tortricidae
+49.006,1004,Paramesia gnomana,,Tortricidae
+49.007,1005,Periclepsis cinctana,,Tortricidae
+49.008,1008,Philedone gerningana,,Tortricidae
+49.009,1007,Capua vulgana,,Tortricidae
+49.01,1009,Philedonides lunana,,Tortricidae
+49.011,976,Archips oporana,,Tortricidae
+49.012,978,Archips betulana,,Tortricidae
+49.013,977,Archips podana,Large Fruit-tree Tortrix,Tortricidae
+49.014,979,Archips crataegana,Brown Oak Tortrix,Tortricidae
+49.015,980,Archips xylosteana,Variegated Golden Tortrix,Tortricidae
+49.016,981,Archips rosana,Rose Tortrix,Tortricidae
+49.0161,981a,Archips argyrospila,,Tortricidae
+49.0162,981b,Archips semiferanus,,Tortricidae
+49.017,982,Choristoneura diversana,,Tortricidae
+49.018,983,Choristoneura hebenstreitella,,Tortricidae
+49.019,984,Choristoneura lafauryana,,Tortricidae
+49.02,974,Argyrotaenia ljungiana,,Tortricidae
+49.02,,Argyrotaenia pulchellana,,Tortricidae
+49.0201,975,Homona coffearia,Camellia Tortrix,Tortricidae
+49.021,987,Ptycholomoides aeriferana,,Tortricidae
+49.022,1000,Ptycholoma lecheana,,Tortricidae
+49.023,971,Pandemis cinnamomeana,,Tortricidae
+49.024,969,Pandemis corylana,Chequered Fruit-tree Tortrix,Tortricidae
+49.025,970,Pandemis cerasana,Barred Fruit-tree Tortrix,Tortricidae
+49.026,972,Pandemis heparana,Dark Fruit-tree Tortrix,Tortricidae
+49.027,973,Pandemis dumetana,,Tortricidae
+49.028,986,Syndemis musculana,,Tortricidae
+49.028,,Syndemis musculana musculinana,,Tortricidae
+49.029,1002,Lozotaenia forsterana,,Tortricidae
+49.03,985,Cacoecimorpha pronubana,Carnation Tortrix,Tortricidae
+49.031,989,Aphelia paleana,Timothy Tortrix,Tortricidae
+49.031,,Aphelia paleana/unitana,,Tortricidae
+49.032,990,Aphelia unitana,,Tortricidae
+49.033,988,Aphelia viburnana,Bilberry Tortrix,Tortricidae
+49.034,990a,Dichelia histrionana,,Tortricidae
+49.035,991,Clepsis senecionana,,Tortricidae
+49.036,992,Clepsis rurinana,,Tortricidae
+49.037,993,Clepsis spectrana,Cyclamen Tortrix,Tortricidae
+49.0371,993a,Clepsis coriacana,,Tortricidae
+49.0372,993b,Clepsis dumicolana,,Tortricidae
+49.038,994,Clepsis consimilana,,Tortricidae
+49.0381,997,Epichoristodes acerbella,African Carnation Tortrix,Tortricidae
+49.039,998,Epiphyas postvittana,Light Brown Apple Moth,Tortricidae
+49.04,1001,Lozotaeniodes formosana,,Tortricidae
+49.041,999,Adoxophyes orana,Summer Fruit Tortrix,Tortricidae
+49.0411,999a,Adoxophyes privatana,,Tortricidae
+49.0412,1012a,Platynota rostrana,,Tortricidae
+49.042,1027,Neosphaleroptera nubilana,,Tortricidae
+49.043,1026,Exapate congelatella,,Tortricidae
+49.044,1025,Tortricodes alternella,,Tortricidae
+49.045,1029,Eana osseana,,Tortricidae
+49.046,1028,Eana argentana,,Tortricidae
+49.047,1030,Eana incanana,,Tortricidae
+49.048,1031,Eana penziana,,Tortricidae
+49.048,,Eana penziana bellana,,Tortricidae
+49.048,,Eana penziana colquhounana,,Tortricidae
+49.048,,Eana penziana penziana,,Tortricidae
+49.049,1024,Cnephasia incertana,Light Grey Tortrix,Tortricidae
+49.05,1020,Cnephasia stephensiana,Grey Tortrix,Tortricidae
+49.05,,Cnephasia stephensiana f. octomaculana,Grey Tortrix,Tortricidae
+49.051,1021,Cnephasia asseclana,Flax Tortrix,Tortricidae
+49.051,,Cnephasia interjectana,Flax Tortrix,Tortricidae
+49.052,1022,Cnephasia pasiuana,,Tortricidae
+49.053,1022a,Cnephasia pumicana,Cereal Tortrix,Tortricidae
+49.054,1023,Cnephasia genitalana,,Tortricidae
+49.055,1018,Cnephasia communana,,Tortricidae
+49.056,1019,Cnephasia conspersana,,Tortricidae
+49.057,1016,Cnephasia longana,,Tortricidae
+49.0571,1017,Cnephasia gueneana,,Tortricidae
+49.058,1034,Spatalistis bifasciana,,Tortricidae
+49.059,1033,Tortrix viridana,Green Oak Tortrix,Tortricidae
+49.06,1032,Aleimma loeflingiana,,Tortricidae
+49.061,1037,Acleris holmiana,,Tortricidae
+49.062,1036,Acleris forsskaleana,,Tortricidae
+49.063,1035,Acleris bergmanniana,,Tortricidae
+49.064,1040,Acleris caledoniana,,Tortricidae
+49.065,1039,Acleris comariana,Strawberry Tortrix,Tortricidae
+49.066,1038,Acleris laterana,,Tortricidae
+49.067,1059,Acleris abietana,,Tortricidae
+49.068,1060,Acleris maccana,,Tortricidae
+49.069,1041,Acleris sparsana,,Tortricidae
+49.07,1042,Acleris rhombana,Rhomboid Tortrix,Tortricidae
+49.071,1062,Acleris emargana,,Tortricidae
+49.072,1062a,Acleris effractana,,Tortricidae
+49.072,,Acleris stettinensis,,Tortricidae
+49.073,1047,Acleris schalleriana,,Tortricidae
+49.074,1058,Acleris lorquiniana,,Tortricidae
+49.075,1052,Acleris umbrana,,Tortricidae
+49.076,1054,Acleris cristana,,Tortricidae
+49.077,1048,Acleris variegana,Garden Rose Tortrix,Tortricidae
+49.078,1043,Acleris aspersana,,Tortricidae
+49.079,1046,Acleris shepherdana,,Tortricidae
+49.08,1053,Acleris hastiana,,Tortricidae
+49.081,1049,Acleris permutana,,Tortricidae
+49.082,1055,Acleris hyemana,,Tortricidae
+49.083,1044,Acleris ferrugana,,Tortricidae
+49.084,1045,Acleris notana,,Tortricidae
+49.085,1050,Acleris kochiella,,Tortricidae
+49.086,1051,Acleris logiana,,Tortricidae
+49.087,1061,Acleris literana,,Tortricidae
+49.088,1056,Acleris lipsiana,,Tortricidae
+49.089,1057,Acleris rufana,,Tortricidae
+49.09,1015,Eulia ministrana,,Tortricidae
+49.091,1011,Pseudargyrotoza conwagana,,Tortricidae
+49.092,921,Phtheochroa inopiana,,Tortricidae
+49.093,922,Phtheochroa schreibersiana,,Tortricidae
+49.094,923,Phtheochroa sodaliana,,Tortricidae
+49.095,925,Phtheochroa rugosana,,Tortricidae
+49.096,924,Hysterophora maculosana,,Tortricidae
+49.097,936,Cochylimorpha straminea,,Tortricidae
+49.098,935,Cochylimorpha alternana,,Tortricidae
+49.099,933,Phalonidia gilvicomana,,Tortricidae
+49.1,934,Phalonidia curvistrigana,,Tortricidae
+49.101,926,Phalonidia manniana,,Tortricidae
+49.102,926a,Phalonidia udana,,Tortricidae
+49.103,932,Phalonidia affinitana,,Tortricidae
+49.104,931,Gynnidomorpha luridana,,Tortricidae
+49.105,929,Gynnidomorpha vectisana,,Tortricidae
+49.106,927,Gynnidomorpha minimana,,Tortricidae
+49.107,928,Gynnidomorpha permixtana,,Tortricidae
+49.108,930,Gynnidomorpha alismana,,Tortricidae
+49.109,937,Agapeta hamana,,Tortricidae
+49.11,938,Agapeta zoegana,,Tortricidae
+49.111,954,Eupoecilia angustana,,Tortricidae
+49.111,,Eupoecilia angustana angustana,,Tortricidae
+49.111,,Eupoecilia angustana f. fasciella,,Tortricidae
+49.111,,Eupoecilia angustana thuleana,,Tortricidae
+49.112,955,Eupoecilia ambiguella,Vine Moth,Tortricidae
+49.113,952,Commophila aeneana,,Tortricidae
+49.114,941,Aethes hartmanniana,,Tortricidae
+49.115,942,Aethes piercei,,Tortricidae
+49.116,944,Aethes williana,,Tortricidae
+49.117,943,Aethes margarotana,,Tortricidae
+49.118,948,Aethes margaritana,,Tortricidae
+49.119,940,Aethes rutilana,,Tortricidae
+49.12,947,Aethes smeathmanniana,,Tortricidae
+49.121,939,Aethes tesserana,,Tortricidae
+49.122,949,Aethes dilucidana,,Tortricidae
+49.123,951,Aethes beatricella,,Tortricidae
+49.124,950,Aethes francillana,,Tortricidae
+49.125,951a,Aethes bilbaensis,,Tortricidae
+49.126,950a,Aethes fennicana,,Tortricidae
+49.127,945,Aethes cnicana,,Tortricidae
+49.128,946,Aethes rubigana,,Tortricidae
+49.129,959,Cochylidia rupicola,,Tortricidae
+49.13,958,Cochylidia subroseana,,Tortricidae
+49.131,957,Cochylidia heydeniana,,Tortricidae
+49.132,956,Cochylidia implicitana,,Tortricidae
+49.133,968,Cochylis nana,,Tortricidae
+49.134,962,Cochylis roseana,,Tortricidae
+49.135,963,Cochylis flaviciliana,,Tortricidae
+49.136,965,Cochylis hybridella,,Tortricidae
+49.137,964,Cochylis dubitana,,Tortricidae
+49.138,964a,Cochylis molliculana,,Tortricidae
+49.139,966,Cochylis atricapitana,,Tortricidae
+49.14,967,Cochylis pallidana,,Tortricidae
+49.141,961,Falseuncaria degreyana,,Tortricidae
+49.142,960,Falseuncaria ruficiliana,,Tortricidae
+49.143,1114,Eudemis porphyrana,,Tortricidae
+49.144,1113,Eudemis profundana,,Tortricidae
+49.145,1088,Pseudosciaphila branderiana,,Tortricidae
+49.146,1089,Apotomis semifasciana,,Tortricidae
+49.147,1090,Apotomis infida,,Tortricidae
+49.148,1091,Apotomis lineana,,Tortricidae
+49.149,1092,Apotomis turbidana,,Tortricidae
+49.15,1093,Apotomis betuletana,,Tortricidae
+49.151,1094,Apotomis capreana,,Tortricidae
+49.152,1095,Apotomis sororculana,,Tortricidae
+49.153,1096,Apotomis sauciana,,Tortricidae
+49.153,,Apotomis sauciana grevillana,,Tortricidae
+49.154,1087,Orthotaenia undulana,,Tortricidae
+49.155,1086,Hedya salicella,,Tortricidae
+49.156,1083,Hedya nubiferana,Marbled Orchard Tortrix,Tortricidae
+49.156,,Hedya dimidioalba,Marbled Orchard Tortrix,Tortricidae
+49.156,,Hedya variegana,Marbled Orchard Tortrix,Tortricidae
+49.157,1082,Hedya pruniana,Plum Tortrix,Tortricidae
+49.158,1084,Hedya ochroleucana,,Tortricidae
+49.159,1085,Hedya atropunctana,,Tortricidae
+49.159,,Hedya dimidiana,,Tortricidae
+49.16,1065,Celypha rufana,,Tortricidae
+49.161,1063,Celypha striana,,Tortricidae
+49.162,1064,Celypha rosaceana,,Tortricidae
+49.162,,Celypha purpurana,,Tortricidae
+49.163,1067a,Celypha rurestrana,,Tortricidae
+49.164,1067,Celypha cespitana,,Tortricidae
+49.165,1066,Celypha woodiana,,Tortricidae
+49.166,1076,Celypha lacunana,,Tortricidae
+49.167,1068,Celypha rivulana,,Tortricidae
+49.168,1078,Celypha doubledayana,,Tortricidae
+49.169,1069,Celypha aurofasciana,,Tortricidae
+49.17,1077,Phiaris obsoletana,,Tortricidae
+49.171,1072,Phiaris metallicana,,Tortricidae
+49.172,1073,Phiaris schulziana,,Tortricidae
+49.173,1075,Phiaris micana,,Tortricidae
+49.173,,Olethreutes olivana,,Tortricidae
+49.174,1074,Phiaris palustrana,,Tortricidae
+49.175,1081,Pristerognatha penthinana,,Tortricidae
+49.176,1080a,Cymolomia hartigiana,,Tortricidae
+49.177,1071,Argyroploce arbutella,,Tortricidae
+49.178,1070,Stictea mygindiana,,Tortricidae
+49.179,1080,Olethreutes arcuella,,Tortricidae
+49.18,1079,Piniphila bifasciana,,Tortricidae
+49.181,1105,Lobesia occidentis,,Tortricidae
+49.182,1107,Lobesia botrana,European Vine Moth,Tortricidae
+49.183,1108,Lobesia abscisana,,Tortricidae
+49.184,1106,Lobesia reliquana,,Tortricidae
+49.185,1109,Lobesia littoralis,,Tortricidae
+49.186,1097,Endothenia gentianaeana,,Tortricidae
+49.187,1098,Endothenia oblongana,,Tortricidae
+49.188,1099,Endothenia marginana,,Tortricidae
+49.188,,Endothenia sellana,,Tortricidae
+49.189,1100,Endothenia pullana,,Tortricidae
+49.19,1101,Endothenia ustulana,,Tortricidae
+49.191,1102,Endothenia nigricostana,,Tortricidae
+49.192,1103,Endothenia ericetana,,Tortricidae
+49.193,1104,Endothenia quadrimaculana,,Tortricidae
+49.194,1111,Bactra lancealana,,Tortricidae
+49.195,1110,Bactra furfurana,,Tortricidae
+49.196,1111a,Bactra lacteana,,Tortricidae
+49.197,1112,Bactra robustana,,Tortricidae
+49.198,1112a,Bactra venosana,,Tortricidae
+49.199,1217,Eucosmomorpha albersana,,Tortricidae
+49.2,1216,Enarmonia formosana,Cherry Bark Tortrix,Tortricidae
+49.2001,,Tetramoera langmaidi,,Tortricidae
+49.201,1117,Ancylis unguicella,,Tortricidae
+49.202,1118,Ancylis uncella,,Tortricidae
+49.203,1123,Ancylis laetana,,Tortricidae
+49.204,1122,Ancylis obtusana,,Tortricidae
+49.205,1116,Ancylis comptana,,Tortricidae
+49.206,1121,Ancylis upupana,,Tortricidae
+49.207,1119,Ancylis geminana,,Tortricidae
+49.207,,Ancylis biaruana,,Tortricidae
+49.208,1119b,Ancylis subarcuana,,Tortricidae
+49.208,,Ancylis inornatana,,Tortricidae
+49.209,1119a,Ancylis diminutana,,Tortricidae
+49.21,1125,Ancylis unculana,,Tortricidae
+49.211,1128,Ancylis myrtillana,,Tortricidae
+49.212,1129,Ancylis apicella,,Tortricidae
+49.213,1127,Ancylis paludana,,Tortricidae
+49.214,1126,Ancylis badiana,,Tortricidae
+49.215,1115,Ancylis achatana,,Tortricidae
+49.216,1120,Ancylis mitterbacheriana,,Tortricidae
+49.217,1124,Ancylis tineana,,Tortricidae
+49.218,1189,Eriopsela quadrana,,Tortricidae
+49.219,1204,Thiodia citrana,,Tortricidae
+49.22,1162,Rhopobota myrtillana,,Tortricidae
+49.221,1161,Rhopobota stagnana,,Tortricidae
+49.222,1158,Rhopobota ustomaculana,,Tortricidae
+49.223,1159,Rhopobota naevana,Holly Tortrix,Tortricidae
+49.223,,Rhopobota unipunctana,Holly Tortrix,Tortricidae
+49.224,1205,Spilonota ocellana,Bud Moth,Tortricidae
+49.225,1205a,Spilonota laricana,,Tortricidae
+49.226,1160,Acroclita subsequana,,Tortricidae
+49.227,1173,Gibberifera simplana,,Tortricidae
+49.228,1153,Epinotia sordidana,,Tortricidae
+49.229,1154,Epinotia caprana,,Tortricidae
+49.23,1151,Epinotia trigonella,,Tortricidae
+49.23,,Epinotia stroemiana,,Tortricidae
+49.231,1155,Epinotia brunnichana,,Tortricidae
+49.232,1152,Epinotia maculana,,Tortricidae
+49.233,1156,Epinotia solandriana,,Tortricidae
+49.234,1150,Epinotia abbreviana,,Tortricidae
+49.234,,Epinotia trimaculana,,Tortricidae
+49.235,1141,Epinotia nemorivaga,,Tortricidae
+49.236,1144a,Epinotia granitana,,Tortricidae
+49.237,1144,Epinotia signatana,,Tortricidae
+49.238,1147,Epinotia cruciana,Willow Tortrix,Tortricidae
+49.239,1148,Epinotia mercuriana,,Tortricidae
+49.24,1136,Epinotia immundana,,Tortricidae
+49.241,1149,Epinotia crenana,,Tortricidae
+49.242,1145,Epinotia nanana,,Tortricidae
+49.243,1135,Epinotia demarniana,,Tortricidae
+49.243,,Epinotia rhomboidella,,Tortricidae
+49.244,1132,Epinotia subocellana,,Tortricidae
+49.245,1137,Epinotia tetraquetrana,,Tortricidae
+49.246,1130,Epinotia pygmaeana,,Tortricidae
+49.247,1131,Epinotia subsequana,,Tortricidae
+49.248,1139,Epinotia tenerana,Nut Bud Moth,Tortricidae
+49.249,1134,Epinotia ramella,,Tortricidae
+49.25,1140,Epinotia nigricana,,Tortricidae
+49.251,1146,Epinotia rubiginosana,,Tortricidae
+49.252,1142,Epinotia tedella,,Tortricidae
+49.253,1143,Epinotia fraternana,,Tortricidae
+49.254,1133,Epinotia bilunana,,Tortricidae
+49.255,1138,Epinotia nisella,,Tortricidae
+49.256,1138a,Epinotia cinereana,,Tortricidae
+49.257,1166,Zeiraphera griseana,Larch Tortrix,Tortricidae
+49.257,,Zeiraphera diniana,Larch Tortrix,Tortricidae
+49.258,1164,Zeiraphera rufimitrana,,Tortricidae
+49.259,1163,Zeiraphera ratzeburgiana,Spruce Bud Moth,Tortricidae
+49.26,1165,Zeiraphera isertana,,Tortricidae
+49.261,1157,Crocidosema plebejana,,Tortricidae
+49.262,1198,Phaneta pauperana,,Tortricidae
+49.263,1188,Pelochrista caecimaculana,,Tortricidae
+49.264,1202,Eucosma obumbratana,,Tortricidae
+49.265,1201,Eucosma cana,,Tortricidae
+49.266,1200,Eucosma hohenwartiana,,Tortricidae
+49.267,1200b,Eucosma fulvana,,Tortricidae
+49.268,1200a,Eucosma parvulana,,Tortricidae
+49.269,1197,Eucosma campoliliana,,Tortricidae
+49.27,1194,Eucosma aemulana,,Tortricidae
+49.271,1191,Eucosma rubescana,,Tortricidae
+49.271,,Eucosma catoptrana,,Tortricidae
+49.271,,Eucosma heringiana,,Tortricidae
+49.272,1193,Eucosma tripoliana,,Tortricidae
+49.273,1195,Eucosma lacteana,,Tortricidae
+49.273,,Eucosma maritima,,Tortricidae
+49.274,1196,Eucosma metzneriana,,Tortricidae
+49.275,1192,Eucosma conterminana,,Tortricidae
+49.276,1190,Eucosma aspidiscana,,Tortricidae
+49.277,1199,Eucosma pupillana,,Tortricidae
+49.278,1171,Gypsonoma minutana,,Tortricidae
+49.279,1169,Gypsonoma dealbana,,Tortricidae
+49.28,1170,Gypsonoma oppressana,,Tortricidae
+49.281,1168,Gypsonoma sociana,,Tortricidae
+49.282,1172,Gypsonoma nitidulana,,Tortricidae
+49.283,1167,Gypsonoma aceriana,,Tortricidae
+49.284,1186,Epiblema sticticana,,Tortricidae
+49.284,,Epiblema farfarae,,Tortricidae
+49.285,1184,Epiblema scutulana,,Tortricidae
+49.286,1184a,Epiblema cirsiana,,Tortricidae
+49.287,1185,Epiblema cnicicolana,,Tortricidae
+49.288,1183,Epiblema foenella,,Tortricidae
+49.289,1187,Epiblema costipunctana,,Tortricidae
+49.29,1182,Epiblema turbidana,,Tortricidae
+49.291,1181,Epiblema grandaevana,,Tortricidae
+49.292,1174,Notocelia cynosbatella,,Tortricidae
+49.293,1180,Notocelia tetragonana,,Tortricidae
+49.294,1175,Notocelia uddmanniana,Bramble Shoot Moth,Tortricidae
+49.295,1178,Notocelia roborana,,Tortricidae
+49.296,1179,Notocelia incarnatana,,Tortricidae
+49.297,1177,Notocelia rosaecolana,,Tortricidae
+49.298,1176,Notocelia trimaculana,,Tortricidae
+49.2981,1209a,Pseudococcyx tessulatana,,Tortricidae
+49.299,1208,Pseudococcyx posticana,,Tortricidae
+49.3,1209,Pseudococcyx turionella,Pine Bud Moth,Tortricidae
+49.301,1214,Retinia resinella,Pine Resin-gall Moth,Tortricidae
+49.302,1207a,Gravitarmata margarotana,,Tortricidae
+49.303,1206,Clavigesta sylvestrana,,Tortricidae
+49.304,1207,Clavigesta purdeyi,Pine Leaf-mining Moth,Tortricidae
+49.305,1210,Rhyacionia buoliana,Pine Shoot Moth,Tortricidae
+49.306,1211,Rhyacionia pinicolana,,Tortricidae
+49.307,1212,Rhyacionia pinivorana,Spotted Shoot Moth,Tortricidae
+49.308,1213,Rhyacionia logaea,Elgin Shoot Moth,Tortricidae
+49.309,1285,Dichrorampha plumbana,,Tortricidae
+49.31,1286,Dichrorampha sedatana,,Tortricidae
+49.311,1287,Dichrorampha aeratana,,Tortricidae
+49.312,1280,Dichrorampha consortana,,Tortricidae
+49.313,1279,Dichrorampha acuminatana,,Tortricidae
+49.314,1282,Dichrorampha sylvicolana,,Tortricidae
+49.315,1281,Dichrorampha simpliciana,,Tortricidae
+49.316,1278,Dichrorampha sequana,,Tortricidae
+49.317,1277,Dichrorampha senectana,,Tortricidae
+49.318,1284,Dichrorampha vancouverana,,Tortricidae
+49.318,,Dichrorampha gueneeana,,Tortricidae
+49.319,1275,Dichrorampha flavidorsana,,Tortricidae
+49.32,1274,Dichrorampha alpinana,,Tortricidae
+49.321,1273,Dichrorampha petiverella,,Tortricidae
+49.322,1276,Dichrorampha plumbagana,,Tortricidae
+49.323,1283,Dichrorampha montanana,,Tortricidae
+49.324,1257,Cydia nigricana,Pe,Tortricidae
+49.324,,Cydia rusticella,Pe,Tortricidae
+49.325,1255,Cydia ulicetana,,Tortricidae
+49.325,,Cydia succedana,,Tortricidae
+49.326,1255a,Cydia medicaginis,Alfalf,Tortricidae
+49.327,1220,Cydia microgrammana,,Tortricidae
+49.328,1265,Cydia cognatana,,Tortricidae
+49.329,1266a,Cydia illutana,,Tortricidae
+49.33,1269,Cydia conicolana,,Tortricidae
+49.331,1270,Cydia corollana,,Tortricidae
+49.332,1268,Cydia coniferana,,Tortricidae
+49.333,1266b,Cydia indivisa,,Tortricidae
+49.334,1267,Cydia cosmophorana,,Tortricidae
+49.335,1254,Cydia strobilella,Spruce Seed Moth,Tortricidae
+49.336,1266,Cydia pactolana,,Tortricidae
+49.337,1258,Cydia millenniana,,Tortricidae
+49.337,,Cydia deciduana,,Tortricidae
+49.338,1261,Cydia pomonella,Codling Moth,Tortricidae
+49.339,1256,Cydia servillana,,Tortricidae
+49.34,1264,Cydia leguminana,,Tortricidae
+49.341,1260,Cydia splendana,,Tortricidae
+49.3411,1262a,Cydia deshaisiana,Jumping Bean Moth,Tortricidae
+49.3411,1262a,Cydia saltitans,,Tortricidae
+49.342,1259,Cydia fagiglandana,,Tortricidae
+49.342,,Cydia grossana,,Tortricidae
+49.3421,1269a,Cydia injectiva,,Tortricidae
+49.343,1262,Cydia amplana,,Tortricidae
+49.3431,1215,Thaumatotibia leucotreta,False Codling Moth,Tortricidae
+49.344,1263,Cydia inquinatana,,Tortricidae
+49.345,1219,Lathronympha strigana,,Tortricidae
+49.346,1218,Selania leplastriana,,Tortricidae
+49.347,1241,Grapholita compositella,,Tortricidae
+49.348,1243,Grapholita pallifrontana,,Tortricidae
+49.349,1242,Grapholita internana,,Tortricidae
+49.35,1240,Grapholita caecana,,Tortricidae
+49.351,1252,Grapholita lunulana,,Tortricidae
+49.352,1253,Grapholita orobana,,Tortricidae
+49.353,1244,Grapholita gemmiferana,,Tortricidae
+49.354,1251,Grapholita jungiella,,Tortricidae
+49.3541,1248,Grapholita molesta,Oriental Fruit Moth,Tortricidae
+49.355,1250,Grapholita lathyrana,,Tortricidae
+49.356,1249,Grapholita lobarzewskii,,Tortricidae
+49.356,,Grapholita prunivorana,,Tortricidae
+49.357,1247,Grapholita funebrana,Plum Fruit Moth,Tortricidae
+49.358,1246,Grapholita tenebrosana,,Tortricidae
+49.359,1245,Grapholita janthinana,,Tortricidae
+49.36,1223,Pammene splendidulana,,Tortricidae
+49.361,1228a,Pammene ignorata,,Tortricidae
+49.362,1227,Pammene giganteana,,Tortricidae
+49.362,,Pammene inquilina,,Tortricidae
+49.363,1228,Pammene argyrana,,Tortricidae
+49.364,1230,Pammene suspectana,,Tortricidae
+49.365,1229,Pammene albuginana,,Tortricidae
+49.366,1225,Pammene obscurana,,Tortricidae
+49.367,1236,Pammene fasciana,,Tortricidae
+49.367,,Pammene juliana,,Tortricidae
+49.368,1236a,Pammene herrichiana,,Tortricidae
+49.369,1226,Pammene agnotana,,Tortricidae
+49.37,1224,Pammene luedersiana,,Tortricidae
+49.371,1239,Pammene rhediella,Fruitlet Mining Tortrix,Tortricidae
+49.372,1232,Pammene populana,,Tortricidae
+49.373,1231,Pammene spiniana,,Tortricidae
+49.374,1235,Pammene trauniana,,Tortricidae
+49.375,1234,Pammene regiana,,Tortricidae
+49.376,1233,Pammene aurita,,Tortricidae
+49.376,,Pammene aurantiana,,Tortricidae
+49.377,1237,Pammene germmana,,Tortricidae
+49.378,1238,Pammene ochsenheimeriana,,Tortricidae
+49.379,1272,Pammene aurana,,Tortricidae
+49.38,1271,Pammene gallicana,,Tortricidae
+49.381,1221,Strophedra weirana,,Tortricidae
+49.382,1222,Strophedra nitidana,,Tortricidae
+36.002,879,Batrachedra pinicolella,,Batrachedridae
+62.001,1428,Aphomia sociella,Bee Moth,Pyralidae
+62.002,1429,Aphomia zelleri,,Pyralidae
+62.0021,1431,Aphomia sabella,,Pyralidae
+62.003,1430,Paralipsa gularis,Stored Nut Moth,Pyralidae
+62.004,1427,Corcyra cephalonica,Rice Moth,Pyralidae
+62.005,1426,Achroia grisella,Lesser Wax Moth,Pyralidae
+62.006,1425,Galleria mellonella,Wax Moth,Pyralidae
+62.007,1433,Cryptoblabes bistriga,,Pyralidae
+62.0071,1434,Cryptoblabes gnidiella,,Pyralidae
+62.008,1446,Salebriopsis albicilla,,Pyralidae
+62.009,1448a,Elegia fallax,,Pyralidae
+62.01,1449,Elegia similella,,Pyralidae
+62.011,1450,Ortholepis betulae,,Pyralidae
+62.012,1451,Matilella fusca,,Pyralidae
+62.013,1444,Moitrelia obductella,,Pyralidae
+62.014,1463,Pempeliella ornatella,,Pyralidae
+62.015,1462,Delplanqueia dilutella,,Pyralidae
+62.0151,,Delplanqueia inscriptella,,Pyralidae
+62.016,1447,Sciota hostilis,,Pyralidae
+62.017,1447a,Sciota adelphella,,Pyralidae
+62.018,1447b,Sciota rhenella,,Pyralidae
+62.018,,Sciotia rhenella,,Pyralidae
+62.0181,1448,Selagia argyrella,,Pyralidae
+62.019,1453,Pima boisduvaliella,,Pyralidae
+62.02,1451a,Etiella zinckenella,,Pyralidae
+62.021,1441,Oncocera semirubella,,Pyralidae
+62.022,1443,Pempelia genistella,,Pyralidae
+62.023,1442,Pempelia palumbella,,Pyralidae
+62.023,,Oncocera palumbella,,Pyralidae
+62.024,1445,Rhodophaea formosa,,Pyralidae
+62.024,,Oncocera formosa,,Pyralidae
+62.025,1454b,Dioryctria sylvestrella,,Pyralidae
+62.026,1454a,Dioryctria schuetzeella,,Pyralidae
+62.027,1455,Dioryctria simplicella,,Pyralidae
+62.028,1454,Dioryctria abietella,,Pyralidae
+62.029,1452,Phycita roborella,,Pyralidae
+62.03,1457,Hypochalcia ahenella,,Pyralidae
+62.031,1456,Epischnia asteris,,Pyralidae
+62.032,1465,Nephopterix angustella,,Pyralidae
+62.0321,1466,Mussidia nigrivenella,,Pyralidae
+62.033,1435,Acrobasis tumidana,,Pyralidae
+62.034,1436,Acrobasis repandana,,Pyralidae
+62.035,1439,Acrobasis advenella,,Pyralidae
+62.036,1438,Acrobasis suavella,,Pyralidae
+62.037,1440,Acrobasis marmorea,,Pyralidae
+62.038,1437,Acrobasis consociella,,Pyralidae
+62.039,1486,Apomyelois bistriatella,,Pyralidae
+62.039,,Apomyelois bistriatella subcognata,,Pyralidae
+62.04,1460,Apomyelois ceratoniae,Locust Bean Moth,Pyralidae
+62.041,1459,Eurhodope cirrigerella,,Pyralidae
+62.042,1458,Myelois circumvoluta,Thistle Ermine,Pyralidae
+62.043,1464,Gymnancyla canella,,Pyralidae
+62.044,1464b,Ancylodes pallens,,Pyralidae
+62.045,1464a,Zophodia grossulariella,,Pyralidae
+62.046,1461a,Eccopisa effractella,,Pyralidae
+62.047,1461,Assara terebrella,,Pyralidae
+62.048,1470,Euzophera pinguis,,Pyralidae
+62.049,1472,Euzophera bigella,,Pyralidae
+62.0491,1471,Euzophera osseatella,,Pyralidae
+62.05,1469,Euzophera cinerosella,,Pyralidae
+62.051,1468,Nyctegretis lineana,,Pyralidae
+62.051,,Nyctegretis achatinella,,Pyralidae
+62.052,1466a,Ancylosis cinnamomella,,Pyralidae
+62.053,1467,Ancylosis oblitella,,Pyralidae
+62.054,1481,Homoeosoma sinuella,,Pyralidae
+62.055,1480,Homoeosoma nebulella,,Pyralidae
+62.056,1482,Homoeosoma nimbella,,Pyralidae
+62.057,1485,Phycitodes maritima,,Pyralidae
+62.058,1483,Phycitodes binaevella,,Pyralidae
+62.059,1484,Phycitodes saxicola,,Pyralidae
+62.06,1478a,Vitula edmandsii,,Pyralidae
+62.061,1478b,Vitula biviella,,Pyralidae
+62.062,1479,Plodia interpunctella,Indian Meal Moth,Pyralidae
+62.063,1475,Ephestia kuehniella,Mediterranean Flour Moth,Pyralidae
+62.064,1473,Ephestia elutella,Cacao Moth,Pyralidae
+62.065,1474,Ephestia unicolorella,,Pyralidae
+62.065,,Ephestia parasitella,,Pyralidae
+62.066,1477,Cadra figulilella,Raisin Moth,Pyralidae
+62.067,1476,Cadra cautella,Dried Currant Moth,Pyralidae
+62.068,1478,Cadra calidella,Dried Fruit Moth,Pyralidae
+62.069,1432,Anerastia lotella,,Pyralidae
+62.07,1414,Synaphe punctalis,,Pyralidae
+62.071,1416,Pyralis lienigialis,,Pyralidae
+62.0711,1419,Pyralis pictalis,Painted Meal Moth,Pyralidae
+62.0712,1418,Pyralis manihotalis,,Pyralidae
+62.072,1417,Pyralis farinalis,Meal Moth,Pyralidae
+62.0721,1422,Aglossa dimidiatus,Tea Tabby,Pyralidae
+62.0722,1423,Aglossa ocellalis,,Pyralidae
+62.073,1420,Aglossa caprealis,Small Tabby,Pyralidae
+62.074,1421,Aglossa pinguinalis,Large Tabby,Pyralidae
+62.075,1413,Hypsopygia costalis,Gold Triangle,Pyralidae
+62.076,1415,Hypsopygia glaucinalis,,Pyralidae
+62.0761,1424a,Endotricha consobrinalis,,Pyralidae
+62.077,1424,Endotricha flammealis,,Pyralidae
+63.001,1372,Paracorsia repandalis,,Crambidae
+63.002,1368,Loxostege sticticalis,,Crambidae
+63.003,1367,Pyrausta cingulata,,Crambidae
+63.004,1364,Pyrausta sanguinalis,,Crambidae
+63.005,1365,Pyrausta despicata,,Crambidae
+63.006,1361,Pyrausta aurata,,Crambidae
+63.007,1362,Pyrausta purpuralis,,Crambidae
+63.008,1363,Pyrausta ostrinalis,,Crambidae
+63.009,1366,Pyrausta nigrata,,Crambidae
+63.01,1366a,Pyrausta aerealis,,Crambidae
+63.011,1369,Uresiphita gilvata,,Crambidae
+63.011,,Uresiphita limbalis,,Crambidae
+63.011,,Uresiphita polygonalis,,Crambidae
+63.012,1369a,Uresiphita reversalis,,Crambidae
+63.013,1387,Nascia cilialis,,Crambidae
+63.014,1370,Sitochroa palealis,,Crambidae
+63.015,1371,Sitochroa verticalis,,Crambidae
+63.016,1386,Anania fuscalis,,Crambidae
+63.017,1377,Anania lancealis,,Crambidae
+63.017,,Eurrhypara lancealis,,Crambidae
+63.018,1378,Anania coronata,,Crambidae
+63.018,,Eurrhypara coronata,,Crambidae
+63.019,1384,Anania stachydalis,,Crambidae
+63.02,1380,Anania perlucidalis,,Crambidae
+63.021,1379,Anania terrealis,,Crambidae
+63.021,,Eurrhypara terrealis,,Crambidae
+63.022,1385,Anania crocealis,,Crambidae
+63.023,1382,Anania verbascalis,,Crambidae
+63.024,1381,Anania funebris,,Crambidae
+63.025,1376,Anania hortulata,Small Magpie,Crambidae
+63.026,1374a,Sclerocona acutellus,,Crambidae
+63.027,1383,Psammotis pulveralis,,Crambidae
+63.028,1375,Ostrinia nubilalis,European Corn-borer,Crambidae
+63.029,1373,Paratalanta pandalis,Bordered Pearl,Crambidae
+63.03,1374,Paratalanta hyalinalis,,Crambidae
+63.031,1395,Udea ferrugalis,Rusty-dot Pearl,Crambidae
+63.032,1389,Udea fulvalis,,Crambidae
+63.033,1388,Udea lutealis,,Crambidae
+63.034,1390,Udea prunalis,,Crambidae
+63.035,1393,Udea uliginosalis,,Crambidae
+63.036,1391,Udea decrepitalis,,Crambidae
+63.037,1392,Udea olivalis,,Crambidae
+63.038,1405,Pleuroptya ruralis,Mother of Pearl,Crambidae
+63.0381,1407,Pleuroptya aegrotalis,,Crambidae
+63.039,1396,Mecyna flavalis,,Crambidae
+63.039,,Mecyna flavalis flaviculalis,,Crambidae
+63.04,1397,Mecyna asinalis,,Crambidae
+63.041,1410,Agrotera nemoralis,,Crambidae
+63.042,1397a,Diplopseustis perieresalis,,Crambidae
+63.0421,1402a,Diasemia accalis,,Crambidae
+63.043,1402,Diasemia reticularis,,Crambidae
+63.043,,Diasemia litterata,,Crambidae
+63.044,1403,Diasemiopsis ramburialis,,Crambidae
+63.045,1401,Maruca vitrata,Mung Moth,Crambidae
+63.045,,Maruca testulalis,Mung Moth,Crambidae
+63.046,1403a,Duponchelia fovealis,,Crambidae
+63.047,1404,Spoladea recurvalis,,Crambidae
+63.048,1408,Palpita vitrealis,,Crambidae
+63.048,,Palpita unionalis,,Crambidae
+63.049,1408a,Hodebertia testalis,,Crambidae
+63.0491,1409,Diaphania hyalinata,Melonworm,Crambidae
+63.0491,1409,Diaphania indica,Melonworm,Crambidae
+63.05,1399,Dolicharthria punctalis,,Crambidae
+63.051,1400,Antigastra catalaunalis,,Crambidae
+63.052,1398,Nomophila noctuella,Rush Veneer,Crambidae
+63.0521,1412a,Conogethes punctiferalis,,Crambidae
+63.0522,1411,Leucinodes vagans,,Crambidae
+63.0523,1411a,Leucinodes orbonalis,,Crambidae
+63.0524,1412,Sceliodes laisalis,,Crambidae
+63.053,1398a,Nomophila nearctica,,Crambidae
+63.054,1409a,Cydalima perspectalis,Box-tree Moth,Crambidae
+63.055,1406a,Herpetogramma licarsisalis,Grass Webworm,Crambidae
+63.056,1359,Cynaeda dentalis,,Crambidae
+63.0561,1359b,Eustixia pupula,,Crambidae
+63.057,1356,Evergestis forficalis,Garden Pebble,Crambidae
+63.058,1357,Evergestis extimalis,,Crambidae
+63.059,1356a,Evergestis limbata,,Crambidae
+63.06,1358,Evergestis pallidata,,Crambidae
+63.061,1360,Hellula undalis,Old World Webworm,Crambidae
+63.062,1332,Scoparia subfusca,,Crambidae
+63.063,1334a,Scoparia basistrigalis,,Crambidae
+63.064,1334,Scoparia ambigualis,,Crambidae
+63.064,,Scoparia ambigualis f. atomalis,,Crambidae
+63.065,1335,Scoparia ancipitella,,Crambidae
+63.065,,Scoparia ulmella,,Crambidae
+63.066,1333,Scoparia pyralella,,Crambidae
+63.067,1338,Eudonia lacustrata,,Crambidae
+63.067,,Dipleurina crataegella,,Crambidae
+63.068,1339,Eudonia murana,,Crambidae
+63.069,1342,Eudonia angustea,,Crambidae
+63.07,1337,Eudonia alpina,,Crambidae
+63.071,1341,Eudonia lineola,,Crambidae
+63.072,1343,Eudonia delunella,,Crambidae
+63.073,1340,Eudonia truncicolella,,Crambidae
+63.074,1344,Eudonia mercurella,,Crambidae
+63.075,1336,Eudonia pallida,,Crambidae
+63.076,1289,Euchromius ocellea,,Crambidae
+63.0761,1289a,Euchromius cambridgei,,Crambidae
+63.077,1290,Chilo phragmitella,,Crambidae
+63.078,1291,Friedlanderia cicatricella,,Crambidae
+63.079,1292,Calamotropha paludella,,Crambidae
+63.08,1293,Chrysoteuchia culmella,Garden Grass-veneer,Crambidae
+63.081,1294,Crambus pascuella,,Crambidae
+63.082,1296,Crambus silvella,,Crambidae
+63.083,1297,Crambus uliginosellus,,Crambidae
+63.084,1298,Crambus ericella,,Crambidae
+63.085,1300,Crambus pratella,,Crambidae
+63.086,1301,Crambus lathoniellus,,Crambidae
+63.087,1299,Crambus hamella,,Crambidae
+63.088,1302,Crambus perlella,,Crambidae
+63.0881,1295,Crambus leucoschalis,,Crambidae
+63.089,1305,Agriphila tristella,,Crambidae
+63.09,1306,Agriphila inquinatella,,Crambidae
+63.091,1307,Agriphila latistria,,Crambidae
+63.092,1303,Agriphila selasella,,Crambidae
+63.093,1304,Agriphila straminella,,Crambidae
+63.094,1308,Agriphila poliellus,,Crambidae
+63.095,1309,Agriphila geniculea,,Crambidae
+63.096,1310,Catoptria permutatellus,,Crambidae
+63.097,1311,Catoptria osthelderi,,Crambidae
+63.098,1312,Catoptria speculalis,,Crambidae
+63.099,1313,Catoptria pinella,,Crambidae
+63.1,1314,Catoptria margaritella,,Crambidae
+63.101,1315,Catoptria furcatellus,,Crambidae
+63.102,1316,Catoptria falsella,,Crambidae
+63.103,1317,Catoptria verellus,,Crambidae
+63.104,1318,Catoptria lythargyrella,,Crambidae
+63.105,1319,Chrysocrambus linetella,,Crambidae
+63.106,1320,Chrysocrambus craterella,,Crambidae
+63.107,1321,Thisanotia chrysonuchella,,Crambidae
+63.108,1322,Pediasia fascelinella,,Crambidae
+63.109,1323,Pediasia contaminella,,Crambidae
+63.11,1324,Pediasia aridella,,Crambidae
+63.111,1326,Platytes cerussella,,Crambidae
+63.112,1325,Platytes alpinella,,Crambidae
+63.113,1327,Ancylolomia tentaculella,,Crambidae
+63.114,1345,Elophila nymphaeata,Brown China-mark,Crambidae
+63.114,,Nymphula nymphaeata,Brown China-mark,Crambidae
+63.1141,1346,Elophila difflualis,,Crambidae
+63.1141,1346,Nymphula enixalis,,Crambidae
+63.1142,1347,Elophila melagynalis,,Crambidae
+63.1142,1347,Nymphula melagynalis,,Crambidae
+63.1143,1347a,Elophila manilensis,,Crambidae
+63.1143,1347a,Nymphula manilensis,,Crambidae
+63.1144,1355,Elophila obliteralis,,Crambidae
+63.115,1331,Acentria ephemerella,Water Veneer,Crambidae
+63.115,,Acentria nivea,Water Veneer,Crambidae
+63.116,1354,Cataclysta lemnata,Small China-mark,Crambidae
+63.117,1348,Parapoynx stratiotata,Ringed China-mark,Crambidae
+63.1171,1351,Parapoynx diminutalis,,Crambidae
+63.1172,1351a,Parapoynx fluctuosalis,,Crambidae
+63.1173,1351b,Parapoynx crisonalis,,Crambidae
+63.1174,1349,Parapoynx obscuralis,,Crambidae
+63.1175,1353,Paraponyx bilinealis,,Crambidae
+63.1176,1353a,Parapoynx polydectalis,,Crambidae
+63.1177,1352,Agassiziella angulipennis,,Crambidae
+63.118,1350,Nymphula nitidulata,Beautiful China-mark,Crambidae
+63.119,1355a,Musotima nitidalis,,Crambidae
+63.12,1328,Schoenobius gigantella,,Crambidae
+63.121,1329,Donacaula forficella,,Crambidae
+63.122,1330,Donacaula mucronella,,Crambidae
+74.0121,2419,Earias biplaga,Spiny Bollworm,Nolidae
+74.0122,2420a,Earias vittella,Eastern Bollworm,Nolidae
+74.0123,2424a,Pardasena virgulana,Grey Square,Nolidae
+B100,2234,Scotochrosta pulla,Ash Shoulder-knot,Nolidae
+B101,2207,Leucania commoides,,Nolidae
+B102,2210,Graphania dives,Maori,Nolidae
+B103,2096,Feltia subterranea,Tawny Shoulder,Nolidae
+B104,2086,Agrotis spinifera,Gregson's Dart,Nolidae
+B105,2424,Nycteola degenerana,Sallow Nycteoline,Nolidae
+B16,679,Depressaria emeritella,,Nolidae
+B17,785,Bryotropha figulella,,Nolidae
+B18,842,Sophronia humerella,,Nolidae
+B26,876,Auximobasis normalis,,Nolidae
+B27,1508b,Stenoptilia aridus,,Nolidae
+B29,1003,Lozotaenia subocellana,,Nolidae
+B30,995,Clepsis trileucana,,Nolidae
+B31,996,Clepsis melaleucanus,,Nolidae
+B34,953,Eugnosta lathoniana,,Nolidae
+B35,1203,Thiodia torridana,,Nolidae
+B4,193,Canephora hirsuta,,Nolidae
+B49,1437a,Trachonitis cristella,,Nolidae
+B52,1394,Udea alpinalis,,Nolidae
+B54,1406,Herpetogramma centrostrigalis,,Nolidae
+B55,1359a,Metaxmeste phrygialis,,Nolidae
+B58,1686,Scopula decorata,Middle Lace Border,Nolidae
+B59,1695,Scopula limboundata,Large Lace Border,Nolidae
+B6,194,Thyridopteryx ephemeraeformis,,Nolidae
+B60,1717,Lythria purpuraria,Purple-barred Yellow,Nolidae
+B64,1783,Horisme aquata,Cumbrian Umber,Nolidae
+B64,1829,Eupithecia cauchiata,Doubleday's Pug,Nolidae
+B66,1886,Abraxas pantaria,Light Magpie,Nolidae
+B67,1892,Macaria bicolorata,Dingy Angle,Nolidae
+B69,1898,Hypagyrtis unipunctata,White Spot,Nolidae
+B7,214,Cephitinea colongella,,Nolidae
+B70,1900,Nematocampa resistaria,Bordered Chequer,Nolidae
+B71,1916,Ennomos quercaria,Clouded August Thorn,Nolidae
+B72,1953,Tephronia sepiaria,Dusky Carpet,Nolidae
+B76,2486,Epizeuxis aemula,Waved Tabby,Nolidae
+B77,2487,Epizeuxis lubricalis,Twin-striped Tabby,Nolidae
+B78,2483,Schrankia intermedialis,Autumnal Snout,Nolidae
+B8,197,Euplocamus anthracinalis,,Nolidae
+B80,2458,Caenurgina crassiuscula,Double-barred,Nolidae
+B81,2459,Mocis trifasciata,Triple-barred,Nolidae
+B85,2446,Megalographa bimaculata,Double-spotted Spangle,Nolidae
+B86,2417,Acontia nitidula,Brixton Beauty,Nolidae
+B87,2282,Acronicta cuspis,Large Dagger,Nolidae
+B89,2212,Cucullia argentea,Green Silver-spangled Shark,Nolidae
+B9,269,Bucculatrix artemisiella,,Nolidae
+B90,2215,Cucullia lactucae,Lettuce Shark,Nolidae
+B91,2222,Shargacucullia prenanthis,False Water Betony,Nolidae
+B92,2222a,Cucullia caninae,,Nolidae
+B92,2222a,Shargacucullia caninae,,Nolidae
+B94,2246,Valeria oleagina,Green-brindled Dot,Nolidae
+B95,2406,Schinia rivulosa,Scarce Meal-moth,Nolidae
+B95,2343b,Mesapamea remmi,Remm's Rustic,Nolidae
+B97,2310,Eucarta amethystina,Cumberland Green,Nolidae
+B99,2146,Lacinipolia renigera,Kidney-spotted Minor,Nolidae
+55.0001,1486a,Telchines vialis,,Zygaenidae
+56.001,1536,Parnassius apollo,Apollo,Papilionidae
+56.002,1540,Iphiclides podalirius,Scarce Swallowtail,Papilionidae
+57.003,1525a,Heteropterus morpheus,Large Chequered Skipper,Hesperiidae
+57.0071,,Hylephilla phyleus,Fiery Skipper,Hesperiidae
+58.004,1554,Euchloe simplonia,Dappled White,Pieridae
+58.014,1547,Gonepteryx cleopatra,Cleopatra,Pieridae
+59.025,1592,Vanessa virginiensis,American Painted Lady,Nymphalidae
+59.018,1609,Argynnis pandora,Mediterranean Fritillary,Nymphalidae
+59.032,1599,Araschnia levana,European Map,Nymphalidae
+59.035,1611,Melitaea didyma,Spotted Fritillary,Nymphalidae
+61.0081,,Cacyreus marshalli,Geranium Bronze,Lycaenidae
+61.0131,,Glaucopsyche alexis,Green-underside Blue,Lycaenidae
+59.006,1619,Erebia ligea,Arran Brown,Nymphalidae
+68.0011,1643a,Saturnia pyri,Great Peacock Moth,Saturniidae
+69.0041,1971,Agrius cingulata,Pink-spotted Hawk-moth,Sphingidae
+69.0051,1974,Manduca quinquemaculatus,Five-spotted Hawk-moth,Sphingidae
+69.0052,1975a,Manduca rustica,Rustic Sphinx,Sphingidae
+69.0053,1975,Manduca sexta,Tomato Sphinx,Sphingidae
+69.0061,1977,Sphinx drupiferarum,Wild Cherry Sphinx,Sphingidae
+69.0141,1988,Hyles nicaea,Mediterranean Hawk-moth,Sphingidae
+69.0142,1989,Hyles hippophaes,Seathorn Hawk-moth,Sphingidae
+69.0151,1990a,Hyles lineata,White-lined Hawk-moth,Sphingidae
+70.0042,1703,Idaea inquinata,Rusty Wave,Geometridae
+70.0043,1700,Idaea laevigata,Strange Wave,Geometridae
+70.0201,1685,Scopula virgulata,Streaked Wave,Geometridae
+70.0581,1741a,Costaconvexa centrostrigaria,Traveller,Geometridae
+70.1561,1853a,Eupithecia massiliata,Epping Pug,Geometridae
+70.2361,1916a,Ennomos subsignaria,Elm Spanworm,Geometridae
+70.2571,,Menophra japygiaria,Brassy Waved Umber,Geometridae
+70.2841,,Pungelaria capreolaria,Banded Pine Carpet,Geometridae
+70.3051,1671,Chlorochlamys chloroleucaria,Blackberry Looper,Geometridae
+72.0011,2471,Anomis sabulifera,Angled Gem,Erebidae
+72.0012,2471a,Dinumma deponens,Landguard Curved-ribbon,Erebidae
+72.0071,2481,Plathypena scabra,Black Snout,Erebidae
+,,,,
+,,,,
+72.0021,2475a,Orodesma apicina,,Erebidae
+72.0272,2065,Pyrrharctia isabella,Isabelline Tiger,Erebidae
+72.0273,2066,Halysidota moeschleri,,Erebidae
+72.0281,2056a,Pericallia ricini,,Erebidae
+72.0282,2069a,Hypercompe scribonia,Great Leopard,Erebidae
+72.0341,2055,Utetheisa bella,Beautiful Utetheisa,Erebidae
+72.0504,2496,Eudryas staejohannis,,Erebidae
+72.0811,2457a,Achaea janata,Castor Semi-looper,Erebidae
+72.0813,2465a,Diphthera festiva,,Erebidae
+72.0814,2468,Synedoida grandirena,Great Kidney,Erebidae
+72.0871,2455b,Pandesma robusta,Robust Tabby,Erebidae
+72.0872,2457,Clytie illunaris,Trent Double-stripe,Erebidae
+73.0211,2435a,Pseudoplusia includens,Soybean Looper,Noctuidae
+73.0271,2416,Acontia aprica,Nun,Noctuidae
+73.0321,2426,Charadra deridens,Marbled Tuffet,Noctuidae
+73.0331,2427,Raphia frater,Brother,Noctuidae
+73.0641,2234a,Copipanolis styracis,Fawn Sallow,Noctuidae
+73.0771,2390,Condica capensis,African,Noctuidae
+73.0891,2386b,Spodoptera eridania,Southern Arm Worm,Noctuidae
+73.0892,2386a,Spodoptera litura,Asian Cotton Leaf Worm,Noctuidae
+73.0911,2396a,Elaphria agrotina,Agrotina Midget,Noctuidae
+73.2611,2146a,Lacinipolia laudabilis,,Noctuidae
+73.3061,2179a,Xanthopastis timais,Spanish Moth,Noctuidae
+73.3062,2180,Brithys crini,Kew Arches,Noctuidae
+73.3141,2095,Feltia subgothica,Gothic Dart,Noctuidae
+73.3271,2094a,Agrotis deprivata,,Noctuidae

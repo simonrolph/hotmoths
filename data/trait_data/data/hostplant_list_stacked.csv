@@ -1,0 +1,4955 @@
+abh_number,plant_species,hostplant_category
+3.001,Bracken Pteridium aquilinum,1
+3.001,dandelions Taraxacum spp.,1
+3.001, Broad-leaved Dock Rumex obtusifolius,1
+3.001,grasses ,1
+3.001,viper's-buglosses Echium spp.,1
+3.002, Red Dead-nettle Lamium purpureum,1
+3.002, White Dead-nettle Lamium album,1
+3.002,docks Rumex spp.,1
+3.002,geraniums Pelargonium spp.,1
+3.002, Black Horehound Ballota nigra,1
+3.002,grasses ,1
+3.003, Red Fescue Festuca rubra,1
+3.003,Bracken Pteridium aquilinum,1
+3.004,mosses,1
+3.004,Bracken Pteridium aquilinum,1
+3.004,Bracken Pteridium aquilinum,1
+3.004, Swan's-neck Thyme-moss Mnium hornum,1
+3.005,burdocks Arctium spp.,1
+3.005,dead-nettles Lamium spp.,1
+3.005, Water Figwort Scrophularia auriculata,1
+3.005,Hop Humulus lupulus,1
+3.005,nettles Urtica spp.,1
+3.005, Wild Strawberry Fragaria vesca,1
+3.005,dandelions Taraxacum spp.,1
+3.005,docks Rumex spp.,1
+3.005, Black Horehound Ballota nigra,1
+3.005,grasses ,1
+50.001,Alder Alnus glutinosa,1
+50.001,Apple Malus domestica,1
+50.001,Ash Fraxinus excelsior,1
+50.001,birches Betula spp.,1
+50.001,Plum Prunus domestica,1
+50.001, Sweet Chestnut Castanea sativa,1
+50.001, English Elm Ulmus procera,1
+50.001, Pedunculate Oak Quercus robur,1
+50.001,Pear Pyrus communis,1
+50.001,poplars Populus spp.,1
+50.001,willows Salix spp.,1
+50.002,Beech Fagus sylvatica,1
+50.002,Blackthorn Prunus spinosa,1
+50.002,cherries Prunus spp.,1
+50.002, Black Currant Ribes nigrum,1
+50.002,elms Ulmus spp.,1
+50.002,Hawthorn Crataegus monogyna,1
+50.002,Honeysuckle Lonicera periclymenum,1
+50.002,Horse-chestnut Aesculus hippocastanum,1
+50.002,Lilac Syringa vulgaris,1
+50.002,Sycamore Acer pseudoplatanus,1
+50.002,oaks Quercus spp.,1
+50.002,privets Ligustrum spp.,1
+50.002,Wayfaring-tree Viburnum lantana,1
+50.002,Rowan Sorbus aucuparia,1
+50.002,Apple Malus domestica,1
+50.002,Ash Fraxinus excelsior,1
+50.002,birches Betula spp.,1
+50.002,Pear Pyrus communis,1
+50.002,willows Salix spp.,1
+50.003, Common Reed Phragmites australis,1
+52.001,Raspberry Rubus idaeus,1
+52.002,Aspen Populus tremula,1
+52.002,Black-poplar Populus nigra,1
+52.002, Hybrid Black-poplar Populus x canadensis,1
+52.002,Lombardy-poplar Populus nigra,1
+52.002, Grey Poplar Populus x canescens,1
+52.002, White Poplar Populus alba,1
+52.002,willows Salix spp.,1
+52.002,balsam-poplars Populus spp.,1
+52.002, Siberian Crack-willow Salix acutifolia,1
+52.003, Hybrid Salix x fragilis,1
+52.003, Goat Willow Salix caprea,1
+52.003, Grey Willow Salix cinerea,1
+52.003,Black-poplar Populus nigra,1
+52.003,Lombardy-poplar Populus nigra,1
+52.003,willows Salix spp.,1
+52.005, Downy Birch Betula pubescens,1
+52.005, Silver Birch Betula pendula,1
+52.006,Alder Alnus glutinosa,1
+52.006,birches Betula spp.,1
+52.007, Downy Birch Betula pubescens,1
+52.007, Silver Birch Betula pendula,1
+52.007,Alder Alnus glutinosa,1
+52.008,Almond Prunus dulcis,1
+52.008,Osier Salix viminalis,1
+52.008, Creeping Willow Salix repens,1
+52.008, Tea-leaved Willow Salix phylicifolia,1
+52.008, Goat Willow Salix caprea,1
+52.008, Grey Willow Salix cinerea,1
+52.009, Goat Willow Salix caprea,1
+52.009, Grey Willow Salix cinerea,1
+52.01,Guelder-rose Viburnum opulus,1
+52.01,Wayfaring-tree Viburnum lantana,1
+52.011, Crab Apple Malus sylvestris,1
+52.011,Peach Prunus persica,2
+52.011,Almond Prunus dulcis,2
+52.011,cherries Prunus spp.,2
+52.011,Hawthorn Crataegus monogyna,2
+52.011,Rowan Sorbus aucuparia,2
+52.011,Apple Malus domestica,1
+52.011,Pear Pyrus communis,2
+52.012, Wych Elm Ulmus glabra,2
+52.012, Holm Oak Quercus ilex,2
+52.012, Sessile Oak Quercus petraea,2
+52.012,Walnut Juglans regia,2
+52.012,Beech Fagus sylvatica,2
+52.012, Sweet Chestnut Castanea sativa,1
+52.012, Pedunculate Oak Quercus robur,1
+52.012,cherries Prunus spp.,2
+52.012,birches Betula spp.,2
+52.012,willows Salix spp.,2
+52.013, Red Currant Ribes rubrum,1
+52.013,Gooseberry Ribes uva-crispa,1
+52.013, Black Currant Ribes nigrum,1
+52.014, Common Bird's-foot-trefoil Lotus corniculatus,1
+52.014, Horseshoe Vetch Hippocrepis comosa,1
+52.014, Kidney Vetch Anthyllis vulneraria,1
+52.015, Curled Dock Rumex crispus,1
+52.015, Water Dock Rumex hydrolapathum,2
+52.015, Common Sorrel Rumex acetosa,1
+52.015, Sheep's Sorrel Rumex acetosella,2
+52.016,Thrift Armeria maritima,1
+53.001,oaks Quercus spp.,2
+53.001,Beech Fagus sylvatica,2
+53.001, Silver Birch Betula pendula,2
+53.001, Pedunculate Oak Quercus robur,1
+53.002, Small-leaved Lime Tilia cordata,2
+53.002,poplars Populus spp.,2
+53.002, Sweet Chestnut Castanea sativa,2
+53.002,Beech Fagus sylvatica,1
+53.002, Silver Birch Betula pendula,2
+53.002, Pedunculate Oak Quercus robur,1
+54.001, Common Knapweed Centaurea nigra,1
+54.001, Greater Knapweed Centaurea scabiosa,1
+54.002, Common Sorrel Rumex acetosa,1
+54.002, Sheep's Sorrel Rumex acetosella,1
+54.003, Common Rock-rose Helianthemum nummularium,1
+54.004, Wild Thyme Thymus drucei,1
+54.005, Common Bird's-foot-trefoil Lotus corniculatus,1
+54.006,Bilberry Vaccinium myrtillus,2
+54.006,Cowberry Vaccinium vitis-idaea,2
+54.006,Crowberry Empetrum nigrum,1
+54.006,heathers,2
+54.007, Meadow Vetchling Lathyrus pratensis,1
+54.007, Common Bird's-foot-trefoil Lotus corniculatus,1
+54.008, Greater Bird's-foot-trefoil Lotus pedunculatus,2
+54.008,clovers Trifolium spp.,2
+54.008, Horseshoe Vetch Hippocrepis comosa,2
+54.008, Kidney Vetch Anthyllis vulneraria,2
+54.008, Common Bird's-foot-trefoil Lotus corniculatus,1
+54.009, Red Clover Trifolium pratense,1
+54.009, White Clover Trifolium repens,1
+54.009,Sainfoin Onobrychis viciifolia,1
+54.009,Bitter-vetch Lathyrus linifolius,1
+54.009, Greater Bird's-foot-trefoil Lotus pedunculatus,1
+54.009, Meadow Vetchling Lathyrus pratensis,1
+54.009, Common Bird's-foot-trefoil Lotus corniculatus,1
+54.01, Greater Bird's-foot-trefoil Lotus pedunculatus,1
+54.01, Common Bird's-foot-trefoil Lotus corniculatus,1
+56.003, Wild Angelica Angelica sylvestris,2
+56.003,Burnet-saxifrage Pimpinella saxifraga,2
+56.003, Wild Carrot Daucus carota,2
+56.003, Cow Parsley Anthriscus sylvestris,2
+56.003,Fennel Foeniculum vulgare,2
+56.003, Hog's Fennel Peucedanum officinale,2
+56.003, Garden Parsley Petroselinum crispum,2
+56.003,Caraway Carum carvi,2
+56.003,Carrot Daucus carota,2
+56.003,Dill Anethum graveolens,2
+56.003,Milk-parsley Thysselinum palustre,1
+56.003,Parsnip Pastinaca sativa,2
+57.001, Common Bird's-foot-trefoil Lotus corniculatus,1
+57.001, Greater Bird's-foot-trefoil Lotus pedunculatus,2
+57.001, Horseshoe Vetch Hippocrepis comosa,2
+57.002,Agrimony Agrimonia eupatoria,1
+57.002, Wood Avens Geum urbanum,2
+57.002,Bramble Rubus fruticosus,2
+57.002, Salad Burnet Poterium sanguisorba,2
+57.002, Creeping Cinquefoil Potentilla reptans,1
+57.002, Barren Strawberry Potentilla sterilis,2
+57.002,Tormentil Potentilla erecta,2
+57.002,Dog-rose Rosa canina,2
+57.002,Raspberry Rubus idaeus,2
+57.002, Wild Strawberry Fragaria vesca,1
+57.002,Silverweed Potentilla anserina,2
+57.004, False Brome Brachypodium sylvaticum,1
+57.004, Purple Moor-grass Molinia caerulea,1
+57.004,Tor-grass Brachypodium rupestre,1
+57.004, Upright Brome Bromopsis erecta,1
+57.004,Hairy-brome Bromopsis ramosa,1
+57.005,Cock’s-foot Dactylis glomerata,1
+57.005, Common Couch Elymus repens,1
+57.005, Meadow Foxtail Alopecurus pratensis,1
+57.005, Creeping Soft-grass Holcus mollis,1
+57.005,Timothy Phleum pratense,1
+57.005, Ribbed Melilot Melilotus officinalis,1
+57.005, False Brome Brachypodium sylvaticum,1
+57.005,Tor-grass Brachypodium rupestre,1
+57.006,Yorkshire-fog Holcus lanatus,1
+57.006,Cock’s-foot Dactylis glomerata,1
+57.006, Creeping Soft-grass Holcus mollis,1
+57.006,Timothy Phleum pratense,1
+57.006, False Brome Brachypodium sylvaticum,1
+57.006, Meadow Foxtail Alopecurus pratensis,1
+57.007,Tor-grass Brachypodium rupestre,1
+57.008,Sheep’s-fescue Festuca ovina,1
+57.009, Wood Small-reed Calamagrostis epigejos,1
+57.009, Hairy Wood-rush Luzula pilosa,1
+57.009, Common Couch Elymus repens,1
+57.009, Red Fescue Festuca rubra,1
+57.009, Purple Moor-grass Molinia caerulea,1
+57.009,Yorkshire-fog Holcus lanatus,1
+57.009,Cock’s-foot Dactylis glomerata,1
+57.009, Creeping Soft-grass Holcus mollis,1
+57.009,Timothy Phleum pratense,1
+57.009, False Brome Brachypodium sylvaticum,1
+57.009,Tor-grass Brachypodium rupestre,1
+58.001, Tufted Vetch Vicia cracca,1
+58.001,Bitter-vetch Lathyrus linifolius,1
+58.001, Meadow Vetchling Lathyrus pratensis,1
+58.001, Greater Bird's-foot-trefoil Lotus pedunculatus,1
+58.001, Common Bird's-foot-trefoil Lotus corniculatus,1
+58.002, Meadow Vetchling Lathyrus pratensis,1
+58.002, Greater Bird's-foot-trefoil Lotus pedunculatus,2
+58.002, Common Bird's-foot-trefoil Lotus corniculatus,2
+58.002,Bitter-vetch Lathyrus linifolius,2
+58.003,Charlock Sinapis arvensis,2
+58.003, Large Bitter-cress Cardamine amara,2
+58.003,Water-cress Rorippa officinale,2
+58.003,Winter-cress Barbarea vulgaris,2
+58.003,Cuckooflower Cardamine pratensis,1
+58.003,Dame’s-violet Hesperis matronalis,2
+58.003,Honesty Lunaria annua,2
+58.003, Garlic Mustard Alliaria petiolata,1
+58.003, Hedge Mustard Sisymbrium officinale,2
+58.003,Turnip Brassica rapa,2
+58.003, Hairy Rock-cress Arabis hirsuta,2
+58.003,Weld Reseda luteola,2
+58.003, Tower Mustard Turritis glabra,2
+58.006,Cabbage Brassica oleracea,1
+58.006,Horse-radish Armoracia rusticana,1
+58.006,Nasturtium Tropaeolum majus,1
+58.006,geraniums Pelargonium spp.,1
+58.006,Dame’s-violet Hesperis matronalis,1
+58.006,Broccoli Brassica oleracea,1
+58.006,Brussels-sprout Brassica oleracea,1
+58.007, Wild Cabbage Brassica oleracea,1
+58.007, Oil-seed Rape Brassica napus,1
+58.007, Hoary Cress Lepidium draba,1
+58.007,Flixweed Descurainia sophia,1
+58.007, Wild Mignonette Reseda lutea,1
+58.007,Cabbage Brassica oleracea,1
+58.007,Charlock Sinapis arvensis,1
+58.007,Water-cress Rorippa officinale,1
+58.007,Horse-radish Armoracia rusticana,1
+58.007, Garlic Mustard Alliaria petiolata,1
+58.007, Hedge Mustard Sisymbrium officinale,1
+58.007,Nasturtium Tropaeolum majus,1
+58.007,Spiderflower Tarenaya hassleriana,1
+58.008, Hairy Bitter-cress Cardamine hirsuta,1
+58.008, Sea Rocket Cakile maritima,1
+58.008, Wild Cabbage Brassica oleracea,1
+58.008,Cabbage Brassica oleracea,1
+58.008,Horse-radish Armoracia rusticana,1
+58.008, Garlic Mustard Alliaria petiolata,1
+58.008,Nasturtium Tropaeolum majus,1
+58.008, Large Bitter-cress Cardamine amara,1
+58.008,Winter-cress Barbarea vulgaris,1
+58.008,Cuckooflower Cardamine pratensis,1
+58.008, Wild Mignonette Reseda lutea,1
+58.008,Charlock Sinapis arvensis,1
+58.008,Water-cress Rorippa officinale,1
+58.008, Hedge Mustard Sisymbrium officinale,1
+58.008, Wild Radish Raphanus raphanistrum,1
+58.01, Black Medick Medicago lupulina,1
+58.01,Lucerne Medicago sativa,1
+58.01,clovers Trifolium spp.,1
+58.01, Ribbed Melilot Melilotus officinalis,1
+58.01, Common Bird's-foot-trefoil Lotus corniculatus,1
+58.01, Hairy Bird's-foot-trefoil Lotus subbiflorus,1
+58.01, Spotted Medick Medicago arabica,1
+58.013,Buckthorn Rhamnus cathartica,1
+58.013, Alder Buckthorn Frangula alnus,1
+59.002,bents Agrostis spp.,1
+59.002, Wavy Hair-grass Avenella flexuosa,1
+59.002, Annual Meadow-grass Poa annua,1
+59.002, Common Couch Elymus repens,1
+59.002,Yorkshire-fog Holcus lanatus,1
+59.002,Cock’s-foot Dactylis glomerata,1
+59.002, False Brome Brachypodium sylvaticum,1
+59.002,Tor-grass Brachypodium rupestre,1
+59.003, Creeping Bent Agrostis stolonifera,1
+59.003, Tufted Hair-grass Deschampsia cespitosa,1
+59.003,meadow-grasses Poa spp.,1
+59.003,Tufted-sedge Carex elata,1
+59.003, Common Couch Elymus repens,1
+59.003,Yorkshire-fog Holcus lanatus,1
+59.003,Cock’s-foot Dactylis glomerata,1
+59.003, False Brome Brachypodium sylvaticum,1
+59.004, Common Cottongrass Eriophorum angustifolium,1
+59.004, Hare's-tail Cottongrass Eriophorum vaginatum,1
+59.004, Jointed Rush Juncus articulatus,1
+59.004, Purple Moor-grass Molinia caerulea,2
+59.004, White-beak Sedge Rhynchospora alba,2
+59.005,fescues Festuca spp.,1
+59.005,Mat-grass Nardus stricta,1
+59.005,bents Agrostis spp.,1
+59.005,meadow-grasses Poa spp.,1
+59.005,Tor-grass Brachypodium rupestre,2
+59.005, Crested Dog's-tail Cynosurus cristatus,2
+59.007,Mat-grass Nardus stricta,1
+59.008, Common Bent Agrostis capillaris,1
+59.008, Blue Moor-grass Sesleria caerulea,1
+59.008, Sweet Sweet-grass Anthoxanthum odoratum,1
+59.008, Tufted Hair-grass Deschampsia cespitosa,1
+59.008, Wavy Hair-grass Avenella flexuosa,1
+59.008,Sheep’s-fescue Festuca ovina,1
+59.008, Purple Moor-grass Molinia caerulea,1
+59.009, Wood Millet Milium effusum,1
+59.009,Wood-sedge Carex sylvatica,2
+59.009, Tufted Hair-grass Deschampsia cespitosa,1
+59.009,meadow-grasses Poa spp.,1
+59.009, Common Couch Elymus repens,1
+59.009,Cock’s-foot Dactylis glomerata,1
+59.009, False Brome Brachypodium sylvaticum,1
+59.009, Creeping Bent Agrostis stolonifera,1
+59.01, Smooth Meadow-grass Poa pratensis,1
+59.01,fescues Festuca spp.,1
+59.01,bents Agrostis spp.,1
+59.01, Common Couch Elymus repens,1
+59.01,Cock’s-foot Dactylis glomerata,1
+59.01, False Brome Brachypodium sylvaticum,1
+59.01, Downy Oat-grass Avenula pubescens,1
+59.01,rye-grasses Lolium spp.,1
+59.011,fescues Festuca spp.,1
+59.011,meadow-grasses Poa spp.,1
+59.011, Common Couch Elymus repens,1
+59.011,Cock’s-foot Dactylis glomerata,1
+59.011,bents Agrostis spp.,1
+59.012,Tufted-sedge Carex elata,2
+59.012, Red Fescue Festuca rubra,1
+59.012,Sheep’s-fescue Festuca ovina,1
+59.012,Yorkshire-fog Holcus lanatus,2
+59.012,Tor-grass Brachypodium rupestre,1
+59.012,Cock’s-foot Dactylis glomerata,2
+59.012,Timothy Phleum pratense,2
+59.013, Bristle Bent Agrostis curtisii,1
+59.013, Early Hair-grass Aira praecox,1
+59.013,Marram Ammophila arenaria,1
+59.013, Annual Meadow-grass Poa annua,2
+59.013, Red Fescue Festuca rubra,1
+59.013, Tufted Hair-grass Deschampsia cespitosa,1
+59.013,Sheep’s-fescue Festuca ovina,1
+59.013, Common Couch Elymus repens,2
+59.013, False Brome Brachypodium sylvaticum,2
+59.014, Common Dog-violet Viola riviniana,1
+59.014, Heath Dog-violet Viola canina,1
+59.014, Marsh Violet Viola palustris,1
+59.014, Sweet Violet Viola odorata,1
+59.014, Wild Pansy Viola tricolor,1
+59.015, Common Dog-violet Viola riviniana,1
+59.015, Marsh Violet Viola palustris,1
+59.017, Sweet Violet Viola odorata,1
+59.017, Common Dog-violet Viola riviniana,1
+59.019, Hairy Violet Viola hirta,1
+59.019, Common Dog-violet Viola riviniana,1
+59.019, Marsh Violet Viola palustris,1
+59.02, Sweet Violet Viola odorata,1
+59.02, Common Dog-violet Viola riviniana,1
+59.02, Heath Dog-violet Viola canina,1
+59.02, Hairy Violet Viola hirta,1
+59.02, Pale Dog-violet Viola lactea,1
+59.021,Honeysuckle Lonicera periclymenum,1
+59.022,Aspen Populus tremula,2
+59.022, White Poplar Populus alba,1
+59.022, Hybrid Salix x fragilis,1
+59.022, Goat Willow Salix caprea,1
+59.022, Grey Willow Salix cinerea,1
+59.023, Common Nettle Urtica dioica,1
+59.023, Small Nettle Urtica urens,2
+59.023,Pellitory-of-the-wall Parietaria judaica,2
+59.023,Hop Humulus lupulus,2
+59.024, Lesser Burdock Arctium minus,2
+59.024,mallows Malva spp.,2
+59.024, Carline Thistle Carlina vulgaris,2
+59.024, Creeping Thistle Cirsium arvense,1
+59.024, Marsh Thistle Cirsium palustre,1
+59.024, Spear Thistle Cirsium vulgare,1
+59.024, Common Knapweed Centaurea nigra,2
+59.024, Greater Knapweed Centaurea scabiosa,2
+59.024, Common Nettle Urtica dioica,2
+59.024, Globe Artichoke Cynara cardunculus,2
+59.024, Greater Burdock Arctium lappa,2
+59.024, Common Cudweed Filago germanica,2
+59.024, Musk Thistle Carduus nutans,1
+59.024,Viper’s-bugloss Echium vulgare,2
+59.026, Small Nettle Urtica urens,2
+59.026,Hop Humulus lupulus,2
+59.026, Common Nettle Urtica dioica,1
+59.027, Small Nettle Urtica urens,1
+59.027, Common Nettle Urtica dioica,1
+59.031,Hazel Corylus avellana,2
+59.031, Red Currant Ribes rubrum,2
+59.031,Gooseberry Ribes uva-crispa,2
+59.031,elms Ulmus spp.,1
+59.031, Black Currant Ribes nigrum,2
+59.031,Hop Humulus lupulus,1
+59.031, Common Nettle Urtica dioica,1
+59.031,willows Salix spp.,2
+59.033,plantains Plantago spp.,2
+59.033, Devil's-bit Scabious Succisa pratensis,1
+59.033, Field Scabious Knautia arvensis,1
+59.033, Small Scabious Scabiosa columbaria,1
+59.033, Marsh Valerian Valeriana dioica,2
+59.033,Honeysuckle Lonicera periclymenum,2
+59.033, Greater Knapweed Centaurea scabiosa,2
+59.033, Wild Teasel Dipsacus fullonum,2
+59.034,hawkweeds Hieracium spp.,2
+59.034, Buck's-horn Plantain Plantago coronopus,1
+59.034, Ribwort Plantain Plantago lanceolata,1
+59.034, Sea Plantain Plantago maritima,2
+59.034, Sea Beet Beta vulgaris,2
+59.036, Lesser Celandine Ficaria verna,2
+59.036, Common Cow-wheat Melampyrum pratense,1
+59.036,Foxglove Digitalis purpurea,2
+59.036, Wood Sage Teucrium scorodonia,2
+59.036, Germander Speedwell Veronica chamaedrys,1
+59.036,vetches,2
+59.036,Yarrow Achillea millefolium,2
+59.036, Ribwort Plantain Plantago lanceolata,1
+59.036, Ivy-leaved Speedwell Veronica hederifolia,2
+60.001,Cowslip Primula veris,1
+60.001,Primrose Primula vulgaris,1
+61.001, Common Ragwort Jacobaea vulgaris,2
+61.001,Fiddle Dock Rumex pulcher,2
+61.001, Sheep's Sorrel Rumex acetosella,1
+61.001, Common Sorrel Rumex acetosa,1
+61.001, Broad-leaved Dock Rumex obtusifolius,1
+61.003,Bullace Prunus domestica,1
+61.003,Blackthorn Prunus spinosa,1
+61.004, Turkey Oak Quercus cerris,1
+61.004, Holm Oak Quercus ilex,1
+61.004, Sessile Oak Quercus petraea,1
+61.004, Pedunculate Oak Quercus robur,1
+61.005,Broom Cytisus scoparius,1
+61.005,Dogwood Cornus sanguinea,2
+61.005,Gorse Ulex europaeus,1
+61.005, Dyer's Greenweed Genista tinctoria,1
+61.005, Petty Whin Genista anglica,1
+61.005, Cross-leaved Heath Erica tetralix,2
+61.005,Bilberry Vaccinium myrtillus,1
+61.005,Bramble Rubus fruticosus,2
+61.005,Buckthorn Rhamnus cathartica,2
+61.005, Alder Buckthorn Frangula alnus,2
+61.005, Common Rock-rose Helianthemum nummularium,1
+61.005, Common Bird's-foot-trefoil Lotus corniculatus,1
+61.005, Dwarf Gorse Ulex minor,1
+61.006, Wych Elm Ulmus glabra,1
+61.006,elms Ulmus spp.,1
+61.007, Wild Plum Prunus domestica,1
+61.007,Blackthorn Prunus spinosa,1
+61.008,Broom Cytisus scoparius,1
+61.008,Bladder-senna,1
+61.008, Broad-leaved Everlasting-pea Lathyrus latifolius,1
+61.008, Narrow-leaved Everlasting-pea Lathyrus sylvestris,1
+61.01, Kidney Vetch Anthyllis vulneraria,1
+61.012, Wall Cotoneaster Cotoneaster horizontalis,1
+61.012,Escallonia Escallonia rubra,1
+61.012,gorses Ulex spp.,1
+61.012,Heather Calluna vulgaris,1
+61.012,Holly Ilex aquifolium,1
+61.012, Common Ivy Hedera helix,1
+61.012,Dogwood Cornus sanguinea,1
+61.012,Lucerne Medicago sativa,1
+61.012,Bramble Rubus fruticosus,1
+61.012,Raspberry Rubus idaeus,1
+61.012, Alder Buckthorn Frangula alnus,1
+61.012, Grey Willow Salix cinerea,1
+61.013, Wild Marjoram Origanum vulgare,1
+61.013, Wild Thyme Thymus drucei,1
+61.014, Bell Heath Erica cinerea,1
+61.014,restharrows Ononis spp.,2
+61.014, Cross-leaved Heath Erica tetralix,1
+61.014,Heather Calluna vulgaris,1
+61.014,Broom Cytisus scoparius,2
+61.014, Common Rock-rose Helianthemum nummularium,1
+61.014, Horseshoe Vetch Hippocrepis comosa,1
+61.014, Common Bird's-foot-trefoil Lotus corniculatus,1
+61.014,gorses Ulex spp.,1
+61.015, Common Rock-rose Helianthemum nummularium,1
+61.015, Dove's-foot Crane's-bill Geranium molle,1
+61.015, Common Stork's-bill Erodium cicutarium,1
+61.016, Common Rock-rose Helianthemum nummularium,1
+61.018,Bird’s-foot Ornithopus perpusillus,2
+61.018, Common Restharrow Ononis repens,2
+61.018,Burnet-saxifrage Pimpinella saxifraga,2
+61.018, Red Clover Trifolium pratense,2
+61.018, White Clover Trifolium repens,2
+61.018, Black Medick Medicago lupulina,2
+61.018,Yarrow Achillea millefolium,2
+61.018, Greater Bird's-foot-trefoil Lotus pedunculatus,2
+61.018, Common Bird's-foot-trefoil Lotus corniculatus,1
+61.018, Lesser Trefoil Trifolium dubium,2
+61.019, Horseshoe Vetch Hippocrepis comosa,1
+61.02, Wild Liquorice Astragalus glycyphyllos,2
+61.02, White Clover Trifolium repens,2
+61.02, Kidney Vetch Anthyllis vulneraria,2
+61.02, Horseshoe Vetch Hippocrepis comosa,1
+61.02, Common Bird's-foot-trefoil Lotus corniculatus,1
+61.02,Bird’s-foot Ornithopus perpusillus,2
+61.02, Red Clover Trifolium pratense,2
+61.02, Crown Vetch Securigera varia,2
+65.001, Downy Birch Betula pubescens,1
+65.001, Silver Birch Betula pendula,1
+65.002, Sessile Oak Quercus petraea,1
+65.002, Silver Birch Betula pendula,1
+65.002, Pedunculate Oak Quercus robur,1
+65.003,Beech Fagus sylvatica,1
+65.005, White Willow Salix alba,2
+65.005,oaks Quercus spp.,2
+65.005,Aspen Populus tremula,2
+65.005,Alder Alnus glutinosa,1
+65.005, Downy Birch Betula pubescens,1
+65.005, Silver Birch Betula pendula,1
+65.006, Small-leaved Lime Tilia cordata,1
+65.007, Crab Apple Malus sylvestris,2
+65.007,Hawthorn Crataegus monogyna,1
+65.007,Rowan Sorbus aucuparia,2
+65.007,Bramble Rubus fruticosus,2
+65.007,Blackthorn Prunus spinosa,1
+65.007,Pear Pyrus communis,2
+65.007,birches Betula spp.,2
+65.008,Meadowsweet Filipendula ulmaria,1
+65.008,Raspberry Rubus idaeus,1
+65.008,Bramble Rubus fruticosus,1
+65.009,Dewberry Rubus caesius,1
+65.009,Hazel Corylus avellana,1
+65.009,Hawthorn Crataegus monogyna,1
+65.009,Raspberry Rubus idaeus,1
+65.009,Bramble Rubus fruticosus,1
+65.01,black-poplars Populus nigra,1
+65.01, White Poplar Populus alba,1
+65.01,Aspen Populus tremula,1
+65.011,poplars Populus spp.,2
+65.011,Aspen Populus tremula,1
+65.012,Alder Alnus glutinosa,1
+65.012,birches Betula spp.,1
+65.013,Hazel Corylus avellana,2
+65.013,oaks Quercus spp.,2
+65.013,Alder Alnus glutinosa,2
+65.013,birches Betula spp.,1
+65.014, Sessile Oak Quercus petraea,1
+65.014, Pedunculate Oak Quercus robur,1
+65.015, Sessile Oak Quercus petraea,1
+65.015, Pedunculate Oak Quercus robur,1
+65.016, Downy Birch Betula pubescens,1
+65.016, Silver Birch Betula pendula,1
+66.001,limes Tilia spp.,1
+66.001,Ash Fraxinus excelsior,1
+66.001,elms Ulmus spp.,1
+66.001,poplars Populus spp.,1
+66.001,Blackthorn Prunus spinosa,1
+66.001,Hawthorn Crataegus monogyna,1
+66.001,oaks Quercus spp.,1
+66.001,Aspen Populus tremula,1
+66.001,Alder Alnus glutinosa,1
+66.001,willows Salix spp.,1
+66.001,birches Betula spp.,1
+66.002, Bell Heath Erica cinerea,2
+66.002, Crab Apple Malus sylvestris,2
+66.002,Bilberry Vaccinium myrtillus,2
+66.002,Heather Calluna vulgaris,2
+66.002,Hazel Corylus avellana,2
+66.002,poplars Populus spp.,2
+66.002,Blackthorn Prunus spinosa,1
+66.002,Hawthorn Crataegus monogyna,1
+66.002,oaks Quercus spp.,2
+66.002,Bramble Rubus fruticosus,2
+66.002,willows Salix spp.,2
+66.002,birches Betula spp.,1
+66.003, Grey Poplar Populus x canescens,2
+66.003,Dog-rose Rosa canina,1
+66.003,Gooseberry Ribes uva-crispa,1
+66.003, Holm Oak Quercus ilex,2
+66.003,Apple Malus domestica,1
+66.003,cherries Prunus spp.,1
+66.003,cherries Prunus spp.,1
+66.003,elms Ulmus spp.,2
+66.003,Hazel Corylus avellana,2
+66.003,Raspberry Rubus idaeus,1
+66.003,Blackthorn Prunus spinosa,1
+66.003,Hawthorn Crataegus monogyna,1
+66.003,oaks Quercus spp.,2
+66.003,Bramble Rubus fruticosus,1
+66.003, Silver Birch Betula pendula,2
+66.003,willows Salix spp.,2
+66.003, Wall Cotoneaster Cotoneaster horizontalis,1
+66.003, Shrubby Cinquefoil Dasiphora fruticosa,1
+66.004, Sea Campion Silene uniflora,1
+66.004,Sea-purslane Atriplex portulacoides,1
+66.004, Common Sea-lavender Limonium vulgare,1
+66.004, Sea Wormwood Artemisia maritima,1
+66.004, Wild Carrot Daucus carota,1
+66.004, Curled Dock Rumex crispus,1
+66.004, Sea Plantain Plantago maritima,1
+66.004,Thrift Armeria maritima,1
+66.004,grasses ,1
+66.004,willows Salix spp.,1
+66.004, Sea Arrowgrass Triglochin maritima,1
+66.004,Golden-samphire Limbarda crithmoides,1
+66.004, Grass-leaved Orache Atriplex littoralis,1
+66.005,Juneberry Amelanchier lamarckii,2
+66.005,Spindle Euonymus europaeus,2
+66.005,Plum Prunus domestica,2
+66.005,Almond Prunus dulcis,2
+66.005,Dog-rose Rosa canina,1
+66.005,Apple Malus domestica,2
+66.005,elms Ulmus spp.,2
+66.005, Grey Willow Salix cinerea,2
+66.005,Blackthorn Prunus spinosa,1
+66.005,Hawthorn Crataegus monogyna,1
+66.005,birches Betula spp.,2
+66.006, False Oat-grass Arrhenatherum elatius,1
+66.006, Tree Lupin Lupinus arboreus,1
+66.006, Spiny Restharrow Ononis spinosa,2
+66.006, Wild Plum Prunus domestica,2
+66.006,Gorse Ulex europaeus,2
+66.006,Marram Ammophila arenaria,1
+66.006, Creeping Willow Salix repens,1
+66.006,clovers Trifolium spp.,2
+66.006, Sheep's Sorrel Rumex acetosella,2
+66.006,Lucerne Medicago sativa,2
+66.006,Thrift Armeria maritima,2
+66.006,Broom Cytisus scoparius,2
+66.006,Heather Calluna vulgaris,2
+66.006, Kidney Vetch Anthyllis vulneraria,2
+66.006,Bramble Rubus fruticosus,1
+66.006,Blackthorn Prunus spinosa,2
+66.006,willows Salix spp.,2
+66.006, Common Bird's-foot-trefoil Lotus corniculatus,2
+66.006, Ribbed Melilot Melilotus officinalis,2
+66.006,Forsythia Forsythia x intermedia,2
+66.006, Sickle Medick Medicago sativa,2
+66.007,roses Rosa spp.,1
+66.007,Sea-buckthorn Hippophae rhamnoides,1
+66.007, Common Ivy Hedera helix,1
+66.007,Dogwood Cornus sanguinea,1
+66.007,Gorse Ulex europaeus,1
+66.007,Bilberry Vaccinium myrtillus,1
+66.007,Honeysuckle Lonicera periclymenum,1
+66.007,Rowan Sorbus aucuparia,1
+66.007,Broom Cytisus scoparius,1
+66.007,Heather Calluna vulgaris,1
+66.007,cherries Prunus spp.,1
+66.007,Hazel Corylus avellana,1
+66.007,Alder Alnus glutinosa,1
+66.007,oaks Quercus spp.,1
+66.007,Hawthorn Crataegus monogyna,1
+66.007,Bramble Rubus fruticosus,1
+66.007,Blackthorn Prunus spinosa,1
+66.007,birches Betula spp.,1
+66.007, Common Bird's-foot-trefoil Lotus corniculatus,1
+66.007,montbretias Crocosmia spp.,1
+66.008,Bog-myrtle Myrica gale,1
+66.008,Knotgrass Polygonum aviculare,1
+66.008, Burnet Rose Rosa spinosissima,1
+66.008, Salad Burnet Poterium sanguisorba,1
+66.008, Creeping Cinquefoil Potentilla reptans,1
+66.008,Meadowsweet Filipendula ulmaria,1
+66.008, Wood Sage Teucrium scorodonia,1
+66.008, Creeping Thistle Cirsium arvense,1
+66.008, Cross-leaved Heath Erica tetralix,1
+66.008, Bell Heath Erica cinerea,1
+66.008, Wild Strawberry Fragaria vesca,1
+66.008,Bilberry Vaccinium myrtillus,1
+66.008,Heather Calluna vulgaris,1
+66.008, Greater Bird's-foot-trefoil Lotus pedunculatus,1
+66.008, Pedunculate Oak Quercus robur,1
+66.008,Bramble Rubus fruticosus,1
+66.008,Blackthorn Prunus spinosa,1
+66.008,birches Betula spp.,1
+66.008,willows Salix spp.,1
+66.008, Bloody Crane's-bill Geranium sanguineum,1
+66.009, Scots Pine Pinus sylvestris,1
+66.01, Reed Canary-grass Phalaris arundinacea,1
+66.01,couches Elymus spp.,1
+66.01, Lesser Pond-sedge Carex acutiformis,1
+66.01, Greater Tussock-sedge Carex paniculata,1
+66.01, Common Reed Phragmites australis,1
+66.01, Wood Small-reed Calamagrostis epigejos,1
+66.01,Marram Ammophila arenaria,1
+66.01, Tufted Hair-grass Deschampsia cespitosa,1
+66.01,meadow-grasses Poa spp.,1
+66.01, Purple Moor-grass Molinia caerulea,1
+66.01, False Brome Brachypodium sylvaticum,1
+66.01,Cock’s-foot Dactylis glomerata,1
+66.01,Ribbon-grass Phalaris arundinacea,1
+66.01, Greater Pond-sedge Carex riparia,1
+66.01, Pendulous Sedge Carex pendula,1
+66.012,apples Malus spp.,1
+66.012,Buckthorn Rhamnus cathartica,2
+66.012, Alder Buckthorn Frangula alnus,2
+66.012,Pear Pyrus communis,2
+66.012,cherries Prunus spp.,2
+66.012,Hawthorn Crataegus monogyna,1
+66.012,Blackthorn Prunus spinosa,1
+66.012,willows Salix spp.,2
+67.001, Downy Birch Betula pubescens,1
+67.001,Alder Alnus glutinosa,1
+67.001, Silver Birch Betula pendula,1
+68.001, Marsh Cinquefoil Comarum palustre,1
+68.001,Hemp-agrimony Eupatorium cannabinum,1
+68.001,Purple-loosestrife Lythrum salicaria,1
+68.001,Bog-myrtle Myrica gale,1
+68.001,Tormentil Potentilla erecta,1
+68.001, Salad Burnet Poterium sanguisorba,1
+68.001,Meadowsweet Filipendula ulmaria,1
+68.001, Cross-leaved Heath Erica tetralix,1
+68.001, Bell Heath Erica cinerea,1
+68.001, Alder Buckthorn Frangula alnus,1
+68.001,Rowan Sorbus aucuparia,1
+68.001,Bilberry Vaccinium myrtillus,1
+68.001,Raspberry Rubus idaeus,1
+68.001,elms Ulmus spp.,1
+68.001,Hazel Corylus avellana,1
+68.001,Heather Calluna vulgaris,1
+68.001,Hawthorn Crataegus monogyna,1
+68.001,Bramble Rubus fruticosus,1
+68.001,birches Betula spp.,1
+68.001,Blackthorn Prunus spinosa,1
+68.001, Mountain Avens Dryas octopetala,1
+69.001,elms Ulmus spp.,1
+69.001,limes Tilia spp.,1
+69.001,Alder Alnus glutinosa,2
+69.001, Downy Birch Betula pubescens,2
+69.001, Silver Birch Betula pendula,2
+69.001,Hazel Corylus avellana,2
+69.001,cherries Prunus spp.,2
+69.001, London Plane Platanus x hispanica,2
+69.001,oaks Quercus spp.,2
+69.002, Wild Privet Ligustrum vulgare,2
+69.002, Crab Apple Malus sylvestris,1
+69.002,Apple Malus domestica,1
+69.002,poplars Populus spp.,2
+69.002,Aspen Populus tremula,2
+69.002,Blackthorn Prunus spinosa,2
+69.002,willows Salix spp.,1
+69.003, Goat Willow Salix caprea,1
+69.003,poplars Populus spp.,1
+69.003, Grey Willow Salix cinerea,1
+69.003,Aspen Populus tremula,1
+69.003,willows Salix spp.,1
+69.004, Field Bindweed Convolvulus arvensis,1
+69.004, Hedge Bindweed Calystegia sepium,1
+69.004, Sea Bindweed Calystegia soldanella,2
+69.004,morning-glories Ipomoea spp.,2
+69.005,Forsythia Forsythia x intermedia,2
+69.005,Potato Solanum tuberosum,1
+69.005,Snowberry Symphoricarpos albus,2
+69.005,Lilac Syringa vulgaris,2
+69.005,Spindle Euonymus europaeus,2
+69.005,Ash Fraxinus excelsior,2
+69.005,Bittersweet Solanum dulcamara,2
+69.005,dogwoods Cornus spp.,2
+69.005, Summer Jasmine Jasminum officinale,2
+69.005, Deadly Nightshade Atropa belladonna,2
+69.005, Chilli Pepper Capsicum annuum,2
+69.005, Duke of Argyll's Teaplant Lycium barbarum,2
+69.006,brideworts Spiraea spp.,2
+69.006,Butterfly-bush Buddleja davidii,2
+69.006,jasmines Jasminum spp.,2
+69.006, Garden Privet Ligustrum ovalifolium,1
+69.006,teasels Dipsacus spp.,2
+69.006,Guelder-rose Viburnum opulus,1
+69.006,Holly Ilex aquifolium,2
+69.006, Wild Privet Ligustrum vulgare,1
+69.006,Snowberry Symphoricarpos albus,2
+69.006,Forsythia Forsythia x intermedia,1
+69.006,Lilac Syringa vulgaris,1
+69.006,Wayfaring-tree Viburnum lantana,2
+69.006,Dogwood Cornus sanguinea,2
+69.006, Holm Oak Quercus ilex,2
+69.006,Ash Fraxinus excelsior,1
+69.006,Honeysuckle Lonicera periclymenum,2
+69.006,Hop Humulus lupulus,2
+69.006,Rowan Sorbus aucuparia,2
+69.006,Laurustinus Viburnum tinus,2
+69.006,mock-privets Phillyrea spp.,2
+69.007,firs Abies spp.,1
+69.007, Norway Spruce Picea abies,1
+69.007, Maritime Pine Pinus pinaster,1
+69.007, Scots Pine Pinus sylvestris,1
+69.007, Atlas Cedar Cedrus atlantica,1
+69.007,Cedar-of-Lebanon Cedrus libani,1
+69.007, Monterey Pine Pinus radiata,1
+69.008, Devil's-bit Scabious Succisa pratensis,1
+69.008, Field Scabious Knautia arvensis,1
+69.008, Small Scabious Scabiosa columbaria,1
+69.009,bedstraws Galium spp.,2
+69.009, Red Campion Silene dioica,2
+69.009, White Campion Silene latifolia,2
+69.009,Ragged-Robin Silene flos-cuculi,2
+69.009, Field Scabious Knautia arvensis,2
+69.009,Snowberry Symphoricarpos albus,2
+69.009,Honeysuckle Lonicera periclymenum,1
+69.01, Hedge Bedstraw Galium album,1
+69.01, Lady's Bedstraw Galium verum,1
+69.01,Cleavers Galium aparine,1
+69.01, Wild Madder Rubia peregrina,1
+69.013,spurges Euphorbia spp.,1
+69.014,fuchsias Fuchsia spp.,1
+69.014,Godetia Clarkia amoena,1
+69.014, Rosebay Willowherb Chamaenerion angustifolium,1
+69.014,willowherbs Epilobium spp.,1
+69.014,bedstraws Galium spp.,1
+69.014, Wild Madder Rubia peregrina,1
+69.015,sorrels Rumex spp.,2
+69.015,Grape-vine Vitis vinifera,2
+69.015,Snapdragon Antirrhinum majus,2
+69.015,strawberries Fragaria spp.,2
+69.015, Common Toadflax Linaria vulgaris,2
+69.015, Hedge Bedstraw Galium album,1
+69.015,fuchsias Fuchsia spp.,2
+69.015,Knotgrass Polygonum aviculare,2
+69.015, Rosebay Willowherb Chamaenerion angustifolium,1
+69.015,willowherbs Epilobium spp.,1
+69.015,bedstraws Galium spp.,2
+69.015,docks Rumex spp.,2
+69.015, Devil's-bit Scabious Succisa pratensis,2
+69.015,Buckwheat Fagopyrum esculentum,2
+69.015, Perennial Sowthistle Sonchus arvensis,2
+69.016, Himalayan Balsam Impatiens glandulifera,2
+69.016, Orange Balsam Impatiens capensis,2
+69.016,Bogbean Menyanthes trifoliata,2
+69.016,Enchanter’s-nightshade Circaea lutetiana,2
+69.016, Common Evening-primrose Oenothera biennis,2
+69.016,tobaccos Nicotiana spp.,2
+69.016,Virginia-creepers Parthenocissus spp.,2
+69.016, Great Willowherb Epilobium hirsutum,1
+69.016, Hedge Bindweed Calystegia sepium,2
+69.016,Grape-vine Vitis vinifera,2
+69.016,Purple-loosestrife Lythrum salicaria,2
+69.016,roses Rosa spp.,2
+69.016, Rosebay Willowherb Chamaenerion angustifolium,1
+69.016,willowherbs Epilobium spp.,1
+69.016,bedstraws Galium spp.,2
+69.016,Cabbage Brassica oleracea,2
+69.016,Godetia Clarkia amoena,2
+69.016,fuchsias Fuchsia spp.,1
+69.016,water-lilies,2
+69.017, Heath Bedstraw Galium saxatile,1
+69.017,marsh-bedstraws Galium spp.,2
+69.017, Lady's Bedstraw Galium verum,1
+69.017,Cleavers Galium aparine,2
+69.017, Red Campion Silene dioica,2
+69.017, Hedge Bedstraw Galium album,2
+69.017,Purple-loosestrife Lythrum salicaria,2
+69.017,willowherbs Epilobium spp.,2
+70.002, Marsh Cinquefoil Comarum palustre,1
+70.003, Smooth Tare Ervum tetrasperma,1
+70.004, Sweet Alison Lobularia maritima,1
+70.004,Groundsel Senecio vulgaris,1
+70.004,Traveller’s-joy Clematis vitalba,1
+70.004, Common Ivy Hedera helix,1
+70.005, Common Rock-rose Helianthemum nummularium,1
+70.011,comfreys Symphytum spp.,1
+70.011, Cow Parsley Anthriscus sylvestris,1
+70.011,Burnet-saxifrage Pimpinella saxifraga,1
+70.011, Hedge Bedstraw Galium album,1
+70.012, Common Ivy Hedera helix,1
+70.014,Navelwort Umbilicus rupestris,1
+70.014,Crowberry Empetrum nigrum,1
+70.014,Heather Calluna vulgaris,1
+70.015, Field Bindweed Convolvulus arvensis,1
+70.015,bedstraws Galium spp.,1
+70.016, Common Chickweed Stellaria media,1
+70.016, Wood Avens Geum urbanum,1
+70.016,Primrose Primula vulgaris,1
+70.016,dandelions Taraxacum spp.,1
+70.016,Knotgrass Polygonum aviculare,1
+70.016, Ribwort Plantain Plantago lanceolata,1
+70.016,docks Rumex spp.,1
+70.016, Common Ivy Hedera helix,1
+70.016,bedstraws Galium spp.,1
+70.017, Hybrid Salix x fragilis,1
+70.021, Wild Marjoram Origanum vulgare,1
+70.021, Wild Thyme Thymus drucei,1
+70.023,stonecrops Sedum spp.,1
+70.023,Mugwort Artemisia vulgaris,1
+70.023, Wild Marjoram Origanum vulgare,1
+70.023, Wood Sage Teucrium scorodonia,1
+70.023,Yarrow Achillea millefolium,1
+70.023, Horseshoe Vetch Hippocrepis comosa,1
+70.023, Ivy-leaved Toadflax Cymbalaria muralis,1
+70.024, Garden Privet Ligustrum ovalifolium,1
+70.024,Honeysuckle Lonicera periclymenum,1
+70.024,cherries Prunus spp.,1
+70.024,Hawthorn Crataegus monogyna,1
+70.025, Common Valerian Valeriana officinalis,1
+70.025,Meadowsweet Filipendula ulmaria,1
+70.026, Cross-leaved Heath Erica tetralix,1
+70.026,Bilberry Vaccinium myrtillus,1
+70.026,Heather Calluna vulgaris,1
+70.027,Woodruff Galium odoratum,1
+70.027,bedstraws Galium spp.,1
+70.027, Bush Vetch Vicia sepium,1
+70.029, Common Orache Atriplex patula,1
+70.029,Redshank Persicaria maculosa,1
+70.029, Common Chickweed Stellaria media,1
+70.029, Common Sorrel Rumex acetosa,1
+70.029,docks Rumex spp.,1
+70.03, Eared Willow Salix aurita,1
+70.03, Creeping Willow Salix repens,1
+70.03, Goat Willow Salix caprea,1
+70.03, Grey Willow Salix cinerea,1
+70.03,Alder Alnus glutinosa,1
+70.031, Field Maple Acer campestre,1
+70.032, Downy Birch Betula pubescens,1
+70.032, Silver Birch Betula pendula,1
+70.033, Holm Oak Quercus ilex,1
+70.033, Chilean Myrtle Luma apiculata,1
+70.035, Pedunculate Oak Quercus robur,1
+70.036, Pedunculate Oak Quercus robur,1
+70.037, Sweet Chestnut Castanea sativa,1
+70.037,Beech Fagus sylvatica,1
+70.037,oaks Quercus spp.,1
+70.038,Knotgrass Polygonum aviculare,1
+70.039, Lady's Bedstraw Galium verum,1
+70.04, Dyer's Greenweed Genista tinctoria,1
+70.04, Petty Whin Genista anglica,1
+70.04,Gorse Ulex europaeus,1
+70.04,Broom Cytisus scoparius,1
+70.041, Dyer's Greenweed Genista tinctoria,1
+70.041, Petty Whin Genista anglica,1
+70.041,Gorse Ulex europaeus,1
+70.042,Gorse Ulex europaeus,1
+70.042,Broom Cytisus scoparius,1
+70.043,trefoils,1
+70.043,vetches,1
+70.043, Black Medick Medicago lupulina,1
+70.043,clovers Trifolium spp.,1
+70.043, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.043, Horseshoe Vetch Hippocrepis comosa,1
+70.045,vetches,1
+70.045,clovers Trifolium spp.,1
+70.046, Common Marsh-bedstraw Galium palustre,1
+70.046, Heath Bedstraw Galium saxatile,1
+70.048,lady's-mantles Alchemilla spp.,1
+70.049,Flixweed Descurainia sophia,1
+70.049,Cabbage Brassica oleracea,1
+70.049, Sweet Alison Lobularia maritima,1
+70.049, Hairy Bitter-cress Cardamine hirsuta,1
+70.049,Honesty Lunaria annua,1
+70.049,Horse-radish Armoracia rusticana,1
+70.049, Garlic Mustard Alliaria petiolata,1
+70.049,Nasturtium Tropaeolum majus,1
+70.049,Shepherd’s-purse Capsella bursa-pastoris,1
+70.05, Orange Balsam Impatiens capensis,1
+70.05, Small Balsam Impatiens parviflora,1
+70.051,Ground-ivy Glechoma hederacea,2
+70.051,Woodruff Galium odoratum,2
+70.051, Heath Bedstraw Galium saxatile,1
+70.051,Cleavers Galium aparine,2
+70.051, Wild Carrot Daucus carota,2
+70.051, Lady's Bedstraw Galium verum,1
+70.051,Knotgrass Polygonum aviculare,2
+70.052,Ground-ivy Glechoma hederacea,1
+70.052,dandelions Taraxacum spp.,1
+70.052,Knotgrass Polygonum aviculare,1
+70.052,docks Rumex spp.,1
+70.052,bedstraws Galium spp.,1
+70.053,Mugwort Artemisia vulgaris,1
+70.054,Tansy Tanacetum vulgare,1
+70.054,Cowslip Primula veris,1
+70.054,Primrose Primula vulgaris,1
+70.054,Cleavers Galium aparine,1
+70.054,Yarrow Achillea millefolium,1
+70.054, Hedge Bedstraw Galium album,1
+70.055,violets Viola spp.,1
+70.055,Primrose Primula vulgaris,1
+70.055,bedstraws Galium spp.,1
+70.056, Lady's Bedstraw Galium verum,1
+70.056, Hedge Bedstraw Galium album,1
+70.057, Lady's Bedstraw Galium verum,1
+70.057, Hedge Bedstraw Galium album,1
+70.059,wormwoods Artemisia spp.,1
+70.059, Lesser Celandine Ficaria verna,1
+70.059,sorrels Rumex spp.,1
+70.059,restharrows Ononis spp.,1
+70.059, Wild Cabbage Brassica oleracea,1
+70.059, Annual Meadow-grass Poa annua,1
+70.059,Cowslip Primula veris,1
+70.059, Wild Strawberry Fragaria vesca,1
+70.059,dandelions Taraxacum spp.,1
+70.059,Yarrow Achillea millefolium,1
+70.059,docks Rumex spp.,1
+70.059,bedstraws Galium spp.,1
+70.059, Garden Arabis Arabis caucasica,1
+70.059,Aubretia Aubrieta deltoidea,1
+70.059, Pot Marjoram Origanum majorana,1
+70.06, Heath Bedstraw Galium saxatile,1
+70.061,Flixweed Descurainia sophia,1
+70.061,Cleavers Galium aparine,1
+70.061, Lady's Bedstraw Galium verum,1
+70.061, Hedge Bedstraw Galium album,1
+70.062, Lady's Bedstraw Galium verum,1
+70.062, Hedge Bedstraw Galium album,1
+70.063, Heath Bedstraw Galium saxatile,1
+70.063, Lady's Bedstraw Galium verum,1
+70.063, Hedge Bedstraw Galium album,1
+70.064,stitchworts Stellaria spp.,1
+70.064, Common Chickweed Stellaria media,1
+70.064, Hedge Bedstraw Galium album,1
+70.066, Burnet Rose Rosa spinosissima,1
+70.066,Dog-rose Rosa canina,1
+70.066,Sweet-briar Rosa rubiginosa,1
+70.067,Dog-rose Rosa canina,1
+70.067,Honeysuckle Lonicera periclymenum,1
+70.067,Hawthorn Crataegus monogyna,1
+70.067,Blackthorn Prunus spinosa,1
+70.067, Sherard's Downy-rose Rosa sherardii,1
+70.068,Dewberry Rubus caesius,1
+70.068, Wild Strawberry Fragaria vesca,1
+70.068,Raspberry Rubus idaeus,1
+70.068,Hazel Corylus avellana,1
+70.068,Bramble Rubus fruticosus,1
+70.069,goosefoots,1
+70.069,oraches Atriplex spp.,1
+70.07,Hollyhock Alcea rosea,1
+70.07, Common Mallow Malva sylvestris,1
+70.07,Marsh-mallow Althaea officinalis,1
+70.07,Tree-mallow Malva arborea,1
+70.071, Purple Saxifrage Saxifraga oppositifolia,1
+70.071, Yellow Saxifrage Saxifraga aizoides,1
+70.071, Mossy Saxifrage Saxifraga hypnoides,1
+70.071, English Stonecrop Sedum anglicum,1
+70.072, Lodgepole Pine Pinus contorta,1
+70.072,Crowberry Empetrum nigrum,1
+70.072, Bell Heath Erica cinerea,1
+70.072, Cross-leaved Heath Erica tetralix,1
+70.072,Bilberry Vaccinium myrtillus,1
+70.072,Heather Calluna vulgaris,1
+70.073, Rosebay Willowherb Chamaenerion angustifolium,1
+70.074, Sitka Spruce Picea sitchensis,1
+70.074, Lodgepole Pine Pinus contorta,1
+70.074, Downy Birch Betula pubescens,1
+70.074,poplars Populus spp.,1
+70.074,Bilberry Vaccinium myrtillus,1
+70.074,Hazel Corylus avellana,1
+70.074,Heather Calluna vulgaris,1
+70.074,willows Salix spp.,1
+70.075,Alder Alnus glutinosa,1
+70.076, Eared Willow Salix aurita,1
+70.076, Tea-leaved Willow Salix phylicifolia,1
+70.076, Grey Willow Salix cinerea,1
+70.076,Heather Calluna vulgaris,1
+70.077, Corsican Pine Pinus nigra,1
+70.077, Lodgepole Pine Pinus contorta,1
+70.077, Scots Pine Pinus sylvestris,1
+70.078, Common Juniper Juniperus communis,1
+70.079, Western Red-cedar Thuja plicata,1
+70.079, Lawson's Cypress Cupressus lawsoniana,1
+70.079, Douglas Fir Pseudotsuga menziesii,1
+70.079, Giant Fir Abies grandis,1
+70.079, Noble Fir Abies procera,1
+70.079, Western Hemlock-spruce Tsuga heterophylla,1
+70.079, European Silver-fir Abies alba,1
+70.079, Norway Spruce Picea abies,1
+70.079, Sitka Spruce Picea sitchensis,1
+70.079, Scots Pine Pinus sylvestris,1
+70.081, Monterey Cypress Cupressus macrocarpa,1
+70.081, Western Red-cedar Thuja plicata,1
+70.081, Lawson's Cypress Cupressus lawsoniana,1
+70.081, Douglas Fir Pseudotsuga menziesii,1
+70.081, Western Hemlock-spruce Tsuga heterophylla,1
+70.081, European Silver-fir Abies alba,1
+70.081, Norway Spruce Picea abies,1
+70.081, Scots Pine Pinus sylvestris,1
+70.082,junipers Juniperus spp.,1
+70.083, Monterey Cypress Cupressus macrocarpa,1
+70.084,hawthorns Crataegus spp.,1
+70.084,Apple Malus domestica,1
+70.084,cherries Prunus spp.,1
+70.084,cherries Prunus spp.,1
+70.084,Alder Alnus glutinosa,1
+70.084,birches Betula spp.,1
+70.084,Blackthorn Prunus spinosa,1
+70.085, Burnet Rose Rosa spinosissima,1
+70.085,Dog-rose Rosa canina,1
+70.086, Midland Hawkbit Crataegus laevigata,1
+70.086,limes Tilia spp.,1
+70.086, Sweet Chestnut Castanea sativa,1
+70.086, Downy Birch Betula pubescens,1
+70.086, Pedunculate Oak Quercus robur,1
+70.086,Hawthorn Crataegus monogyna,1
+70.086,Blackthorn Prunus spinosa,1
+70.086,willows Salix spp.,1
+70.087, Heath Bedstraw Galium saxatile,1
+70.087, Lady's Bedstraw Galium verum,1
+70.087, Hedge Bedstraw Galium album,1
+70.087,marsh-bedstraws Galium spp.,1
+70.088, Touch-me-not Balsam Impatiens noli-tangere,1
+70.089, Red Currant Ribes rubrum,1
+70.089, Black Currant Ribes nigrum,1
+70.089,Gooseberry Ribes uva-crispa,1
+70.09,roses Rosa spp.,2
+70.09, Eared Willow Salix aurita,1
+70.09, Creeping Willow Salix repens,1
+70.09,Rowan Sorbus aucuparia,2
+70.09, Goat Willow Salix caprea,1
+70.09,Aspen Populus tremula,1
+70.09,Bilberry Vaccinium myrtillus,2
+70.09,Hazel Corylus avellana,2
+70.09,Heather Calluna vulgaris,2
+70.09,birches Betula spp.,2
+70.091,Cowberry Vaccinium vitis-idaea,1
+70.091, Goat Willow Salix caprea,1
+70.091, Grey Willow Salix cinerea,1
+70.091,Bilberry Vaccinium myrtillus,1
+70.092, Red Currant Ribes rubrum,1
+70.092, Black Currant Ribes nigrum,1
+70.092,Gooseberry Ribes uva-crispa,1
+70.093,Woodruff Galium odoratum,1
+70.093,Cleavers Galium aparine,1
+70.093, Lady's Bedstraw Galium verum,1
+70.093, Hedge Bedstraw Galium album,1
+70.093,Crosswort Cruciata laevipes,1
+70.094, Touch-me-not Balsam Impatiens noli-tangere,2
+70.094,Enchanter’s-nightshade Circaea lutetiana,2
+70.094, Great Willowherb Epilobium hirsutum,1
+70.094, Rosebay Willowherb Chamaenerion angustifolium,1
+70.094, Himalayan Balsam Impatiens glandulifera,2
+70.094, Broad-leaved Willowherb Epilobium montanum,1
+70.095,Hornbeam Carpinus betulus,1
+70.095,Sycamore Acer pseudoplatanus,1
+70.095,limes Tilia spp.,1
+70.095,Ash Fraxinus excelsior,1
+70.095,Dog-rose Rosa canina,1
+70.095,Apple Malus domestica,1
+70.095,Rowan Sorbus aucuparia,1
+70.095,oaks Quercus spp.,1
+70.095,cherries Prunus spp.,1
+70.095,birches Betula spp.,1
+70.095,Blackthorn Prunus spinosa,1
+70.096,limes Tilia spp.,1
+70.096,roses Rosa spp.,1
+70.096,Rowan Sorbus aucuparia,1
+70.096,oaks Quercus spp.,1
+70.096,Alder Alnus glutinosa,1
+70.096,birches Betula spp.,1
+70.096,willows Salix spp.,1
+70.097,heathers,1
+70.097,geraniums Pelargonium spp.,1
+70.097, Red Currant Ribes rubrum,1
+70.097,Meadowsweet Filipendula ulmaria,1
+70.097,roses Rosa spp.,1
+70.097, Black Currant Ribes nigrum,1
+70.097, Wild Strawberry Fragaria vesca,1
+70.097,docks Rumex spp.,1
+70.097,Raspberry Rubus idaeus,1
+70.097, Goat Willow Salix caprea,1
+70.097, Grey Willow Salix cinerea,1
+70.097,Bilberry Vaccinium myrtillus,1
+70.097,oaks Quercus spp.,1
+70.097,Alder Alnus glutinosa,1
+70.097,Bramble Rubus fruticosus,1
+70.097,Heather Calluna vulgaris,1
+70.097,Hawthorn Crataegus monogyna,1
+70.097,birches Betula spp.,1
+70.097,privets Ligustrum spp.,1
+70.097, Round-leaved Mint Mentha suaveolens,1
+70.098, Wild Strawberry Fragaria vesca,1
+70.098,Bilberry Vaccinium myrtillus,1
+70.098,Heather Calluna vulgaris,1
+70.098,birches Betula spp.,1
+70.098,willows Salix spp.,1
+70.098, Alpine Lady's-mantle Alchemilla alpina,1
+70.099, Heath Bedstraw Galium saxatile,1
+70.099, Lady's Bedstraw Galium verum,1
+70.099, Hedge Bedstraw Galium album,1
+70.1, White Dead-nettle Lamium album,1
+70.1,plantains Plantago spp.,1
+70.1,Woodruff Galium odoratum,1
+70.1, Wild Marjoram Origanum vulgare,1
+70.1, Heath Bedstraw Galium saxatile,1
+70.1, Lady's Bedstraw Galium verum,1
+70.1, Hedge Bedstraw Galium album,1
+70.101,Cleavers Galium aparine,1
+70.101, Heath Bedstraw Galium saxatile,1
+70.101, Lady's Bedstraw Galium verum,1
+70.102, Heath Bedstraw Galium saxatile,1
+70.102, Lady's Bedstraw Galium verum,1
+70.102, Hedge Bedstraw Galium album,1
+70.103,Cleavers Galium aparine,1
+70.103, Heath Bedstraw Galium saxatile,1
+70.103, Lady's Bedstraw Galium verum,1
+70.103, Hedge Bedstraw Galium album,1
+70.104, Common Marsh-bedstraw Galium palustre,1
+70.105,Beech Fagus sylvatica,2
+70.105,Apple Malus domestica,2
+70.105, Downy Birch Betula pubescens,1
+70.105,Rowan Sorbus aucuparia,2
+70.105, Silver Birch Betula pendula,1
+70.105,cherries Prunus spp.,2
+70.105,Alder Alnus glutinosa,1
+70.106,larches Larix spp.,1
+70.106,Hornbeam Carpinus betulus,1
+70.106, Field Maple Acer campestre,1
+70.106, Sitka Spruce Picea sitchensis,1
+70.106,Bog-myrtle Myrica gale,1
+70.106,Sycamore Acer pseudoplatanus,1
+70.106, Lodgepole Pine Pinus contorta,1
+70.106, Sweet Chestnut Castanea sativa,1
+70.106,Beech Fagus sylvatica,1
+70.106,Apple Malus domestica,1
+70.106,Hazel Corylus avellana,1
+70.106,Rowan Sorbus aucuparia,1
+70.106,oaks Quercus spp.,1
+70.106,Bilberry Vaccinium myrtillus,1
+70.106,Alder Alnus glutinosa,1
+70.106,Hawthorn Crataegus monogyna,1
+70.106,Heather Calluna vulgaris,1
+70.106,Blackthorn Prunus spinosa,1
+70.106,birches Betula spp.,1
+70.106,willows Salix spp.,1
+70.107,Rhododendron Rhododendron ponticum,2
+70.107,Hornbeam Carpinus betulus,1
+70.107, Crab Apple Malus sylvestris,1
+70.107,Ash Fraxinus excelsior,1
+70.107,elms Ulmus spp.,1
+70.107,Dog-rose Rosa canina,1
+70.107,Aspen Populus tremula,1
+70.107,Apple Malus domestica,1
+70.107,Hazel Corylus avellana,1
+70.107,cherries Prunus spp.,1
+70.107,oaks Quercus spp.,1
+70.107,Hawthorn Crataegus monogyna,1
+70.107,Blackthorn Prunus spinosa,1
+70.107,birches Betula spp.,1
+70.107,willows Salix spp.,1
+70.108,hawthorns Crataegus spp.,1
+70.108, Field Maple Acer campestre,1
+70.108,Hornbeam Carpinus betulus,1
+70.108,elms Ulmus spp.,1
+70.108,Hazel Corylus avellana,1
+70.108,oaks Quercus spp.,1
+70.108,Alder Alnus glutinosa,1
+70.108,Blackthorn Prunus spinosa,1
+70.108,birches Betula spp.,1
+70.108,willows Salix spp.,1
+70.109, European Larch Larix decidua,1
+70.109, Scots Pine Pinus sylvestris,1
+70.109, Downy Birch Betula pubescens,1
+70.109, Silver Birch Betula pendula,1
+70.109,Heather Calluna vulgaris,1
+70.109,Alder Alnus glutinosa,1
+70.109,Hawthorn Crataegus monogyna,1
+70.11,larches Larix spp.,1
+70.11, Bell Heath Erica cinerea,1
+70.11,Bilberry Vaccinium myrtillus,1
+70.11,Heather Calluna vulgaris,1
+70.11,willows Salix spp.,1
+70.111,Hornbeam Carpinus betulus,1
+70.111,roses Rosa spp.,1
+70.111,Hazel Corylus avellana,1
+70.111,birches Betula spp.,1
+70.112,Alder Alnus glutinosa,1
+70.113,Sycamore Acer pseudoplatanus,1
+70.113, Sweet Chestnut Castanea sativa,1
+70.113,Hazel Corylus avellana,1
+70.113,Alder Alnus glutinosa,1
+70.113,Blackthorn Prunus spinosa,2
+70.113,birches Betula spp.,1
+70.113,willows Salix spp.,1
+70.114, Field Maple Acer campestre,1
+70.114,Sycamore Acer pseudoplatanus,1
+70.114,Rowan Sorbus aucuparia,2
+70.114,Alder Alnus glutinosa,1
+70.115,Rowan Sorbus aucuparia,1
+70.115,Alder Alnus glutinosa,1
+70.115,birches Betula spp.,1
+70.116, Wych Elm Ulmus glabra,1
+70.116,elms Ulmus spp.,2
+70.117, Wood Spurge Euphorbia amygdaloides,1
+70.118,Buckthorn Rhamnus cathartica,1
+70.119,Buckthorn Rhamnus cathartica,1
+70.119, Alder Buckthorn Frangula alnus,1
+70.12,Bog-myrtle Myrica gale,1
+70.12, Downy Birch Betula pubescens,1
+70.12, Grey Willow Salix cinerea,1
+70.12, Silver Birch Betula pendula,1
+70.12,birches Betula spp.,1
+70.12, Himalayan Knotweed Koenigia polystachya,1
+70.121, Goat Willow Salix caprea,1
+70.121,Aspen Populus tremula,1
+70.121, Grey Willow Salix cinerea,1
+70.121,Bilberry Vaccinium myrtillus,1
+70.122,Barberry Berberis vulgaris,1
+70.122,barberries Berberis spp.,1
+70.122, Hedge Barberry Berberis x stenophylla,1
+70.122, Mrs Wilson's Barberry Berberis wilsoniae,1
+70.122, Thunberg's Barberry Berberis thunbergii,1
+70.122,Oregon-grape Mahonia aquifolium,1
+70.123,Buckthorn Rhamnus cathartica,1
+70.123, Alder Buckthorn Frangula alnus,1
+70.124,Barberry Berberis vulgaris,1
+70.124,Berberis turcomanica,1
+70.125, Lesser Spearwort Ranunculus flammula,1
+70.126,Traveller’s-joy Clematis vitalba,1
+70.127, Wood Anenome Anemone nemorosa,2
+70.127, Meadow Buttercup Ranunculus acris,2
+70.127,Traveller’s-joy Clematis vitalba,1
+70.127,Baneberry Actaea spicata,2
+70.128,Traveller’s-joy Clematis vitalba,1
+70.129, Yellow Loosestrife Lysimachia vulgaris,1
+70.13, Rough Chervil Chaerophyllum temulum,1
+70.13,Pignut Conopodium majus,1
+70.13, Cow Parsley Anthriscus sylvestris,1
+70.13, Bur Chervil Anthriscus caucalis,1
+70.131, Greater Stitchwort Stellaria holostea,1
+70.131,wood-rushes Luzula spp.,2
+70.131, Sea Campion Silene uniflora,1
+70.131, Rough Chervil Chaerophyllum temulum,1
+70.131, Red Campion Silene dioica,1
+70.131, Cow Parsley Anthriscus sylvestris,1
+70.131, Wood Sage Teucrium scorodonia,1
+70.131, Lodgepole Pine Pinus contorta,2
+70.131,Bog-myrtle Myrica gale,1
+70.131,grasses ,2
+70.131,Primrose Primula vulgaris,1
+70.131, Common Nettle Urtica dioica,1
+70.131,docks Rumex spp.,1
+70.131,Bilberry Vaccinium myrtillus,1
+70.131,Heather Calluna vulgaris,1
+70.131,willows Salix spp.,1
+70.131, Wood Anenome Anemone nemorosa,1
+70.131, Lesser Celandine Ficaria verna,1
+70.131, Alpine Saxifrage Micranthes nivalis,1
+70.131,Wood-sorrel Oxalis acetosella,1
+70.132, White Campion Silene latifolia,2
+70.132,Ragged-Robin Silene flos-cuculi,2
+70.132, Red Campion Silene dioica,1
+70.133, Common Hemp-nettle Galeopsis tetrahit,1
+70.133, Field Woundwort Stachys arvensis,2
+70.134,eyebrights Euphrasia spp.,1
+70.134, Red Bartsia Odontites vernus,1
+70.135,eyebrights Euphrasia spp.,1
+70.136,eyebrights Euphrasia spp.,1
+70.137,Yellow-rattle Rhinanthus minor,1
+70.138, Bladder Campion Silene vulgaris,1
+70.138, White Campion Silene latifolia,1
+70.138, Red Campion Silene dioica,1
+70.139,mosses,1
+70.14, Common Meadow-rue Thalictrum flavum,1
+70.14, Lesser Meadow-rue Thalictrum minus,1
+70.141, Sea Aster Tripolium pannonicum,1
+70.141,ragworts,1
+70.141,Butterfly-bush Buddleja davidii,1
+70.141,oraches Atriplex spp.,1
+70.141,Tansy Tanacetum vulgare,1
+70.141, Field Bindweed Convolvulus arvensis,1
+70.141,Holly Ilex aquifolium,1
+70.141, Sitka Spruce Picea sitchensis,1
+70.141, Wild Marjoram Origanum vulgare,1
+70.141,Traveller’s-joy Clematis vitalba,1
+70.141, Lodgepole Pine Pinus contorta,1
+70.141, Common Ivy Hedera helix,1
+70.141,Gorse Ulex europaeus,1
+70.141,roses Rosa spp.,1
+70.141,Ash Fraxinus excelsior,1
+70.141,Broom Cytisus scoparius,1
+70.141,Rowan Sorbus aucuparia,1
+70.141,Hawthorn Crataegus monogyna,1
+70.141,Heather Calluna vulgaris,1
+70.141,Maize Zea mays,1
+70.142,Elder Sambucus nigra,1
+70.142,Goldenrod Solidago virgaurea,1
+70.142, Wild Angelica Angelica sylvestris,1
+70.142,Hemp-agrimony Eupatorium cannabinum,1
+70.142, Yellow Loosestrife Lysimachia vulgaris,1
+70.142, Common Valerian Valeriana officinalis,1
+70.142,Mugwort Artemisia vulgaris,1
+70.142,Purple-loosestrife Lythrum salicaria,1
+70.142, Wild Thyme Thymus drucei,1
+70.142,Traveller’s-joy Clematis vitalba,1
+70.142, Sweet Chestnut Castanea sativa,1
+70.142,Dog-rose Rosa canina,1
+70.142,Bramble Rubus fruticosus,1
+70.142,Hawthorn Crataegus monogyna,1
+70.142, Perforate St John's-wort Hypericum perforatum,1
+70.143,Blackthorn Prunus spinosa,1
+70.144, Crab Apple Malus sylvestris,1
+70.144,Pear Pyrus communis,1
+70.144,Apple Malus domestica,1
+70.144,cherries Prunus spp.,1
+70.144,Hawthorn Crataegus monogyna,1
+70.144,Blackthorn Prunus spinosa,1
+70.145,Bilberry Vaccinium myrtillus,1
+70.146,Traveller’s-joy Clematis vitalba,1
+70.147,Osier Salix viminalis,1
+70.147, Eared Willow Salix aurita,1
+70.147, Goat Willow Salix caprea,1
+70.147, Grey Willow Salix cinerea,1
+70.148, Field Maple Acer campestre,1
+70.149, European Silver-fir Abies alba,1
+70.149,larches Larix spp.,1
+70.149, Norway Spruce Picea abies,1
+70.149, Sitka Spruce Picea sitchensis,1
+70.149, Noble Fir Abies procera,1
+70.15, Pale Toadflax Linaria repens,2
+70.15,Snapdragon Antirrhinum majus,2
+70.15, Common Toadflax Linaria vulgaris,1
+70.151,Foxglove Digitalis purpurea,1
+70.152,Tamarisk Tamarix gallica,1
+70.153,Yellow-rattle Rhinanthus minor,2
+70.153, Common Cow-wheat Melampyrum pratense,1
+70.153, Field Cow-wheat Melampyrum arvense,2
+70.154, Field Mouse-ear Cerastium arvense,1
+70.154, Greater Stitchwort Stellaria holostea,2
+70.155, Moss Campion Silene acaulis,1
+70.155, Nottingham Catchfly silene nutans,1
+70.155, Bladder Campion Silene vulgaris,1
+70.155, Sea Campion Silene uniflora,1
+70.155, White Campion Silene latifolia,1
+70.155, Red Campion Silene dioica,1
+70.155, Small-flowered Catchfly Silene gallica,1
+70.156,hawthorns Crataegus spp.,1
+70.156, Holm Oak Quercus ilex,1
+70.156, Sessile Oak Quercus petraea,1
+70.156, Pedunculate Oak Quercus robur,1
+70.156,Hazel Corylus avellana,1
+70.157, Pedunculate Oak Quercus robur,1
+70.157,Hawthorn Crataegus monogyna,1
+70.158,cypresses Cupressus spp.,1
+70.158, Common Juniper Juniperus communis,1
+70.158,junipers Juniperus spp.,1
+70.158,red-cedars Thuja spp.,1
+70.159, Monterey Cypress Cupressus macrocarpa,1
+70.16,Hogweed Heracleum sphondylium,1
+70.16, Wild Parsnip Pastinaca sativa,1
+70.16, Common Ragwort Jacobaea vulgaris,1
+70.16,Elder Sambucus nigra,1
+70.16,Goldenrod Solidago virgaurea,1
+70.16, Wild Angelica Angelica sylvestris,1
+70.16, Wild Carrot Daucus carota,1
+70.161,Dahlia Dahlia x hortensis,1
+70.161,toadflaxes Linaria spp.,1
+70.161,Pignut Conopodium majus,1
+70.161, Common Ragwort Jacobaea vulgaris,1
+70.161,Goldenrod Solidago virgaurea,1
+70.161, Yellow Loosestrife Lysimachia vulgaris,1
+70.161, Common Ragwort Jacobaea vulgaris,1
+70.161, Wild Angelica Angelica sylvestris,1
+70.161,Goldenrod Solidago virgaurea,1
+70.161, Cow Parsley Anthriscus sylvestris,1
+70.161, Cow Parsley Anthriscus sylvestris,1
+70.161,Yarrow Achillea millefolium,1
+70.161, Red Campion Silene dioica,1
+70.161, Grey Willow Salix cinerea,1
+70.161,oaks Quercus spp.,1
+70.161, Grey Willow Salix cinerea,1
+70.161,Heather Calluna vulgaris,1
+70.161,Hawthorn Crataegus monogyna,1
+70.161,Hawthorn Crataegus monogyna,1
+70.161,Pignut Conopodium majus,1
+70.162, Giant Fir Abies grandis,2
+70.162, Western Red-cedar Thuja plicata,2
+70.162, Lawson's Cypress Cupressus lawsoniana,2
+70.162, Douglas Fir Pseudotsuga menziesii,1
+70.162, Western Hemlock-spruce Tsuga heterophylla,2
+70.162, Common Juniper Juniperus communis,2
+70.162,larches Larix spp.,2
+70.162, Norway Spruce Picea abies,1
+70.162, Sitka Spruce Picea sitchensis,1
+70.162, Scots Pine Pinus sylvestris,2
+70.163, European Larch Larix decidua,1
+70.163, Norway Spruce Picea abies,2
+70.164,Lime Tilia x  europaea,1
+70.164, Small-leaved Lime Tilia cordata,1
+70.164, Large-leaved Lime Tilia platyphyllos,1
+70.165,Burnet-saxifrage Pimpinella saxifraga,1
+70.165, Greater Burnet-saxifrage Pimpinella major,2
+70.166,goosefoots,1
+70.166,oraches Atriplex spp.,1
+70.166,glassworts Salicornia spp.,1
+70.168, Lodgepole Pine Pinus contorta,1
+70.168,Heather Calluna vulgaris,1
+70.169,Sea-buckthorn Hippophae rhamnoides,1
+70.169,Tamarisk Tamarix gallica,1
+70.169,Elder Sambucus nigra,1
+70.169,hawthorns Crataegus spp.,1
+70.169,Ash Fraxinus excelsior,1
+70.169,Blackthorn Prunus spinosa,1
+70.17, Sessile Oak Quercus petraea,1
+70.17,Beech Fagus sylvatica,2
+70.17, Pedunculate Oak Quercus robur,1
+70.171,spruces Picea spp.,2
+70.171,pines Pinus spp.,1
+70.171, European Larch Larix decidua,2
+70.171, Common Juniper Juniperus communis,2
+70.171, Scots Pine Pinus sylvestris,1
+70.172, Wild Thyme Thymus drucei,1
+70.173, Common Fleabane Pulicaria dysenterica,1
+70.173, Canadian Goldenrod Solidago canadensis,1
+70.173,hawkbits,1
+70.173,knapweeds Centaurea spp.,1
+70.173, Greater Plantain Plantago major,1
+70.173,hawkweeds Hieracium spp.,1
+70.173,Groundsel Senecio vulgaris,1
+70.173, Sea Wormwood Artemisia maritima,1
+70.173,Hemp-agrimony Eupatorium cannabinum,1
+70.173, Common Ragwort Jacobaea vulgaris,1
+70.173, Field Scabious Knautia arvensis,1
+70.173,Mugwort Artemisia vulgaris,1
+70.173, Wild Angelica Angelica sylvestris,1
+70.173, Wild Carrot Daucus carota,1
+70.173,Goldenrod Solidago virgaurea,1
+70.173,Traveller’s-joy Clematis vitalba,1
+70.173, Clustered Bellflower Campanula glomerata,1
+70.173,burnet-saxifrages Pimpinella spp.,1
+70.173, Rock Sea-lavender Limonium binervosum,1
+70.174, Crab Apple Malus sylvestris,1
+70.174,Apple Malus domestica,1
+70.174,Hawthorn Crataegus monogyna,1
+70.174,pears Pyrus spp.,1
+70.175,Hogweed Heracleum sphondylium,1
+70.175, Wild Parsnip Pastinaca sativa,2
+70.175,Burnet-saxifrage Pimpinella saxifraga,2
+70.175, Wild Angelica Angelica sylvestris,1
+70.176,cypresses Cupressus spp.,1
+70.176, Western Red-cedar Thuja plicata,1
+70.176, Douglas Fir Pseudotsuga menziesii,1
+70.176, Common Juniper Juniperus communis,1
+70.176,junipers Juniperus spp.,1
+70.176, Chinese Thuja Platycladus orientalis,1
+70.177,Bearberry Arctostaphylos uva-ursi,1
+70.177,bedstraws Galium spp.,1
+70.177,gentians Gentiana spp,1
+70.177,hawkweeds Hieracium spp.,1
+70.177, Cross-leaved Heath Erica tetralix,1
+70.177,Heather Calluna vulgaris,1
+70.177,hemp-nettles,1
+70.177,knapweeds Centaurea spp.,1
+70.177,Meadowsweet Filipendula ulmaria,1
+70.177,mulleins Verbascum spp.,1
+70.177, Common Ragwort Jacobaea vulgaris,1
+70.177, Common Rock-rose Helianthemum nummularium,1
+70.177,scabiouses,1
+70.177,St John’s-worts Hypericum spp.,1
+70.177, Wild Thyme Thymus drucei,1
+70.177,Yellow-rattle Rhinanthus minor,1
+70.177, Lodgepole Pine Pinus contorta,1
+70.177, Sitka Spruce Picea sitchensis,1
+70.177,Bog-myrtle Myrica gale,1
+70.177,willows Salix spp.,1
+70.178, Sea Wormwood Artemisia maritima,1
+70.179,mayweeds Tripleurospermum spp.,1
+70.179, Common Fleabane Pulicaria dysenterica,1
+70.179,wormwoods Artemisia spp.,1
+70.179,goosefoots,1
+70.179, Black Horehound Ballota nigra,1
+70.179,Tansy Tanacetum vulgare,1
+70.179,Hemp-agrimony Eupatorium cannabinum,1
+70.179, Devil's-bit Scabious Succisa pratensis,1
+70.179, Common Ragwort Jacobaea vulgaris,1
+70.179,Mugwort Artemisia vulgaris,1
+70.179, Wild Marjoram Origanum vulgare,1
+70.179,Yarrow Achillea millefolium,1
+70.179,Bilberry Vaccinium myrtillus,1
+70.179,Heather Calluna vulgaris,1
+70.179,goldenrods Solidago spp.,1
+70.179,Gypsywort Lycopus europaeus,1
+70.18,Goldenrod Solidago virgaurea,1
+70.181, Marsh Valerian Valeriana dioica,1
+70.181, Common Valerian Valeriana officinalis,1
+70.182, Red Currant Ribes rubrum,1
+70.182,Gooseberry Ribes uva-crispa,1
+70.182,Hop Humulus lupulus,1
+70.182, Black Currant Ribes nigrum,1
+70.183,Orpine Hylotelephium telephium,1
+70.183,ragworts,1
+70.183, Bladder Campion Silene vulgaris,1
+70.183,Hogweed Heracleum sphondylium,1
+70.183,Goldenrod Solidago virgaurea,1
+70.183,Yarrow Achillea millefolium,1
+70.183,Raspberry Rubus idaeus,1
+70.183,Bramble Rubus fruticosus,1
+70.183,Bilberry Vaccinium myrtillus,1
+70.183,Hawthorn Crataegus monogyna,1
+70.183,willows Salix spp.,1
+70.183,Cactus ,1
+70.184,currants Ribes spp.,1
+70.184,Barberry Berberis vulgaris,1
+70.184,Guelder-rose Viburnum opulus,1
+70.184,Elder Sambucus nigra,1
+70.184,Snowberry Symphoricarpos albus,1
+70.184,Dogwood Cornus sanguinea,1
+70.184,hawthorns Crataegus spp.,1
+70.184, Field Maple Acer campestre,1
+70.184,Sycamore Acer pseudoplatanus,1
+70.184,Pear Pyrus communis,1
+70.184,Ash Fraxinus excelsior,1
+70.184,Apple Malus domestica,1
+70.184,Rowan Sorbus aucuparia,1
+70.184, Pedunculate Oak Quercus robur,1
+70.184,Alder Alnus glutinosa,1
+70.184,Blackthorn Prunus spinosa,1
+70.184,birches Betula spp.,1
+70.184,willows Salix spp.,1
+70.184,Stranvaesia Photinia davidiana,1
+70.184,Weigelia Weigela florida,1
+70.185, Nettle-leaved BellflowerCampanula trachelium,1
+70.185, Giant Bellflower Campanula latifolia,1
+70.185,bellflowers Campanula spp.,1
+70.185,Sheep’s-bit Jasione montana,1
+70.186,Yarrow Achillea millefolium,1
+70.187,Southernwood Artemisia abrotanum,2
+70.187,Wormwood Artemisia absinthium,2
+70.187,Sneezewort Achillea ptarmica,2
+70.187, Common Ragwort Jacobaea vulgaris,2
+70.187,Mugwort Artemisia vulgaris,2
+70.187,Yarrow Achillea millefolium,1
+70.188, Common Ragwort Jacobaea vulgaris,1
+70.188,Mugwort Artemisia vulgaris,1
+70.188,Yarrow Achillea millefolium,1
+70.188,Southernwood Artemisia abrotanum,1
+70.188,Sneezewort Achillea ptarmica,1
+70.188,wormwoods Artemisia spp.,1
+70.188,Tansy Tanacetum vulgare,1
+70.189, Spanish Catchfly Silene otites,1
+70.189,hawk’s-beards Crepis spp.,1
+70.189, Dark Mullein Verbascum nigrum,1
+70.189,St John’s-worts Hypericum spp.,1
+70.189,ragworts,1
+70.189,Flixweed Descurainia sophia,1
+70.189, Field Scabious Knautia arvensis,1
+70.189, Wild Marjoram Origanum vulgare,1
+70.189,hawkbits,1
+70.19, Wall Lettuce Mycelis muralis,1
+70.19,hawk’s-beards Crepis spp.,1
+70.19,knapweeds Centaurea spp.,1
+70.19, Common Fleabane Pulicaria dysenterica,1
+70.19, Wild Parsnip Pastinaca sativa,1
+70.19,Barberry Berberis vulgaris,1
+70.19,goosefoots,1
+70.19,Hemp-agrimony Eupatorium cannabinum,1
+70.19, Wild Angelica Angelica sylvestris,1
+70.19,Goldenrod Solidago virgaurea,1
+70.19, Common Ragwort Jacobaea vulgaris,1
+70.19,Mugwort Artemisia vulgaris,1
+70.19,Aspen Populus tremula,1
+70.19,Yarrow Achillea millefolium,1
+70.19,Blackthorn Prunus spinosa,1
+70.19,Hawthorn Crataegus monogyna,1
+70.19,willows Salix spp.,1
+70.19, Nettle-leaved BellflowerCampanula trachelium,1
+70.19,Burnet-saxifrage Pimpinella saxifraga,1
+70.19,Betony Betonica officinalis,1
+70.191,Cowberry Vaccinium vitis-idaea,1
+70.191,Bilberry Vaccinium myrtillus,1
+70.191,Cranberry Vaccinium oxycoccos,1
+70.192,St John’s-worts Hypericum spp.,1
+70.193,St John’s-worts Hypericum spp.,1
+70.195, Tree Lupin Lupinus arboreus,1
+70.195,Broom Cytisus scoparius,1
+70.196,Broom Cytisus scoparius,1
+70.197,Flixweed Descurainia sophia,1
+70.198,Black-poplar Populus nigra,1
+70.198,poplars Populus spp.,2
+70.198,Aspen Populus tremula,1
+70.198,willows Salix spp.,2
+70.199, White Willow Salix alba,1
+70.199, Goat Willow Salix caprea,1
+70.199,willows Salix spp.,1
+70.2, Wild Privet Ligustrum vulgare,1
+70.2,Guelder-rose Viburnum opulus,1
+70.2,Holly Ilex aquifolium,1
+70.2,Dogwood Cornus sanguinea,1
+70.2,Buckthorn Rhamnus cathartica,1
+70.2, Common Ivy Hedera helix,1
+70.2,Sycamore Acer pseudoplatanus,1
+70.2, Alder Buckthorn Frangula alnus,1
+70.2,Rowan Sorbus aucuparia,1
+70.2,Hawthorn Crataegus monogyna,1
+70.2,Olive Olea europaea,1
+70.201, Wild Privet Ligustrum vulgare,1
+70.201,Ash Fraxinus excelsior,1
+70.202,Honeysuckle Lonicera periclymenum,1
+70.202,Alder Alnus glutinosa,1
+70.202,birches Betula spp.,1
+70.202,willows Salix spp.,1
+70.203,Beech Fagus sylvatica,2
+70.203, Downy Birch Betula pubescens,1
+70.203, Silver Birch Betula pendula,1
+70.203,oaks Quercus spp.,2
+70.203,Rowan Sorbus aucuparia,2
+70.204,Aspen Populus tremula,1
+70.204,willows Salix spp.,2
+70.205, Midland Hawkbit Crataegus laevigata,1
+70.205,Orpine Hylotelephium telephium,1
+70.205,stonecrops Sedum spp.,1
+70.205,Plum Prunus domestica,1
+70.205, Garden Privet Ligustrum ovalifolium,1
+70.205,Spindle Euonymus europaeus,1
+70.205, Red Currant Ribes rubrum,1
+70.205,Gooseberry Ribes uva-crispa,1
+70.205, Crab Apple Malus sylvestris,1
+70.205, Black Currant Ribes nigrum,1
+70.205, Common Ivy Hedera helix,1
+70.205,elms Ulmus spp.,1
+70.205,Bramble Rubus fruticosus,1
+70.205,Hazel Corylus avellana,1
+70.205,Heather Calluna vulgaris,1
+70.205,Blackthorn Prunus spinosa,1
+70.205,Hawthorn Crataegus monogyna,1
+70.205,willows Salix spp.,1
+70.205,Navelwort Umbilicus rupestris,1
+70.205, Evergreen Spindle Euonymus japonicus,1
+70.206, English Elm Ulmus procera,1
+70.206, Wych Elm Ulmus glabra,1
+70.206,Beech Fagus sylvatica,2
+70.206, Japanese Elm Ulmus davidiana,1
+70.207,poplars Populus spp.,1
+70.207,Aspen Populus tremula,1
+70.207,Hazel Corylus avellana,2
+70.207,willows Salix spp.,1
+70.208,Spindle Euonymus europaeus,1
+70.211, Goat Willow Salix caprea,1
+70.211, Grey Willow Salix cinerea,1
+70.211,birches Betula spp.,1
+70.212,Sea-buckthorn Hippophae rhamnoides,1
+70.212,larches Larix spp.,2
+70.212,Bog-myrtle Myrica gale,1
+70.212, Alder Buckthorn Frangula alnus,1
+70.212,Alder Alnus glutinosa,1
+70.212,Blackthorn Prunus spinosa,1
+70.212,willows Salix spp.,1
+70.213, Norway Spruce Picea abies,1
+70.213, Scots Pine Pinus sylvestris,1
+70.214, Corsican Pine Pinus nigra,2
+70.214, Western Hemlock-spruce Tsuga heterophylla,2
+70.214, Douglas Fir Pseudotsuga menziesii,2
+70.214,larches Larix spp.,2
+70.214, Sitka Spruce Picea sitchensis,2
+70.214, Norway Spruce Picea abies,1
+70.214, Scots Pine Pinus sylvestris,1
+70.214, Japanese Red-cedar Cryptomeria japonica,2
+70.215,Gooseberry Ribes uva-crispa,1
+70.215, Black Currant Ribes nigrum,1
+70.215, Red Currant Ribes rubrum,1
+70.216,Bearberry Arctostaphylos uva-ursi,1
+70.217, Scots Pine Pinus sylvestris,2
+70.217,Bilberry Vaccinium myrtillus,1
+70.218,trefoils,1
+70.218,Sainfoin Onobrychis viciifolia,1
+70.218, Tufted Vetch Vicia cracca,1
+70.218,Lucerne Medicago sativa,1
+70.218,vetches,1
+70.218, Meadow Vetchling Lathyrus pratensis,1
+70.218,clovers Trifolium spp.,1
+70.218, White Clover Trifolium repens,1
+70.221,Dogwood Cornus sanguinea,1
+70.221,Dog-rose Rosa canina,1
+70.221,Ash Fraxinus excelsior,2
+70.221,Bramble Rubus fruticosus,1
+70.221,Bilberry Vaccinium myrtillus,1
+70.221,willows Salix spp.,2
+70.222,Bracken Pteridium aquilinum,1
+70.223, Wild Cherry Prunus avium,2
+70.223,Ash Fraxinus excelsior,2
+70.223, Downy Birch Betula pubescens,2
+70.223, Silver Birch Betula pendula,2
+70.223,oaks Quercus spp.,2
+70.223,Hazel Corylus avellana,1
+70.223,Hawthorn Crataegus monogyna,2
+70.223,willows Salix spp.,2
+70.224, Sweet Chestnut Castanea sativa,2
+70.224,Beech Fagus sylvatica,2
+70.224, Downy Birch Betula pubescens,1
+70.224, Silver Birch Betula pendula,1
+70.224,Rowan Sorbus aucuparia,2
+70.224,oaks Quercus spp.,1
+70.224,willows Salix spp.,2
+70.225, Cross-leaved Heath Erica tetralix,1
+70.225,Heather Calluna vulgaris,1
+70.226,cotoneasters Cotoneaster spp.,2
+70.226, Wild Service-tree Sorbus torminalis,2
+70.226,apples Malus spp.,2
+70.226, Midland Hawkbit Crataegus laevigata,2
+70.226,Wayfaring-tree Viburnum lantana,2
+70.226,limes Tilia spp.,2
+70.226, Sweet Chestnut Castanea sativa,2
+70.226,elms Ulmus spp.,2
+70.226,cherries Prunus spp.,2
+70.226,cherries Prunus spp.,2
+70.226,Bramble Rubus fruticosus,2
+70.226,Rowan Sorbus aucuparia,1
+70.226,Hazel Corylus avellana,2
+70.226,oaks Quercus spp.,2
+70.226,birches Betula spp.,2
+70.226,Blackthorn Prunus spinosa,1
+70.226,Hawthorn Crataegus monogyna,1
+70.227,Black-poplar Populus nigra,1
+70.227,Hazel Corylus avellana,1
+70.227,Alder Alnus glutinosa,1
+70.227,willows Salix spp.,1
+70.228, Creeping Willow Salix repens,1
+70.228,Aspen Populus tremula,1
+70.229, White Dead-nettle Lamium album,2
+70.229, Wood Sage Teucrium scorodonia,1
+70.229, Yellow Archangel Lamiastrum galeobdolon,2
+70.229,woundworts Stachys spp.,2
+70.23,mints Mentha spp.,2
+70.23, Wild Plum Prunus domestica,1
+70.23,Lilac Syringa vulgaris,1
+70.23, Garden Privet Ligustrum ovalifolium,1
+70.23,Traveller’s-joy Clematis vitalba,1
+70.23,Honeysuckle Lonicera periclymenum,1
+70.23,Broom Cytisus scoparius,1
+70.23,Beech Fagus sylvatica,1
+70.23,Heather Calluna vulgaris,1
+70.23,birches Betula spp.,1
+70.23,Blackthorn Prunus spinosa,1
+70.23,Hawthorn Crataegus monogyna,1
+70.231,Elder Sambucus nigra,1
+70.231,Lilac Syringa vulgaris,1
+70.231, Garden Privet Ligustrum ovalifolium,1
+70.231, Wild Privet Ligustrum vulgare,1
+70.231,Honeysuckle Lonicera periclymenum,1
+70.231,Ash Fraxinus excelsior,1
+70.231,Snowberry Symphoricarpos albus,1
+70.232,Alder Alnus glutinosa,1
+70.232,Apple Malus domestica,1
+70.232,birches Betula spp.,1
+70.232,Blackthorn Prunus spinosa,1
+70.232,cherries Prunus spp.,1
+70.232,elms Ulmus spp.,1
+70.232,hawthorns Crataegus spp.,1
+70.232,Hazel Corylus avellana,1
+70.232,oaks Quercus spp.,1
+70.232,poplars Populus spp.,1
+70.232,Sycamore Acer pseudoplatanus,1
+70.232,willows Salix spp.,1
+70.233,Beech Fagus sylvatica,1
+70.233,birches Betula spp.,1
+70.233,Blackthorn Prunus spinosa,1
+70.233,elms Ulmus spp.,1
+70.233,Hawthorn Crataegus monogyna,1
+70.233,Lilac Syringa vulgaris,1
+70.233,limes Tilia spp.,1
+70.233, Pedunculate Oak Quercus robur,1
+70.234,Alder Alnus glutinosa,1
+70.234, Downy Birch Betula pubescens,1
+70.234, Silver Birch Betula pendula,1
+70.234,elms Ulmus spp.,1
+70.234,Hornbeam Carpinus betulus,1
+70.234,limes Tilia spp.,1
+70.234, Sessile Oak Quercus petraea,1
+70.234, Goat Willow Salix caprea,1
+70.235,Ash Fraxinus excelsior,1
+70.236,limes Tilia spp.,1
+70.236,Beech Fagus sylvatica,1
+70.236,oaks Quercus spp.,1
+70.236,birches Betula spp.,1
+70.237,Alder Alnus glutinosa,1
+70.237, Downy Birch Betula pubescens,1
+70.237, Silver Birch Betula pendula,1
+70.237,Blackthorn Prunus spinosa,1
+70.237,Bog-myrtle Myrica gale,1
+70.237,Bramble Rubus fruticosus,1
+70.237, Sweet Chestnut Castanea sativa,1
+70.237,Hawthorn Crataegus monogyna,1
+70.237,Hazel Corylus avellana,1
+70.237,Honeysuckle Lonicera periclymenum,1
+70.237,Raspberry Rubus idaeus,1
+70.237,willows Salix spp.,1
+70.238,Ash Fraxinus excelsior,1
+70.238,birches Betula spp.,1
+70.238,Blackthorn Prunus spinosa,1
+70.238,Dog-rose Rosa canina,1
+70.238,elms Ulmus spp.,1
+70.238, Small-leaved Lime Tilia cordata,1
+70.238,oaks Quercus spp.,1
+70.238, Wild Plum Prunus domestica,1
+70.239,Alder Alnus glutinosa,1
+70.239,Ash Fraxinus excelsior,1
+70.239,birches Betula spp.,1
+70.239, Alder Buckthorn Frangula alnus,1
+70.239, Wild Cherry Prunus avium,1
+70.239, Sweet Chestnut Castanea sativa,1
+70.239,cotoneasters Cotoneaster spp.,1
+70.239,Hawthorn Crataegus monogyna,1
+70.239,Hazel Corylus avellana,1
+70.239,larches Larix spp.,1
+70.239,oaks Quercus spp.,1
+70.239,Raspberry Rubus idaeus,1
+70.239,willows Salix spp.,1
+70.24,lichens,1
+70.24,spruces Picea spp.,1
+70.24,pines Pinus spp.,1
+70.24, Lawson's Cypress Cupressus lawsoniana,1
+70.24, Wild Plum Prunus domestica,1
+70.24,Barberry Berberis vulgaris,1
+70.24, Douglas Fir Pseudotsuga menziesii,1
+70.24, Common Juniper Juniperus communis,1
+70.24,hawthorns Crataegus spp.,1
+70.24,larches Larix spp.,1
+70.24,limes Tilia spp.,1
+70.24,Broom Cytisus scoparius,1
+70.24,Apple Malus domestica,1
+70.24,Hazel Corylus avellana,1
+70.24,oaks Quercus spp.,1
+70.24,Bilberry Vaccinium myrtillus,1
+70.24,Blackthorn Prunus spinosa,1
+70.24,birches Betula spp.,1
+70.24,willows Salix spp.,1
+70.24, Western Red-cedar Thuja plicata,1
+70.241,cotoneasters Cotoneaster spp.,1
+70.241,Bog-myrtle Myrica gale,1
+70.241,roses Rosa spp.,1
+70.241, Crab Apple Malus sylvestris,1
+70.241,Honeysuckle Lonicera periclymenum,1
+70.241,Beech Fagus sylvatica,1
+70.241, Downy Birch Betula pubescens,1
+70.241, Silver Birch Betula pendula,1
+70.241,cherries Prunus spp.,1
+70.241,Rowan Sorbus aucuparia,1
+70.241,oaks Quercus spp.,1
+70.241,Bilberry Vaccinium myrtillus,1
+70.241,Heather Calluna vulgaris,1
+70.241,Blackthorn Prunus spinosa,1
+70.241,Hawthorn Crataegus monogyna,1
+70.241,willows Salix spp.,1
+70.241,brideworts Spiraea spp.,1
+70.241,lavenders Lavandula spp.,1
+70.243,Firethorn Pyracantha coccinea,1
+70.243,forget-me-nots Myosotis spp.,1
+70.243,Horse-chestnut Aesculus hippocastanum,1
+70.243, Wych Elm Ulmus glabra,1
+70.243,Elder Sambucus nigra,1
+70.243,Lilac Syringa vulgaris,1
+70.243, Garden Privet Ligustrum ovalifolium,1
+70.243,Sycamore Acer pseudoplatanus,1
+70.243,Pear Pyrus communis,1
+70.243, Common Ivy Hedera helix,1
+70.243, Black Currant Ribes nigrum,1
+70.243,Honeysuckle Lonicera periclymenum,1
+70.243, Goat Willow Salix caprea,1
+70.243,Beech Fagus sylvatica,1
+70.243,Bramble Rubus fruticosus,1
+70.243,oaks Quercus spp.,1
+70.243,Blackthorn Prunus spinosa,1
+70.243,Hawthorn Crataegus monogyna,1
+70.243, Canadian Goldenrod Solidago canadensis,1
+70.243,Holly Ilex aquifolium,1
+70.244, Wild Privet Ligustrum vulgare,1
+70.244,hawthorns Crataegus spp.,1
+70.244, Field Maple Acer campestre,1
+70.244, Sitka Spruce Picea sitchensis,1
+70.244,larches Larix spp.,1
+70.244,Bog-myrtle Myrica gale,1
+70.244,Sycamore Acer pseudoplatanus,1
+70.244, Crab Apple Malus sylvestris,1
+70.244,poplars Populus spp.,1
+70.244,Dog-rose Rosa canina,1
+70.244,elms Ulmus spp.,1
+70.244,Hazel Corylus avellana,1
+70.244,oaks Quercus spp.,1
+70.244,Bilberry Vaccinium myrtillus,1
+70.244,Alder Alnus glutinosa,1
+70.244,birches Betula spp.,1
+70.244,Blackthorn Prunus spinosa,1
+70.244,willows Salix spp.,1
+70.244, Wild Service-tree Sorbus torminalis,1
+70.245,currants Ribes spp.,1
+70.245,apples Malus spp.,1
+70.245,Hornbeam Carpinus betulus,1
+70.245,Lilac Syringa vulgaris,1
+70.245, Wild Privet Ligustrum vulgare,1
+70.245,limes Tilia spp.,1
+70.245, Field Maple Acer campestre,1
+70.245,roses Rosa spp.,1
+70.245,Sycamore Acer pseudoplatanus,1
+70.245,elms Ulmus spp.,1
+70.245,cherries Prunus spp.,1
+70.245,cherries Prunus spp.,1
+70.245,Rowan Sorbus aucuparia,1
+70.245,Hazel Corylus avellana,1
+70.245,oaks Quercus spp.,1
+70.245,Bilberry Vaccinium myrtillus,1
+70.245,birches Betula spp.,1
+70.245,Hawthorn Crataegus monogyna,1
+70.245,Blackthorn Prunus spinosa,1
+70.245,willows Salix spp.,1
+70.246, English Elm Ulmus procera,2
+70.246, Wych Elm Ulmus glabra,2
+70.246,Hornbeam Carpinus betulus,2
+70.246, Sessile Oak Quercus petraea,1
+70.246, Sweet Chestnut Castanea sativa,2
+70.246, Pedunculate Oak Quercus robur,1
+70.246,Hazel Corylus avellana,2
+70.246,birches Betula spp.,2
+70.246,Hawthorn Crataegus monogyna,2
+70.247,Plum Prunus domestica,1
+70.247, Midland Hawkbit Crataegus laevigata,1
+70.247, Wych Elm Ulmus glabra,1
+70.247,Buckthorn Rhamnus cathartica,1
+70.247,Dogwood Cornus sanguinea,1
+70.247,larches Larix spp.,1
+70.247,limes Tilia spp.,1
+70.247,roses Rosa spp.,1
+70.247,poplars Populus spp.,1
+70.247, Goat Willow Salix caprea,1
+70.247,Apple Malus domestica,1
+70.247,Ash Fraxinus excelsior,1
+70.247, Downy Birch Betula pubescens,1
+70.247, Silver Birch Betula pendula,1
+70.247,Hazel Corylus avellana,1
+70.247,oaks Quercus spp.,1
+70.247,Alder Alnus glutinosa,1
+70.247,Alder Alnus glutinosa,1
+70.247,Blackthorn Prunus spinosa,1
+70.247,Hawthorn Crataegus monogyna,1
+70.248, Small-leaved Lime Tilia cordata,1
+70.248,Plum Prunus domestica,1
+70.248, Midland Hawkbit Crataegus laevigata,1
+70.248, Holm Oak Quercus ilex,1
+70.248,Pear Pyrus communis,1
+70.248, Alder Buckthorn Frangula alnus,1
+70.248,elms Ulmus spp.,1
+70.248,Beech Fagus sylvatica,1
+70.248,Aspen Populus tremula,1
+70.248, Downy Birch Betula pubescens,1
+70.248, Pedunculate Oak Quercus robur,1
+70.248, Silver Birch Betula pendula,1
+70.248,Hazel Corylus avellana,1
+70.248,Alder Alnus glutinosa,1
+70.248,Hawthorn Crataegus monogyna,1
+70.248,willows Salix spp.,1
+70.249, Eared Willow Salix aurita,1
+70.249, Bell Heath Erica cinerea,1
+70.249, Cross-leaved Heath Erica tetralix,1
+70.249,Bog-myrtle Myrica gale,1
+70.249,Bilberry Vaccinium myrtillus,1
+70.249,Heather Calluna vulgaris,1
+70.25,Colt’s-foot Tussilago farfara,2
+70.25, Yellow Iris Iris pseudacorus,2
+70.25,thistles,2
+70.25,knapweeds Centaurea spp.,2
+70.25, Sea Plantain Plantago maritima,2
+70.25, Burnet Rose Rosa spinosissima,2
+70.25,dandelions Taraxacum spp.,2
+70.25,Knotgrass Polygonum aviculare,2
+70.25, Wild Thyme Thymus drucei,2
+70.25, Kidney Vetch Anthyllis vulneraria,1
+70.25, Creeping Willow Salix repens,2
+70.25,clovers Trifolium spp.,2
+70.25,docks Rumex spp.,2
+70.25,Broom Cytisus scoparius,2
+70.25,Yarrow Achillea millefolium,2
+70.25, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.25, Meadow Vetchling Lathyrus pratensis,2
+70.25,cat’s-ears Hypochaeris spp.,2
+70.25, Autumn Hawkbit Scorzoneroides autumnalis,2
+70.251,Lime Tilia x  europaea,1
+70.251, Alder Buckthorn Frangula alnus,1
+70.251,elms Ulmus spp.,1
+70.251,Aspen Populus tremula,1
+70.251,Hazel Corylus avellana,1
+70.251,oaks Quercus spp.,1
+70.251,Alder Alnus glutinosa,1
+70.251,birches Betula spp.,1
+70.251,willows Salix spp.,1
+70.252,Michaelmas-daisies Symphyotrichum spp.,1
+70.252,spruces Picea spp.,1
+70.252,currants Ribes spp.,1
+70.252,Tamarisk Tamarix gallica,1
+70.252,Hop Humulus lupulus,1
+70.252,Goldenrod Solidago virgaurea,1
+70.252,Mugwort Artemisia vulgaris,1
+70.252,larches Larix spp.,1
+70.252,roses Rosa spp.,1
+70.252, Sweet Chestnut Castanea sativa,1
+70.252,poplars Populus spp.,1
+70.252,Broom Cytisus scoparius,1
+70.252,elms Ulmus spp.,1
+70.252,Beech Fagus sylvatica,1
+70.252,Bramble Rubus fruticosus,1
+70.252,oaks Quercus spp.,1
+70.252,birches Betula spp.,1
+70.252,Blackthorn Prunus spinosa,1
+70.252,Hawthorn Crataegus monogyna,1
+70.252,willows Salix spp.,1
+70.253, Sessile Oak Quercus petraea,1
+70.253,Sycamore Acer pseudoplatanus,2
+70.253, Pedunculate Oak Quercus robur,1
+70.254, English Elm Ulmus procera,1
+70.254,hawthorns Crataegus spp.,1
+70.254,Hornbeam Carpinus betulus,1
+70.254,Bog-myrtle Myrica gale,1
+70.254,limes Tilia spp.,1
+70.254,larches Larix spp.,1
+70.254,Raspberry Rubus idaeus,1
+70.254,Sycamore Acer pseudoplatanus,1
+70.254,Dog-rose Rosa canina,1
+70.254,poplars Populus spp.,1
+70.254,Ash Fraxinus excelsior,1
+70.254,Beech Fagus sylvatica,1
+70.254,Aspen Populus tremula,1
+70.254,Rowan Sorbus aucuparia,1
+70.254,Hazel Corylus avellana,1
+70.254,oaks Quercus spp.,1
+70.254,Alder Alnus glutinosa,1
+70.254,birches Betula spp.,1
+70.254,Blackthorn Prunus spinosa,1
+70.254,willows Salix spp.,1
+70.255, English Elm Ulmus procera,1
+70.255, Midland Hawkbit Crataegus laevigata,1
+70.255, Wych Elm Ulmus glabra,1
+70.255,Hornbeam Carpinus betulus,1
+70.255, Field Maple Acer campestre,1
+70.255, Crab Apple Malus sylvestris,1
+70.255,Bog-myrtle Myrica gale,1
+70.255,limes Tilia spp.,1
+70.255, Sweet Chestnut Castanea sativa,1
+70.255,Dog-rose Rosa canina,1
+70.255,Beech Fagus sylvatica,1
+70.255, Pedunculate Oak Quercus robur,1
+70.255,Aspen Populus tremula,1
+70.255,Bilberry Vaccinium myrtillus,1
+70.255,Hazel Corylus avellana,1
+70.255,Alder Alnus glutinosa,1
+70.255,birches Betula spp.,1
+70.255,Blackthorn Prunus spinosa,1
+70.255,Hawthorn Crataegus monogyna,1
+70.255,willows Salix spp.,1
+70.256, Bird Cherry Prunus padus,1
+70.256, Sitka Spruce Picea sitchensis,1
+70.256,hawthorns Crataegus spp.,1
+70.256,Hornbeam Carpinus betulus,1
+70.256, Field Maple Acer campestre,1
+70.256,Sycamore Acer pseudoplatanus,1
+70.256, Sweet Chestnut Castanea sativa,1
+70.256,Honeysuckle Lonicera periclymenum,1
+70.256,Dog-rose Rosa canina,1
+70.256,Apple Malus domestica,1
+70.256,elms Ulmus spp.,1
+70.256,Beech Fagus sylvatica,1
+70.256,Aspen Populus tremula,1
+70.256,Rowan Sorbus aucuparia,1
+70.256,Bilberry Vaccinium myrtillus,1
+70.256,Hazel Corylus avellana,1
+70.256,oaks Quercus spp.,1
+70.256,birches Betula spp.,1
+70.256,Blackthorn Prunus spinosa,1
+70.256,willows Salix spp.,1
+70.257, Garden Privet Ligustrum ovalifolium,1
+70.257,Lilac Syringa vulgaris,1
+70.257, Wild Privet Ligustrum vulgare,2
+70.257, Winter Jasmine Jasminum nudiflorum,1
+70.258, Leyland Cypress Cupressus x leylandii,1
+70.258,Yew Taxus baccata,1
+70.258,pines Pinus spp.,1
+70.258, Monterey Cypress Cupressus macrocarpa,1
+70.258,Plum Prunus domestica,1
+70.258,Gorse Ulex europaeus,1
+70.258, Garden Privet Ligustrum ovalifolium,1
+70.258, Norway Spruce Picea abies,1
+70.258,Lilac Syringa vulgaris,1
+70.258, Common Ivy Hedera helix,1
+70.258,Traveller’s-joy Clematis vitalba,1
+70.258, Alder Buckthorn Frangula alnus,1
+70.258,roses Rosa spp.,1
+70.258,Broom Cytisus scoparius,1
+70.258,Honeysuckle Lonicera periclymenum,1
+70.258,Bramble Rubus fruticosus,1
+70.258,Rowan Sorbus aucuparia,1
+70.258,Hawthorn Crataegus monogyna,1
+70.258,birches Betula spp.,1
+70.258,laurels Prunus spp.,1
+70.26, Norway Spruce Picea abies,1
+70.262, Common Restharrow Ononis repens,1
+70.262,sorrels Rumex spp.,1
+70.262, Bell Heath Erica cinerea,1
+70.262, Cross-leaved Heath Erica tetralix,1
+70.262,Broom Cytisus scoparius,1
+70.262, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.262,Heather Calluna vulgaris,1
+70.263, Bell Heath Erica cinerea,1
+70.263, Cross-leaved Heath Erica tetralix,1
+70.263,Bog-myrtle Myrica gale,1
+70.263, Goat Willow Salix caprea,2
+70.263, Common Bird's-foot-trefoil Lotus corniculatus,2
+70.263,Heather Calluna vulgaris,1
+70.263,Bilberry Vaccinium myrtillus,1
+70.263,birches Betula spp.,1
+70.264,Yew Taxus baccata,1
+70.264, European Silver-fir Abies alba,2
+70.264,spruces Picea spp.,2
+70.264, Western Hemlock-spruce Tsuga heterophylla,2
+70.264, Douglas Fir Pseudotsuga menziesii,2
+70.264,larches Larix spp.,2
+70.264, Scots Pine Pinus sylvestris,1
+70.264,Beech Fagus sylvatica,1
+70.264,oaks Quercus spp.,1
+70.264,willows Salix spp.,1
+70.264,birches Betula spp.,1
+70.265,pines Pinus spp.,1
+70.265,spruces Picea spp.,1
+70.265,Barberry Berberis vulgaris,1
+70.265, Common Juniper Juniperus communis,1
+70.265, Wild Angelica Angelica sylvestris,1
+70.265,hawthorns Crataegus spp.,1
+70.265,docks Rumex spp.,1
+70.265,Traveller’s-joy Clematis vitalba,1
+70.265,Yarrow Achillea millefolium,1
+70.265,Honeysuckle Lonicera periclymenum,1
+70.265,Broom Cytisus scoparius,1
+70.265,Ash Fraxinus excelsior,1
+70.265,Bramble Rubus fruticosus,1
+70.265,Heather Calluna vulgaris,1
+70.265,Bilberry Vaccinium myrtillus,1
+70.265,Hazel Corylus avellana,1
+70.265,oaks Quercus spp.,1
+70.265,birches Betula spp.,1
+70.265,Blackthorn Prunus spinosa,1
+70.265,cypresses Cupressus spp.,1
+70.266, beard lichens Usnea spp.,1
+70.267, Pedunculate Oak Quercus robur,1
+70.267,willows Salix spp.,2
+70.267,birches Betula spp.,2
+70.268, Midland Hawkbit Crataegus laevigata,1
+70.268, Crab Apple Malus sylvestris,1
+70.268,Raspberry Rubus idaeus,1
+70.268,larches Larix spp.,1
+70.268,Sycamore Acer pseudoplatanus,1
+70.268, Sweet Chestnut Castanea sativa,1
+70.268,Honeysuckle Lonicera periclymenum,1
+70.268, Downy Birch Betula pubescens,1
+70.268, Silver Birch Betula pendula,1
+70.268, Pedunculate Oak Quercus robur,1
+70.268,Hazel Corylus avellana,1
+70.268,willows Salix spp.,1
+70.268,Hawthorn Crataegus monogyna,1
+70.27,Spindle Euonymus europaeus,1
+70.27, Holm Oak Quercus ilex,1
+70.27,Buckthorn Rhamnus cathartica,1
+70.27, Wych Elm Ulmus glabra,1
+70.27, Wild Privet Ligustrum vulgare,1
+70.27, Sitka Spruce Picea sitchensis,1
+70.27,hawthorns Crataegus spp.,1
+70.27,Hornbeam Carpinus betulus,1
+70.27, Scots Pine Pinus sylvestris,1
+70.27,larches Larix spp.,1
+70.27,Broom Cytisus scoparius,1
+70.27,Honeysuckle Lonicera periclymenum,1
+70.27,Ash Fraxinus excelsior,1
+70.27, Downy Birch Betula pubescens,1
+70.27, Silver Birch Betula pendula,1
+70.27,Aspen Populus tremula,1
+70.27,Alder Alnus glutinosa,1
+70.27,Hazel Corylus avellana,1
+70.27,oaks Quercus spp.,1
+70.27,Yew Taxus baccata,1
+70.271, Downy Birch Betula pubescens,1
+70.271,Beech Fagus sylvatica,1
+70.271, Silver Birch Betula pendula,1
+70.271,willows Salix spp.,1
+70.271,Hawthorn Crataegus monogyna,1
+70.272,birches Betula spp.,1
+70.272,Beech Fagus sylvatica,1
+70.272,Hornbeam Carpinus betulus,1
+70.272,larches Larix spp.,1
+70.272, Small-leaved Lime Tilia cordata,1
+70.272,oaks Quercus spp.,1
+70.272,pines Pinus spp.,1
+70.272,Yew Taxus baccata,1
+70.273, Midland Hawkbit Crataegus laevigata,1
+70.273,limes Tilia spp.,1
+70.273, Sweet Chestnut Castanea sativa,1
+70.273, Downy Birch Betula pubescens,1
+70.273, Pedunculate Oak Quercus robur,1
+70.273, Silver Birch Betula pendula,1
+70.273,Alder Alnus glutinosa,1
+70.273,Hazel Corylus avellana,1
+70.273,willows Salix spp.,1
+70.273,Hawthorn Crataegus monogyna,1
+70.274, Downy Birch Betula pubescens,1
+70.274, Silver Birch Betula pendula,1
+70.274,Alder Alnus glutinosa,1
+70.274,Hazel Corylus avellana,1
+70.275,trefoils,1
+70.275,Purple-loosestrife Lythrum salicaria,1
+70.275,vetches,1
+70.275, Eared Willow Salix aurita,1
+70.275,clovers Trifolium spp.,1
+70.275, Bell Heath Erica cinerea,1
+70.275, Cross-leaved Heath Erica tetralix,1
+70.275,Bog-myrtle Myrica gale,1
+70.275,Broom Cytisus scoparius,1
+70.275,Heather Calluna vulgaris,1
+70.276, Corsican Pine Pinus nigra,1
+70.276,pines Pinus spp.,2
+70.276, Douglas Fir Pseudotsuga menziesii,2
+70.276, Norway Spruce Picea abies,2
+70.276, Scots Pine Pinus sylvestris,1
+70.276,larches Larix spp.,1
+70.276, European Silver-fir Abies alba,2
+70.277, Sweet Chestnut Castanea sativa,1
+70.277, Downy Birch Betula pubescens,1
+70.277, Silver Birch Betula pendula,1
+70.277,oaks Quercus spp.,1
+70.277,Alder Alnus glutinosa,1
+70.277,Hazel Corylus avellana,1
+70.277,willows Salix spp.,1
+70.278,poplars Populus spp.,1
+70.278, Goat Willow Salix caprea,1
+70.278, Grey Willow Salix cinerea,1
+70.278,Aspen Populus tremula,1
+70.278,Alder Alnus glutinosa,1
+70.278,willows Salix spp.,1
+70.278,birches Betula spp.,1
+70.279, Wild Plum Prunus domestica,1
+70.279, Midland Hawkbit Crataegus laevigata,1
+70.279,Blackthorn Prunus spinosa,1
+70.279,Hawthorn Crataegus monogyna,1
+70.279, Dwarf Cherry Prunus cerasus,1
+70.28, Bird Cherry Prunus padus,1
+70.28, Wild Cherry Prunus avium,1
+70.28,Plum Prunus domestica,1
+70.28, Wych Elm Ulmus glabra,2
+70.28, Midland Hawkbit Crataegus laevigata,1
+70.28, Crab Apple Malus sylvestris,1
+70.28,Apple Malus domestica,1
+70.28,Aspen Populus tremula,2
+70.28,birches Betula spp.,2
+70.28,Blackthorn Prunus spinosa,1
+70.28,Hawthorn Crataegus monogyna,1
+70.281,Blackthorn Prunus spinosa,1
+70.282, Wild Plum Prunus domestica,2
+70.282, Midland Hawkbit Crataegus laevigata,2
+70.282,Bilberry Vaccinium myrtillus,2
+70.282,oaks Quercus spp.,2
+70.282,Blackthorn Prunus spinosa,1
+70.282,Hawthorn Crataegus monogyna,1
+70.283,Alder Alnus glutinosa,1
+70.283,Ash Fraxinus excelsior,1
+70.283,Beech Fagus sylvatica,1
+70.283, Downy Birch Betula pubescens,1
+70.283, Silver Birch Betula pendula,1
+70.283,Blackthorn Prunus spinosa,1
+70.283,Broom Cytisus scoparius,1
+70.283, Sweet Chestnut Castanea sativa,1
+70.283,elms Ulmus spp.,1
+70.283,Hawthorn Crataegus monogyna,1
+70.283,Hazel Corylus avellana,1
+70.283,Hornbeam Carpinus betulus,1
+70.283,Horse-chestnut Aesculus hippocastanum,1
+70.283,Juneberry Amelanchier lamarckii,1
+70.283, Pedunculate Oak Quercus robur,1
+70.283,Plum Prunus domestica,1
+70.283,roses Rosa spp.,1
+70.283,Rowan Sorbus aucuparia,1
+70.283,willows Salix spp.,1
+70.284, European Larch Larix decidua,2
+70.284, Corsican Pine Pinus nigra,2
+70.284, Lodgepole Pine Pinus contorta,2
+70.284, Douglas Fir Pseudotsuga menziesii,2
+70.284, Norway Spruce Picea abies,1
+70.284, Scots Pine Pinus sylvestris,1
+70.284, Western Hemlock-spruce Tsuga heterophylla,2
+70.284,cedars Cedrus spp.,2
+70.285,stonecrops Sedum spp.,1
+70.285, Petty Whin Genista anglica,1
+70.285,vetches,1
+70.285, Bell Heath Erica cinerea,1
+70.285, Cross-leaved Heath Erica tetralix,1
+70.285,Heather Calluna vulgaris,1
+70.285, Yellow Saxifrage Saxifraga aizoides,1
+70.285,saxifrages Saxifraga spp.,1
+70.286,Buckthorn Rhamnus cathartica,1
+70.287, Creeping Cinquefoil Potentilla reptans,1
+70.287, Salad Burnet Poterium sanguisorba,1
+70.287, Sea Campion Silene uniflora,1
+70.287,Thrift Armeria maritima,1
+70.287, Common Rock-rose Helianthemum nummularium,1
+70.287, Wild Thyme Thymus drucei,1
+70.287, Kidney Vetch Anthyllis vulneraria,1
+70.287, Wild Strawberry Fragaria vesca,1
+70.287, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.287,Heather Calluna vulgaris,1
+70.287, Shining Crane's-bill Geranium lucidum,1
+70.288,lichens,1
+70.288,Ramalina sp.,1
+70.289,Crowberry Empetrum nigrum,1
+70.291, Common Knapweed Centaurea nigra,1
+70.291, Wild Marjoram Origanum vulgare,1
+70.291, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.292, White Willow Salix alba,2
+70.292, Bell Heath Erica cinerea,1
+70.292, Cross-leaved Heath Erica tetralix,1
+70.292,Heather Calluna vulgaris,1
+70.293, Creeping Cinquefoil Potentilla reptans,2
+70.293, Black Medick Medicago lupulina,2
+70.293, Wild Thyme Thymus drucei,2
+70.293,Yarrow Achillea millefolium,2
+70.293, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.293, Wild Parsnip Pastinaca sativa,2
+70.293, Fairy Flax Linum catharticum,1
+70.294, Nottingham Catchfly silene nutans,1
+70.294, Spanish Catchfly Silene otites,1
+70.294, Common Restharrow Ononis repens,1
+70.294, Sea Wormwood Artemisia maritima,1
+70.294, Wild Carrot Daucus carota,1
+70.294, Common Bird's-foot-trefoil Lotus corniculatus,1
+70.294, Buck's-horn Plantain Plantago coronopus,1
+70.294,toadflaxes Linaria spp.,1
+70.294, Smooth Tare Ervum tetrasperma,1
+70.294, Hare's-foot Clover Trifolium arvense,1
+70.294, Beaked Hawk's-beard Crepis vesicaria,1
+70.295, Petty Whin Genista anglica,1
+70.295, Creeping Willow Salix repens,2
+70.295,Gorse Ulex europaeus,1
+70.295, Bell Heath Erica cinerea,1
+70.295,Broom Cytisus scoparius,1
+70.295,Heather Calluna vulgaris,1
+70.295,Blackthorn Prunus spinosa,2
+70.296, Common Restharrow Ononis repens,1
+70.297, Petty Whin Genista anglica,1
+70.297,Gorse Ulex europaeus,1
+70.297,Broom Cytisus scoparius,1
+70.298,Broom Cytisus scoparius,1
+70.299,Beech Fagus sylvatica,1
+70.299, Downy Birch Betula pubescens,1
+70.299, Silver Birch Betula pendula,1
+70.299,Hazel Corylus avellana,1
+70.299,Alder Alnus glutinosa,1
+70.3, Sessile Oak Quercus petraea,1
+70.3, Pedunculate Oak Quercus robur,1
+70.302,Traveller’s-joy Clematis vitalba,1
+70.303,Dogwood Cornus sanguinea,1
+70.303,Hornbeam Carpinus betulus,1
+70.303,Sycamore Acer pseudoplatanus,1
+70.303, Sweet Chestnut Castanea sativa,1
+70.303,Broom Cytisus scoparius,1
+70.303,Bramble Rubus fruticosus,1
+70.303, Downy Birch Betula pubescens,1
+70.303, Silver Birch Betula pendula,1
+70.303,Bilberry Vaccinium myrtillus,1
+70.303,oaks Quercus spp.,1
+70.303,Hazel Corylus avellana,1
+70.303,willows Salix spp.,1
+70.303,Blackthorn Prunus spinosa,1
+70.303,Hawthorn Crataegus monogyna,1
+70.304, Hoary Ragwort Jacobaea erucifolia,1
+70.304, Wild Carrot Daucus carota,1
+70.304, Common Ragwort Jacobaea vulgaris,1
+70.305,cinquefoils Potentilla spp.,1
+70.305,jasmines Jasminum spp.,1
+70.305,plantains Plantago spp.,1
+70.305,currants Ribes spp.,1
+70.305,Sea-buckthorn Hippophae rhamnoides,1
+70.305,Knotgrass Polygonum aviculare,1
+70.305,clovers Trifolium spp.,1
+70.305,Mugwort Artemisia vulgaris,1
+70.305,hawthorns Crataegus spp.,1
+70.305,limes Tilia spp.,1
+70.305,Dog-rose Rosa canina,1
+70.305,Honeysuckle Lonicera periclymenum,1
+70.305,Aspen Populus tremula,1
+70.305,oaks Quercus spp.,1
+70.305,Hazel Corylus avellana,1
+70.305,willows Salix spp.,1
+70.305,birches Betula spp.,1
+70.305,Blackthorn Prunus spinosa,1
+70.305,barberries Berberis spp.,1
+70.306,Tormentil Potentilla erecta,2
+70.306, Creeping Willow Salix repens,1
+70.306,Gorse Ulex europaeus,1
+70.306, Cross-leaved Heath Erica tetralix,1
+70.306,Bramble Rubus fruticosus,2
+70.306,Heather Calluna vulgaris,1
+70.306,birches Betula spp.,1
+70.306,Hawthorn Crataegus monogyna,2
+70.306, Petty Whin Genista anglica,2
+71.001, Holm Oak Quercus ilex,2
+71.001, Pedunculate Oak Quercus robur,1
+71.001, Turkey Oak Quercus cerris,1
+71.003,poplars Populus spp.,1
+71.003,Aspen Populus tremula,1
+71.003,willows Salix spp.,1
+71.005, White Willow Salix alba,1
+71.005,poplars Populus spp.,1
+71.005, Goat Willow Salix caprea,1
+71.005, Grey Willow Salix cinerea,1
+71.005,Beech Fagus sylvatica,2
+71.005,Aspen Populus tremula,1
+71.005,willows Salix spp.,1
+71.006,Alder Alnus glutinosa,1
+71.006,birches Betula spp.,1
+71.007,poplars Populus spp.,1
+71.007,Aspen Populus tremula,1
+71.007,willows Salix spp.,2
+71.009, Holm Oak Quercus ilex,2
+71.009,Pear Pyrus communis,2
+71.009, Crab Apple Malus sylvestris,2
+71.009,limes Tilia spp.,2
+71.009,Dog-rose Rosa canina,2
+71.009,Apple Malus domestica,2
+71.009,Beech Fagus sylvatica,1
+71.009,oaks Quercus spp.,1
+71.009,Alder Alnus glutinosa,2
+71.009,Hazel Corylus avellana,1
+71.009,willows Salix spp.,2
+71.009,birches Betula spp.,1
+71.009,Blackthorn Prunus spinosa,2
+71.009,Hawthorn Crataegus monogyna,2
+71.009,Walnut Juglans regia,2
+71.01, Sessile Oak Quercus petraea,1
+71.01, Pedunculate Oak Quercus robur,1
+71.011, Sessile Oak Quercus petraea,1
+71.011, Pedunculate Oak Quercus robur,1
+71.012, Eared Willow Salix aurita,2
+71.012, Grey Willow Salix cinerea,2
+71.012, Downy Birch Betula pubescens,1
+71.012, Silver Birch Betula pendula,1
+71.012,oaks Quercus spp.,2
+71.012,Hazel Corylus avellana,2
+71.012,Alder Alnus glutinosa,1
+71.012, Grey Alder Alnus incana,2
+71.013,poplars Populus spp.,1
+71.013,Aspen Populus tremula,1
+71.013,willows Salix spp.,1
+71.016, Sessile Oak Quercus petraea,1
+71.016, Pedunculate Oak Quercus robur,1
+71.017,poplars Populus spp.,1
+71.017,Aspen Populus tremula,1
+71.017,willows Salix spp.,1
+71.018, Downy Birch Betula pubescens,1
+71.018, Silver Birch Betula pendula,1
+71.019,birches Betula spp.,1
+71.02,poplars Populus spp.,1
+71.02,Aspen Populus tremula,1
+71.02,willows Salix spp.,1
+71.021, Field Maple Acer campestre,1
+71.021,Hornbeam Carpinus betulus,1
+71.021,roses Rosa spp.,1
+71.021,limes Tilia spp.,1
+71.021,Sycamore Acer pseudoplatanus,1
+71.021, Sweet Chestnut Castanea sativa,1
+71.021,poplars Populus spp.,1
+71.021,Rowan Sorbus aucuparia,1
+71.021,Beech Fagus sylvatica,1
+71.021,Aspen Populus tremula,1
+71.021,oaks Quercus spp.,1
+71.021,willows Salix spp.,1
+71.021,birches Betula spp.,1
+71.021,Hawthorn Crataegus monogyna,1
+71.021,Hazel Corylus avellana,1
+71.021,Alder Alnus glutinosa,1
+71.022,maples Acer spp.,2
+71.022, Field Maple Acer campestre,1
+71.022,Sycamore Acer pseudoplatanus,1
+71.023, Downy Birch Betula pubescens,1
+71.023, Silver Birch Betula pendula,1
+71.024, Field Maple Acer campestre,1
+71.024,Sycamore Acer pseudoplatanus,2
+71.025,Laburnum Laburnum anagyroides,2
+71.025, Wild Plum Prunus domestica,2
+71.025,Hornbeam Carpinus betulus,2
+71.025,limes Tilia spp.,2
+71.025,elms Ulmus spp.,2
+71.025,Sycamore Acer pseudoplatanus,2
+71.025, Sweet Chestnut Castanea sativa,2
+71.025,cherries Prunus spp.,2
+71.025,Rowan Sorbus aucuparia,2
+71.025,Beech Fagus sylvatica,2
+71.025,willows Salix spp.,1
+71.025,birches Betula spp.,1
+71.025,Blackthorn Prunus spinosa,2
+71.025,oaks Quercus spp.,1
+71.025,Hawthorn Crataegus monogyna,2
+71.025,Hazel Corylus avellana,1
+71.025,Alder Alnus glutinosa,2
+71.025,False-acacia Robinia pseudoacacia,2
+71.025, Persian Ironwood Parrotia persica,2
+71.025,Roble Nothofagus obliqua,2
+71.027,poplars Populus spp.,1
+71.027,Aspen Populus tremula,1
+71.027,willows Salix spp.,1
+71.028, Eared Willow Salix aurita,1
+71.028, Creeping Willow Salix repens,1
+71.028,poplars Populus spp.,2
+71.028,Aspen Populus tremula,1
+71.028,willows Salix spp.,2
+71.029, Grey Willow Salix cinerea,1
+71.029,poplars Populus spp.,2
+71.029,Aspen Populus tremula,2
+71.029,willows Salix spp.,2
+72.001,poplars Populus spp.,1
+72.001,Rowan Sorbus aucuparia,1
+72.001,Aspen Populus tremula,1
+72.001,willows Salix spp.,1
+72.002, Purple Moor-grass Molinia caerulea,1
+72.002, False Brome Brachypodium sylvaticum,1
+72.002,Tor-grass Brachypodium rupestre,1
+72.003, Common Nettle Urtica dioica,1
+72.004,Hop Humulus lupulus,1
+72.006,Pellitory-of-the-wall Parietaria judaica,1
+72.007,Bilberry Vaccinium myrtillus,1
+72.007,Heather Calluna vulgaris,1
+72.009, Bay Willow Salix pentandra,1
+72.009, Hybrid Black-poplar Populus x canadensis,1
+72.009, White Poplar Populus alba,1
+72.009,Black-poplar Populus nigra,1
+72.009, White Willow Salix alba,1
+72.009, Creeping Willow Salix repens,1
+72.009, Goat Willow Salix caprea,1
+72.009, Grey Willow Salix cinerea,1
+72.009,poplars Populus spp.,1
+72.009,willows Salix spp.,1
+72.009, Grey Poplar Populus x canescens,1
+72.01, White Willow Salix alba,1
+72.01, Norway Spruce Picea abies,1
+72.01,hawthorns Crataegus spp.,1
+72.01,Hornbeam Carpinus betulus,1
+72.01, Scots Pine Pinus sylvestris,1
+72.01,limes Tilia spp.,1
+72.01,Apple Malus domestica,1
+72.01,elms Ulmus spp.,1
+72.01,Beech Fagus sylvatica,1
+72.01,Aspen Populus tremula,1
+72.01,birches Betula spp.,1
+72.01,oaks Quercus spp.,1
+72.011, Bird Cherry Prunus padus,1
+72.011,cotoneasters Cotoneaster spp.,1
+72.011,Apple Malus domestica,1
+72.011,willows Salix spp.,1
+72.011,birches Betula spp.,1
+72.011,oaks Quercus spp.,1
+72.012, Common Fleabane Pulicaria dysenterica,1
+72.012, European Larch Larix decidua,1
+72.012,Sea-buckthorn Hippophae rhamnoides,1
+72.012,grasses ,1
+72.012,Meadowsweet Filipendula ulmaria,1
+72.012, Common Nettle Urtica dioica,1
+72.012, Common Ragwort Jacobaea vulgaris,1
+72.012,Pear Pyrus communis,1
+72.012,docks Rumex spp.,1
+72.012,Dog-rose Rosa canina,1
+72.012,Apple Malus domestica,1
+72.012,cherries Prunus spp.,1
+72.012,cherries Prunus spp.,1
+72.012,Bramble Rubus fruticosus,1
+72.012,willows Salix spp.,1
+72.012,Blackthorn Prunus spinosa,1
+72.012,Hawthorn Crataegus monogyna,1
+72.012,Hazel Corylus avellana,1
+72.012,Alder Alnus glutinosa,1
+72.012,Agrimony Agrimonia eupatoria,1
+72.013,nettles Urtica spp.,1
+72.013,grasses ,1
+72.013,Gooseberry Ribes uva-crispa,1
+72.013,Pear Pyrus communis,1
+72.013, Alder Buckthorn Frangula alnus,1
+72.013,Bog-myrtle Myrica gale,1
+72.013,hawthorns Crataegus spp.,1
+72.013,roses Rosa spp.,1
+72.013, Sweet Chestnut Castanea sativa,1
+72.013,elms Ulmus spp.,1
+72.013,Apple Malus domestica,1
+72.013,Bramble Rubus fruticosus,1
+72.013,Beech Fagus sylvatica,1
+72.013,Heather Calluna vulgaris,1
+72.013,willows Salix spp.,1
+72.013,birches Betula spp.,1
+72.013,Blackthorn Prunus spinosa,1
+72.013,oaks Quercus spp.,1
+72.013,Hazel Corylus avellana,1
+72.013, Japanese Knotweed Reynoutria japonica,1
+72.015,Barberry Berberis vulgaris,1
+72.015,Hop Humulus lupulus,1
+72.015, Crab Apple Malus sylvestris,1
+72.015,hawthorns Crataegus spp.,1
+72.015,limes Tilia spp.,1
+72.015,Sycamore Acer pseudoplatanus,1
+72.015,elms Ulmus spp.,1
+72.015,Beech Fagus sylvatica,1
+72.015,willows Salix spp.,1
+72.015,Blackthorn Prunus spinosa,1
+72.015,oaks Quercus spp.,1
+72.015,Hazel Corylus avellana,1
+72.016, Wild Plum Prunus domestica,1
+72.016, Creeping Willow Salix repens,1
+72.016,Gorse Ulex europaeus,1
+72.016, Cross-leaved Heath Erica tetralix,1
+72.016,hawthorns Crataegus spp.,1
+72.016, Goat Willow Salix caprea,1
+72.016, Grey Willow Salix cinerea,1
+72.016,Broom Cytisus scoparius,1
+72.016,Bramble Rubus fruticosus,1
+72.016,Heather Calluna vulgaris,1
+72.016,birches Betula spp.,1
+72.016,Hazel Corylus avellana,1
+72.017,Firethorn Pyracantha coccinea,1
+72.017,cotoneasters Cotoneaster spp.,1
+72.017,Bracken Pteridium aquilinum,2
+72.017, Sitka Spruce Picea sitchensis,1
+72.017, Black Currant Ribes nigrum,1
+72.017,Bog-myrtle Myrica gale,1
+72.017,roses Rosa spp.,1
+72.017,hawthorns Crataegus spp.,1
+72.017,limes Tilia spp.,1
+72.017,Sycamore Acer pseudoplatanus,1
+72.017,elms Ulmus spp.,1
+72.017,Bilberry Vaccinium myrtillus,1
+72.017,Heather Calluna vulgaris,1
+72.017,willows Salix spp.,1
+72.017,birches Betula spp.,1
+72.017,Blackthorn Prunus spinosa,1
+72.017,oaks Quercus spp.,1
+72.017,Hazel Corylus avellana,1
+72.017,elephant-ears Bergenia spp.,2
+72.017,lilies,2
+72.018, Water Dock Rumex hydrolapathum,1
+72.018,heathers,1
+72.018, Common Sorrel Rumex acetosa,1
+72.018, Rosebay Willowherb Chamaenerion angustifolium,1
+72.018,Meadowsweet Filipendula ulmaria,1
+72.018, Alder Buckthorn Frangula alnus,1
+72.018,roses Rosa spp.,1
+72.018,hawthorns Crataegus spp.,1
+72.018,elms Ulmus spp.,1
+72.018,Bramble Rubus fruticosus,1
+72.018,Beech Fagus sylvatica,1
+72.018,willows Salix spp.,1
+72.018,birches Betula spp.,1
+72.018,Blackthorn Prunus spinosa,1
+72.018,oaks Quercus spp.,1
+72.018,Hazel Corylus avellana,1
+72.018,Alder Alnus glutinosa,1
+72.019,ferns,1
+72.019,Elder Sambucus nigra,1
+72.019,Barberry Berberis vulgaris,1
+72.019, Wild Plum Prunus domestica,1
+72.019, Common Nettle Urtica dioica,1
+72.019,Hop Humulus lupulus,1
+72.019, Common Ivy Hedera helix,1
+72.019, Common Ragwort Jacobaea vulgaris,1
+72.019,Honeysuckle Lonicera periclymenum,1
+72.019,Apple Malus domestica,1
+72.019, Grey Willow Salix cinerea,1
+72.019,Rowan Sorbus aucuparia,1
+72.019, Pedunculate Oak Quercus robur,1
+72.019,birches Betula spp.,1
+72.019,Blackthorn Prunus spinosa,1
+72.019,Hawthorn Crataegus monogyna,1
+72.019,Virginia-creepers Parthenocissus spp.,1
+72.019,jasmines Jasminum spp.,1
+72.019,Balm Melissa officinalis,1
+72.019,Nipplewort Lapsana communis,1
+72.019,whitebeams Sorbus spp.,1
+72.02, Common Nettle Urtica dioica,1
+72.02, Common Ragwort Jacobaea vulgaris,1
+72.02,docks Rumex spp.,1
+72.02,hawthorns Crataegus spp.,1
+72.021, Marsh Ragwort Jacobaea aquatica,1
+72.021, Yellow Iris Iris pseudacorus,1
+72.021, Water Dock Rumex hydrolapathum,1
+72.021, Yellow Loosestrife Lysimachia vulgaris,1
+72.021,bedstraws Galium spp.,1
+72.021, Common Ragwort Jacobaea vulgaris,1
+72.021,louseworts Pedicularis spp.,1
+72.021, Water Mint Mentha aquatica,1
+72.022, Great Mullein Verbascum thapsus,1
+72.022, Red Dead-nettle Lamium purpureum,1
+72.022,stitchworts Stellaria spp.,1
+72.022, White Dead-nettle Lamium album,1
+72.022,plantains Plantago spp.,1
+72.022,dandelions Taraxacum spp.,1
+72.022, Common Nettle Urtica dioica,1
+72.022,docks Rumex spp.,1
+72.022,roses Rosa spp.,1
+72.022,Apple Malus domestica,1
+72.022,Bramble Rubus fruticosus,1
+72.022, Pedunculate Oak Quercus robur,1
+72.022,Aspen Populus tremula,1
+72.022,birches Betula spp.,1
+72.023,Mouse-ear-hawkweed Pilosella officinarum,1
+72.023,stitchworts Stellaria spp.,1
+72.023, Sheep's Sorrel Rumex acetosella,1
+72.023,plantains Plantago spp.,1
+72.023, Devil's-bit Scabious Succisa pratensis,1
+72.023,dandelions Taraxacum spp.,1
+72.023, Bell Heath Erica cinerea,1
+72.023,docks Rumex spp.,1
+72.023,Bog-myrtle Myrica gale,1
+72.023,Heather Calluna vulgaris,1
+72.023, Common Dog-violet Viola riviniana,1
+72.024, Creeping Thistle Cirsium arvense,1
+72.024,heathers,1
+72.024,ragworts,1
+72.024,stitchworts Stellaria spp.,1
+72.024, Common Fleabane Pulicaria dysenterica,1
+72.024,plantains Plantago spp.,1
+72.024, Purple Moor-grass Molinia caerulea,1
+72.024,dandelions Taraxacum spp.,1
+72.024, Eared Willow Salix aurita,1
+72.024,Goldenrod Solidago virgaurea,1
+72.024,docks Rumex spp.,1
+72.024,Yarrow Achillea millefolium,1
+72.024,Broom Cytisus scoparius,1
+72.024,Bramble Rubus fruticosus,1
+72.024,Escallonia Escallonia rubra,1
+72.024,Spindle Euonymus europaeus,1
+72.024,twayblades Neottia spp.,1
+72.025,Hound’s-tongue Cynoglossum officinale,1
+72.025, Dog's Mercury Mercurialis perennis,1
+72.025,burdocks Arctium spp.,1
+72.025,violets Viola spp.,1
+72.025,Groundsel Senecio vulgaris,1
+72.025, Salad Burnet Poterium sanguisorba,1
+72.025,ragworts,1
+72.025,plantains Plantago spp.,1
+72.025, Common Rock-rose Helianthemum nummularium,1
+72.025,dandelions Taraxacum spp.,1
+72.025, Common Nettle Urtica dioica,1
+72.025, Bell Heath Erica cinerea,1
+72.025,docks Rumex spp.,1
+72.026, Smooth Sowthistle Sonchus oleraceus,1
+72.026,dead-nettles Lamium spp.,1
+72.026,Hound’s-tongue Cynoglossum officinale,1
+72.026, Marsh Ragwort Jacobaea aquatica,1
+72.026,thistles,1
+72.026,burdocks Arctium spp.,1
+72.026,Bracken Pteridium aquilinum,1
+72.026,plantains Plantago spp.,1
+72.026, Eared Willow Salix aurita,1
+72.026,dandelions Taraxacum spp.,1
+72.026, Common Nettle Urtica dioica,1
+72.026, Common Ragwort Jacobaea vulgaris,1
+72.026, Scots Pine Pinus sylvestris,1
+72.026,docks Rumex spp.,1
+72.026, Grey Willow Salix cinerea,1
+72.026,Apple Malus domestica,1
+72.026,Rowan Sorbus aucuparia,1
+72.026,Blackthorn Prunus spinosa,1
+72.026, Norway Spruce Picea abies,1
+72.026, Water Horsetail Equisetum fluviatile,1
+72.027,hawkweeds Hieracium spp.,1
+72.027,Groundsel Senecio vulgaris,1
+72.027, White Dead-nettle Lamium album,1
+72.027,stitchworts Stellaria spp.,1
+72.027,ragworts,1
+72.027,Dogwood Cornus sanguinea,1
+72.027,Cock’s-foot Dactylis glomerata,1
+72.027,dandelions Taraxacum spp.,1
+72.027,Gorse Ulex europaeus,1
+72.027, Common Nettle Urtica dioica,1
+72.027,roses Rosa spp.,1
+72.027,docks Rumex spp.,1
+72.027,cherries Prunus spp.,1
+72.027, Grey Willow Salix cinerea,1
+72.027, Black Horehound Ballota nigra,1
+72.029,horsetails Equisetum spp.,1
+72.029, Green Alkanet Pentaglottis sempervirens,1
+72.029,Borage Borago officinalis,1
+72.029,Foxglove Digitalis purpurea,1
+72.029,Hound’s-tongue Cynoglossum officinale,1
+72.029,geraniums Pelargonium spp.,1
+72.029,Groundsel Senecio vulgaris,1
+72.029,Hemp-agrimony Eupatorium cannabinum,1
+72.029,Meadowsweet Filipendula ulmaria,1
+72.029, Wych Elm Ulmus glabra,1
+72.029, Common Nettle Urtica dioica,1
+72.029,docks Rumex spp.,1
+72.029,Honeysuckle Lonicera periclymenum,1
+72.029,cherries Prunus spp.,1
+72.029,Bramble Rubus fruticosus,1
+72.029,birches Betula spp.,1
+72.029,Blackthorn Prunus spinosa,1
+72.029,comfreys Symphytum spp.,1
+72.029, Common Evening-primrose Oenothera biennis,1
+72.029, Water Forget-me-not Myosotis scorpioides,1
+72.03,lettuces Lactuca spp.,1
+72.03,forget-me-nots Myosotis spp.,1
+72.03,Ground-ivy Glechoma hederacea,1
+72.03, White Dead-nettle Lamium album,1
+72.03,Groundsel Senecio vulgaris,1
+72.03,Hemp-agrimony Eupatorium cannabinum,1
+72.03,plantains Plantago spp.,1
+72.03,dandelions Taraxacum spp.,1
+72.03, Common Nettle Urtica dioica,1
+72.03,roses Rosa spp.,1
+72.03,Honeysuckle Lonicera periclymenum,1
+72.03,elms Ulmus spp.,1
+72.03,Bramble Rubus fruticosus,1
+72.03, Green Alkanet Pentaglottis sempervirens,1
+72.03,Borage Borago officinalis,1
+72.031,Colt’s-foot Tussilago farfara,1
+72.031, Great Mullein Verbascum thapsus,1
+72.031,Flixweed Descurainia sophia,1
+72.031, Wood Sage Teucrium scorodonia,1
+72.031,Groundsel Senecio vulgaris,1
+72.031,Hop Humulus lupulus,1
+72.031, Common Ragwort Jacobaea vulgaris,1
+72.031,Yarrow Achillea millefolium,1
+72.031, Hoary Ragwort Jacobaea erucifolia,1
+72.031, Marsh Ragwort Jacobaea aquatica,1
+72.031, Oxeye Daisy Leucanthemum vulgare,1
+72.031, Heath Groundsel Senecio sylvaticus,1
+72.031, Oxford Ragwort Senecio squalidus,1
+72.032, Bristle Bent Agrostis curtisii,1
+72.032,heathers,2
+72.032,Bilberry Vaccinium myrtillus,2
+72.035,algae ,1
+72.035,Peltigera membranacea,1
+72.035,lichens,1
+72.035,mosses,1
+72.036,lichens,1
+72.037,algae ,1
+72.037,lichens,1
+72.037,mosses,1
+72.037,Peltigera spp.,1
+72.037, Silky Wall Feather-moss Homalothecium sericeum,1
+72.037, Common Pincushion Dicranoweisia cirrata,1
+72.038,algae ,1
+72.038,lichens,1
+72.038,Bramble Rubus fruticosus,1
+72.041,Pleurococcus naegelii,1
+72.041,Peltigera membranacea,1
+72.041,algae ,1
+72.041,lichens,1
+72.041,oaks Quercus spp.,1
+72.041,Flavoparmelia caperata,1
+72.042,Pleurococcus naegelii,1
+72.042,algae ,1
+72.042,lichens,1
+72.043,algae ,1
+72.043,lichens,1
+72.043,Pleurococcus naegelii,1
+72.043,Flavoparmelia spp.,1
+72.044,algae ,1
+72.044,lichens,1
+72.044,Peltigera membranacea,1
+72.044,Barbula sp.,1
+72.045,apples Malus spp.,1
+72.045,algae ,1
+72.045,Dogwood Cornus sanguinea,1
+72.045,lichens,1
+72.045,Gorse Ulex europaeus,1
+72.045,hawthorns Crataegus spp.,1
+72.045,Bramble Rubus fruticosus,1
+72.045,oaks Quercus spp.,1
+72.046,Ploughman’s-spikenard Inula conyzae,1
+72.046,algae ,1
+72.046,lichens,1
+72.046,Gorse Ulex europaeus,1
+72.047,lichens,1
+72.047,algae ,1
+72.047, Common Bird's-foot-trefoil Lotus corniculatus,1
+72.047,clovers Trifolium spp.,1
+72.047, Kidney Vetch Anthyllis vulneraria,1
+72.049,lichens,1
+72.049,algae ,1
+72.05,lichens,1
+72.051,oaks Quercus spp.,1
+72.052,Wood-sedge Carex sylvatica,1
+72.052,wood-rushes Luzula spp.,1
+72.053, Common Ivy Hedera helix,1
+72.053,Raspberry Rubus idaeus,1
+72.053, Goat Willow Salix caprea,1
+72.053,Beech Fagus sylvatica,1
+72.053,Bramble Rubus fruticosus,1
+72.053,oaks Quercus spp.,1
+72.055,Rhododendron Rhododendron ponticum,1
+72.055, Bird Cherry Prunus padus,1
+72.055, Small-leaved Lime Tilia cordata,1
+72.055,Traveller’s-joy Clematis vitalba,1
+72.055,Raspberry Rubus idaeus,1
+72.055,Hornbeam Carpinus betulus,1
+72.055,hawthorns Crataegus spp.,1
+72.055,Sycamore Acer pseudoplatanus,1
+72.055,elms Ulmus spp.,1
+72.055, Downy Birch Betula pubescens,1
+72.055, Pedunculate Oak Quercus robur,1
+72.055,Bramble Rubus fruticosus,1
+72.055,birches Betula spp.,1
+72.055,oaks Quercus spp.,1
+72.055,Hazel Corylus avellana,1
+72.055,Alder Alnus glutinosa,1
+72.056, Pedunculate Oak Quercus robur,1
+72.063, Wood Vetch Ervilia sylvatica,1
+72.063, Tufted Vetch Vicia cracca,1
+72.063, Wild Liquorice Astragalus glycyphyllos,1
+72.063,milk-vetches Astragalus spp.,1
+72.063, Marsh Pea Lathyrus palustris,1
+72.064, Tufted Vetch Vicia cracca,1
+72.064, Wood Vetch Ervilia sylvatica,1
+72.066,Botryobasidium spp.,1
+72.066,Cladonia fimbriata,1
+72.066,Cylindrobasidium laeve,1
+72.066,Daldinia concentrica,1
+72.066, bracket fungi,1
+72.066, slime moulds,1
+72.066,Phaeolus schweinitzii,1
+72.066,Piptoporus betulinus,1
+72.066,Stereum hirsutum,1
+72.066,Tapinella panuoides,1
+72.066,Trametes versicolor,1
+72.066,Trichaptum abietinum,1
+72.067,Lousewort Pedicularis sylvatica,1
+72.067, Common Milkwort Polygala vulgaris,1
+72.067, Heath Milkwort Polygala serpyllifolia,1
+72.069,Xanthoria parietina,1
+72.069,lichens,1
+72.069,Physcia stellaris,1
+72.07, Sweet Chestnut Castanea sativa,1
+72.07,Beech Fagus sylvatica,1
+72.07,Beech Fagus sylvatica,1
+72.07,oaks Quercus spp.,1
+72.072, Carline Thistle Carlina vulgaris,1
+72.073,Ploughman’s-spikenard Inula conyzae,1
+72.073, Common Fleabane Pulicaria dysenterica,1
+72.076,poplars Populus spp.,1
+72.076,Aspen Populus tremula,1
+72.078, Hybrid Salix x fragilis,1
+72.078, White Poplar Populus alba,1
+72.078,Black-poplar Populus nigra,1
+72.078, White Willow Salix alba,1
+72.078,poplars Populus spp.,1
+72.078,Aspen Populus tremula,1
+72.078,willows Salix spp.,1
+72.078, Wild Plum Prunus domestica,1
+72.081, Pedunculate Oak Quercus robur,1
+72.082, Pedunculate Oak Quercus robur,1
+72.083,Lucerne Medicago sativa,1
+72.083,clovers Trifolium spp.,1
+72.083, Common Bird's-foot-trefoil Lotus corniculatus,1
+72.083, Black Medick Medicago lupulina,1
+72.083, Tufted Vetch Vicia cracca,1
+72.084, Common Reed Phragmites australis,1
+72.084, Purple Moor-grass Molinia caerulea,1
+72.084,Cock’s-foot Dactylis glomerata,1
+73.001, Common Nettle Urtica dioica,1
+73.002,Hop Humulus lupulus,1
+73.002, Common Nettle Urtica dioica,1
+73.011,Hemp-agrimony Eupatorium cannabinum,1
+73.012, Common Comfrey Symphytum officinale,1
+73.012, Garden Pea Lathyrus oleraceus,1
+73.012,Michaelmas-daisies Symphyotrichum spp.,1
+73.012, Lesser Burdock Arctium minus,1
+73.012, Garden Parsley Petroselinum crispum,1
+73.012,teasels Dipsacus spp.,1
+73.012, Spear Thistle Cirsium vulgare,1
+73.012, White Dead-nettle Lamium album,1
+73.012, Wild Angelica Angelica sylvestris,1
+73.012,Hemp-agrimony Eupatorium cannabinum,1
+73.012, Common Nettle Urtica dioica,1
+73.012, Common Hemp-nettle Galeopsis tetrahit,1
+73.012, Wild Marjoram Origanum vulgare,1
+73.012,Hyssop Hyssopus officinalis,1
+73.012,Spearmint Mentha spicata,1
+73.012,yarrows Achillea spp.,1
+73.014,Globeflower Trollius europaeus,1
+73.014,larkspurs Consolida spp.,1
+73.014,monk's-hoods Aconitum spp.,1
+73.014,Wolf's-bane Aconitum lycoctonum,1
+73.015, Garden Pea Lathyrus oleraceus,1
+73.015, Common Toadflax Linaria vulgaris,1
+73.015, Small Nettle Urtica urens,1
+73.015, Common Restharrow Ononis repens,1
+73.015,Cabbage Brassica oleracea,1
+73.015,Flixweed Descurainia sophia,1
+73.015,clovers Trifolium spp.,1
+73.015,bedstraws Galium spp.,1
+73.015,Hop Humulus lupulus,1
+73.015,dandelions Taraxacum spp.,1
+73.015,limes Tilia spp.,1
+73.015, Common Nettle Urtica dioica,1
+73.015,docks Rumex spp.,1
+73.015,Broom Cytisus scoparius,1
+73.015, Alpine Lady-fern Athyrium distentifolium,1
+73.016, Hedge Woundwort Stachys sylvatica,1
+73.016, Rough Chervil Chaerophyllum temulum,1
+73.016,burdocks Arctium spp.,1
+73.016, Small Nettle Urtica urens,1
+73.016, White Dead-nettle Lamium album,1
+73.016,Groundsel Senecio vulgaris,1
+73.016, Common Ragwort Jacobaea vulgaris,1
+73.016, Common Nettle Urtica dioica,1
+73.016,Honeysuckle Lonicera periclymenum,1
+73.016,Bilberry Vaccinium myrtillus,1
+73.016, Wood Avens Geum urbanum,1
+73.017,mints Mentha spp.,1
+73.017, Red Dead-nettle Lamium purpureum,1
+73.017, Rough Chervil Chaerophyllum temulum,1
+73.017,Hogweed Heracleum sphondylium,1
+73.017,Cabbage Brassica oleracea,1
+73.017, White Dead-nettle Lamium album,1
+73.017,Groundsel Senecio vulgaris,1
+73.017,plantains Plantago spp.,1
+73.017,clovers Trifolium spp.,1
+73.017,dandelions Taraxacum spp.,1
+73.017, Common Nettle Urtica dioica,1
+73.017,Honeysuckle Lonicera periclymenum,1
+73.017, Hedge Woundwort Stachys sylvatica,1
+73.018,Mouse-ear-hawkweed Pilosella officinarum,1
+73.018, White Dead-nettle Lamium album,1
+73.018,Hemp-agrimony Eupatorium cannabinum,1
+73.018,Groundsel Senecio vulgaris,1
+73.018, Common Nettle Urtica dioica,1
+73.018,Honeysuckle Lonicera periclymenum,1
+73.018,Bilberry Vaccinium myrtillus,1
+73.018,Ground-ivy Glechoma hederacea,1
+73.018, Rough Chervil Chaerophyllum temulum,1
+73.021,Cowberry Vaccinium vitis-idaea,1
+73.021, Common Nettle Urtica dioica,1
+73.021,Bilberry Vaccinium myrtillus,1
+73.021,Heather Calluna vulgaris,1
+73.021, Bog Bilberry Vaccinium uliginosum,1
+73.022, Branched Bur-reed Sparganium erectum,1
+73.022, Glaucous Sedge Carex flacca,1
+73.022, Wood Small-reed Calamagrostis epigejos,1
+73.022, Yellow Iris Iris pseudacorus,1
+73.022,Tufted-sedge Carex elata,1
+73.022,Yorkshire-fog Holcus lanatus,1
+73.022,grasses ,1
+73.022,rushes Juncus spp.,1
+73.022,Water-plantain Alisma plantago-aquatica,1
+73.023, Purple Small-reed Calamagrostis canescens,1
+73.023, Wood Small-reed Calamagrostis epigejos,1
+73.023,Yorkshire-fog Holcus lanatus,1
+73.023,grasses ,1
+73.024, Purple Moor-grass Molinia caerulea,1
+73.024, False Brome Brachypodium sylvaticum,1
+73.026,sedges Carex spp.,1
+73.026, Tufted Hair-grass Deschampsia cespitosa,1
+73.026,grasses ,1
+73.026,Wood-sedge Carex sylvatica,1
+73.027, Purple Moor-grass Molinia caerulea,1
+73.027, Smooth Meadow-grass Poa pratensis,1
+73.031, Field Bindweed Convolvulus arvensis,1
+73.032, Field Maple Acer campestre,1
+73.032,Hornbeam Carpinus betulus,1
+73.032,roses Rosa spp.,1
+73.032,limes Tilia spp.,1
+73.032,hawthorns Crataegus spp.,1
+73.032, Sweet Chestnut Castanea sativa,1
+73.032,Sycamore Acer pseudoplatanus,1
+73.032,Apple Malus domestica,1
+73.032,Rowan Sorbus aucuparia,1
+73.032, Downy Birch Betula pubescens,1
+73.032, Silver Birch Betula pendula,1
+73.032,Beech Fagus sylvatica,1
+73.032,Aspen Populus tremula,1
+73.032,willows Salix spp.,1
+73.032,Blackthorn Prunus spinosa,1
+73.032,oaks Quercus spp.,1
+73.032,Hazel Corylus avellana,1
+73.032,alders Alnus spp.,1
+73.033,cotoneasters Cotoneaster spp.,1
+73.033,Pear Pyrus communis,1
+73.033,roses Rosa spp.,1
+73.033,hawthorns Crataegus spp.,1
+73.033,cherries Prunus spp.,1
+73.033,cherries Prunus spp.,1
+73.033,Apple Malus domestica,1
+73.033,Blackthorn Prunus spinosa,1
+73.033,Peach Prunus persica,1
+73.033,Almond Prunus dulcis,1
+73.033,Apricot Prunus armeniaca,1
+73.033, Cherry Laurel Prunus laurocerasus,1
+73.033, Japanese Quince Chaenomeles japonica,1
+73.034, Sweet Chestnut Castanea sativa,1
+73.034, Pedunculate Oak Quercus robur,1
+73.035, Reed Sweet-grass Glyceria maxima,1
+73.035, Great Fen-sedge Cladium mariscus,1
+73.035,sedges Carex spp.,1
+73.035, Water Dock Rumex hydrolapathum,1
+73.035, Common Reed Phragmites australis,1
+73.035,Tufted-sedge Carex elata,1
+73.035, Creeping Willow Salix repens,1
+73.035,Bog-myrtle Myrica gale,1
+73.035, Grey Willow Salix cinerea,1
+73.035,willows Salix spp.,1
+73.035,birches Betula spp.,1
+73.035,Heather Calluna vulgaris,1
+73.035, Greater Tussock-sedge Carex paniculata,1
+73.035, Yellow Loosestrife Lysimachia vulgaris,1
+73.035,Whorl-grass Catabrosa aquatica,1
+73.036, Wild Cherry Prunus avium,1
+73.036,Rhododendron Rhododendron ponticum,1
+73.036,Dogwood Cornus sanguinea,1
+73.036,Raspberry Rubus idaeus,1
+73.036, Crab Apple Malus sylvestris,1
+73.036,Dog-rose Rosa canina,1
+73.036,limes Tilia spp.,1
+73.036, Goat Willow Salix caprea,1
+73.036,hawthorns Crataegus spp.,1
+73.036,Sycamore Acer pseudoplatanus,1
+73.036, Sweet Chestnut Castanea sativa,1
+73.036,elms Ulmus spp.,1
+73.036,Rowan Sorbus aucuparia,1
+73.036,Beech Fagus sylvatica,1
+73.036,willows Salix spp.,1
+73.036,birches Betula spp.,1
+73.036,Blackthorn Prunus spinosa,1
+73.036,oaks Quercus spp.,1
+73.036,Aspen Populus tremula,1
+73.036,Alder Alnus glutinosa,1
+73.037,cotoneasters Cotoneaster spp.,1
+73.037,Plum Prunus domestica,1
+73.037,Buckthorn Rhamnus cathartica,1
+73.037,Pear Pyrus communis,1
+73.037, Goat Willow Salix caprea,1
+73.037,hawthorns Crataegus spp.,1
+73.037, Grey Willow Salix cinerea,1
+73.037,Apple Malus domestica,1
+73.037,Rowan Sorbus aucuparia,1
+73.037,willows Salix spp.,1
+73.037,birches Betula spp.,1
+73.037,Blackthorn Prunus spinosa,1
+73.037,oaks Quercus spp.,1
+73.038,Firethorn Pyracantha coccinea,1
+73.038,Bracken Pteridium aquilinum,1
+73.038,Plum Prunus domestica,1
+73.038,Pear Pyrus communis,1
+73.038,roses Rosa spp.,1
+73.038,limes Tilia spp.,1
+73.038, Sweet Chestnut Castanea sativa,1
+73.038,hawthorns Crataegus spp.,1
+73.038,elms Ulmus spp.,1
+73.038,Apple Malus domestica,1
+73.038,Rowan Sorbus aucuparia,1
+73.038,willows Salix spp.,1
+73.038,birches Betula spp.,1
+73.038,Blackthorn Prunus spinosa,1
+73.038,oaks Quercus spp.,1
+73.038,Hazel Corylus avellana,1
+73.038,Juneberry Amelanchier lamarckii,1
+73.038, Highbush Blueberry Vaccinium corymbosum,1
+73.039,Laburnum Laburnum anagyroides,1
+73.039,Horse-chestnut Aesculus hippocastanum,1
+73.039,Plum Prunus domestica,1
+73.039, Field Maple Acer campestre,1
+73.039,roses Rosa spp.,1
+73.039,Sycamore Acer pseudoplatanus,1
+73.039,birches Betula spp.,1
+73.039,oaks Quercus spp.,1
+73.039,maples Acer spp.,1
+73.039, Norway Maple Acer platanoides,1
+73.039, London Plane Platanus x hispanica,1
+73.04, Hybrid Black-poplar Populus x canadensis,1
+73.04, White Willow Salix alba,1
+73.04, Grey Willow Salix cinerea,1
+73.04,poplars Populus spp.,1
+73.04, Downy Birch Betula pubescens,1
+73.04, Silver Birch Betula pendula,1
+73.04,oaks Quercus spp.,1
+73.04,Aspen Populus tremula,1
+73.04,Alder Alnus glutinosa,1
+73.04, Bay Willow Salix pentandra,1
+73.042,Soft-rush Juncus effusus,1
+73.042,Bearberry Arctostaphylos uva-ursi,1
+73.042, Yellow Iris Iris pseudacorus,1
+73.042, White Willow Salix alba,1
+73.042, Eared Willow Salix aurita,1
+73.042, Creeping Willow Salix repens,1
+73.042, Cross-leaved Heath Erica tetralix,1
+73.042,Bog-myrtle Myrica gale,1
+73.042,Bramble Rubus fruticosus,1
+73.042,Bilberry Vaccinium myrtillus,1
+73.042,birches Betula spp.,1
+73.042,Heather Calluna vulgaris,1
+73.042,Bogbean Menyanthes trifoliata,1
+73.042, Alder Buckthorn Frangula alnus,1
+73.042, Downy Willow Salix lapponum,1
+73.044, Ribwort Plantain Plantago lanceolata,1
+73.044, Sea Plantain Plantago maritima,1
+73.044, Sea Campion Silene uniflora,1
+73.044, Common Sorrel Rumex acetosa,1
+73.044, Yellow Iris Iris pseudacorus,1
+73.044,Thrift Armeria maritima,1
+73.044,Meadowsweet Filipendula ulmaria,1
+73.044, Eared Willow Salix aurita,1
+73.044, Creeping Willow Salix repens,1
+73.044,dandelions Taraxacum spp.,1
+73.044,Bog-myrtle Myrica gale,1
+73.044,Honeysuckle Lonicera periclymenum,1
+73.044,Heather Calluna vulgaris,1
+73.044, Common Ragwort Jacobaea vulgaris,1
+73.045, Broad-leaved Dock Rumex obtusifolius,1
+73.045,plantains Plantago spp.,1
+73.046,Lombardy-poplar Populus nigra,1
+73.046, Hybrid Black-poplar Populus x canadensis,1
+73.046, White Poplar Populus alba,1
+73.046, Goat Willow Salix caprea,1
+73.046,poplars Populus spp.,1
+73.046,willows Salix spp.,1
+73.046,Aspen Populus tremula,1
+73.047, Wild Privet Ligustrum vulgare,1
+73.047,Ash Fraxinus excelsior,1
+73.047,Hazel Corylus avellana,1
+73.047,Alder Alnus glutinosa,1
+73.048, Sticky Mouse-ear Cerastium glomeratum,1
+73.048, Field Mouse-ear Cerastium arvense,1
+73.048, Greater Stitchwort Stellaria holostea,1
+73.048, Common Mouse-ear Cerastium fontanum,1
+73.05, Sea Wormwood Artemisia maritima,1
+73.05,Mugwort Artemisia vulgaris,1
+73.05,Wormwood Artemisia absinthium,1
+73.052,sowthistles Sonchus spp.,1
+73.052,hawk’s-beards Crepis spp.,1
+73.052,hawkweeds Hieracium spp.,1
+73.052, Marsh Sowthistle Sonchus palustris,1
+73.053,mayweeds Tripleurospermum spp.,1
+73.053,Chamomile Chamaemelum nobile,1
+73.053, Corn Chamomile Anthemis arvensis,1
+73.053, Stinking Chamomile Anthemis cotula,1
+73.053,Feverfew Tanacetum parthenium,1
+73.055, Sea Aster Tripolium pannonicum,1
+73.055,Michaelmas-daisies Symphyotrichum spp.,1
+73.055, Sea Wormwood Artemisia maritima,1
+73.055,Goldenrod Solidago virgaurea,1
+73.055, China Aster Callistephus chinensis,1
+73.056, Common Figwort Scrophularia nodosa,1
+73.057, White Mullein Verbascum lychnitis,1
+73.057,mulleins Verbascum spp.,1
+73.057, Dark Mullein Verbascum nigrum,1
+73.057, Great x Dark hybrid Mullein Verbascum x semialbum,1
+73.058, Water Figwort Scrophularia auriculata,1
+73.058,Butterfly-bush Buddleja davidii,1
+73.058, Great Mullein Verbascum thapsus,1
+73.058, Common Figwort Scrophularia nodosa,1
+73.058, White Mullein Verbascum lychnitis,1
+73.058, Dark Mullein Verbascum nigrum,1
+73.058, Hoary Mullein Verbascum pulverulentum,1
+73.058, Moth Mullein Verbascum blattaria,1
+73.058, Olympian Mullein Verbascum olympicum,1
+73.058, Lizard Orchid Himantoglossum hircinum,1
+73.059, Common Toadflax Linaria vulgaris,1
+73.059, Pale Toadflax Linaria repens,1
+73.059, Purple Toadflax Linaria purpurea,1
+73.059, Small Toadflax Chaenorhinum minus,1
+73.061, Wavy Hair-grass Avenella flexuosa,1
+73.061, Tufted Hair-grass Deschampsia cespitosa,1
+73.061, Purple Moor-grass Molinia caerulea,1
+73.062, Wild Privet Ligustrum vulgare,1
+73.062, Crab Apple Malus sylvestris,1
+73.062,Hornbeam Carpinus betulus,1
+73.062,Ash Fraxinus excelsior,1
+73.062,limes Tilia spp.,1
+73.062,hawthorns Crataegus spp.,1
+73.062,Honeysuckle Lonicera periclymenum,1
+73.062, Downy Birch Betula pubescens,1
+73.062,Bramble Rubus fruticosus,1
+73.062,willows Salix spp.,1
+73.062,Blackthorn Prunus spinosa,1
+73.062,oaks Quercus spp.,1
+73.062,Hazel Corylus avellana,1
+73.062,Grape-vine Vitis vinifera,1
+73.062, Garden Privet Ligustrum ovalifolium,1
+73.063,Lilac Syringa vulgaris,1
+73.063, Field Maple Acer campestre,1
+73.063,Hornbeam Carpinus betulus,1
+73.063,limes Tilia spp.,1
+73.063,elms Ulmus spp.,1
+73.063, Pedunculate Oak Quercus robur,1
+73.063,willows Salix spp.,1
+73.063,birches Betula spp.,1
+73.063,Blackthorn Prunus spinosa,1
+73.063,Rhododendron Rhododendron ponticum,1
+73.064,Saw-wort Serratula tinctoria,1
+73.064,strawberries Fragaria spp.,1
+73.064,teasels Dipsacus spp.,1
+73.064,hawkweeds Hieracium spp.,1
+73.064, Common Toadflax Linaria vulgaris,1
+73.064, Rosebay Willowherb Chamaenerion angustifolium,1
+73.064,Barberry Berberis vulgaris,1
+73.064, White Willow Salix alba,1
+73.064,Mugwort Artemisia vulgaris,1
+73.064, Common Bird's-foot-trefoil Lotus corniculatus,1
+73.064, Goat Willow Salix caprea,1
+73.064,hawthorns Crataegus spp.,1
+73.064,Fennel Foeniculum vulgare,1
+73.064, Garden Parsley Petroselinum crispum,1
+73.064, Salad Burnet Poterium sanguisorba,1
+73.064, Greater Celandine Chelidonium majus,1
+73.064,Monkeyflower Erythranthe guttata,1
+73.064, Californian Poppy Eschscholzia californica,1
+73.065,Ash Fraxinus excelsior,1
+73.065,limes Tilia spp.,1
+73.065,cherries Prunus spp.,1
+73.065,hawthorns Crataegus spp.,1
+73.065,elms Ulmus spp.,1
+73.065,Apple Malus domestica,1
+73.065,poplars Populus spp.,1
+73.065,Beech Fagus sylvatica,1
+73.065,willows Salix spp.,1
+73.065,birches Betula spp.,1
+73.065,Blackthorn Prunus spinosa,1
+73.065,oaks Quercus spp.,1
+73.065,Hazel Corylus avellana,1
+73.065,Wayfaring-tree Viburnum lantana,1
+73.066,birches Betula spp.,1
+73.068,Plum Prunus domestica,1
+73.068,Dog-rose Rosa canina,1
+73.068,hawthorns Crataegus spp.,1
+73.068,Rowan Sorbus aucuparia,1
+73.068,willows Salix spp.,1
+73.068,birches Betula spp.,1
+73.068,Blackthorn Prunus spinosa,1
+73.068, Wild Cherry Prunus avium,1
+73.068,apples Malus spp.,1
+73.068,cotoneasters Cotoneaster spp.,1
+73.069,honeysuckles Lonicera spp.,1
+73.07,Henbane Hyoscyamus niger,1
+73.07, Sea Sandwort Honckenya peploides,1
+73.07, Common Restharrow Ononis repens,1
+73.07, Sweet Chestnut Castanea sativa,1
+73.07,willows Salix spp.,1
+73.07,oaks Quercus spp.,1
+73.07,Hazel Corylus avellana,1
+73.07, Spiny Restharrow Ononis spinosa,1
+73.072,Chicory Cichorium intybus,1
+73.072, Smooth Hawk's-beard Crepis capillaris,1
+73.072, Sticky Groundsel Senecio viscosus,1
+73.072, Bladder Campion Silene vulgaris,1
+73.072,knapweeds Centaurea spp.,1
+73.072, White Campion Silene latifolia,1
+73.072,hawkweeds Hieracium spp.,1
+73.072, Common Toadflax Linaria vulgaris,1
+73.072, Common Restharrow Ononis repens,1
+73.072, Wild Carrot Daucus carota,1
+73.072,Flixweed Descurainia sophia,1
+73.072,clovers Trifolium spp.,1
+73.072, Spanish Catchfly Silene otites,1
+73.072, Small Scabious Scabiosa columbaria,1
+73.072, Field Scabious Knautia arvensis,1
+73.073, Bog Asphodel Narthecium ossifragum,1
+73.073, Bell Heath Erica cinerea,1
+73.073, Cross-leaved Heath Erica tetralix,1
+73.073,Heather Calluna vulgaris,1
+73.074, Scentless Mayweed Tripleurospermum inodorum,1
+73.074, Pot Marigold Calendula officinalis,1
+73.074, Corn Spurrey Spergula arvensis,1
+73.074, Sand Spurrey Spergularia rubra,1
+73.074, Sea Bindweed Calystegia soldanella,1
+73.074,Ploughman’s-spikenard Inula conyzae,1
+73.074,thistles,1
+73.074,hawk’s-beards Crepis spp.,1
+73.074,knapweeds Centaurea spp.,1
+73.074, Common Fleabane Pulicaria dysenterica,1
+73.074, Common Restharrow Ononis repens,1
+73.074,Henbane Hyoscyamus niger,1
+73.074, Sticky Groundsel Senecio viscosus,1
+73.074,Yellow-rattle Rhinanthus minor,1
+73.074,Thorn-apple Datura stramonium,1
+73.074,twinspurs Diascia spp.,1
+73.076,pinks Dianthus spp.,2
+73.076,Tomato Solanum lycopersicum,2
+73.076, Devil's-bit Scabious Succisa pratensis,1
+73.076,Tree-mallow Malva arborea,1
+73.076,Snapdragon Antirrhinum majus,1
+73.076, Scarlet Geranium Pelargonium x hybridum,1
+73.078,Saw-wort Serratula tinctoria,1
+73.082,lichens,1
+73.084,Xanthoria parietina,1
+73.084,lichens,1
+73.084,Lecidea confluens,1
+73.085,Xanthoria parietina,1
+73.085,lichens,1
+73.085,Diploicia canescens,1
+73.085,Caloplaca spp.,1
+73.091, Creeping Cinquefoil Potentilla reptans,1
+73.091,Bramble Rubus fruticosus,1
+73.091,Tormentil Potentilla erecta,1
+73.092,knotgrasses Polygonum spp.,1
+73.092,goosefoots,1
+73.092,stitchworts Stellaria spp.,1
+73.092,plantains Plantago spp.,1
+73.092,Hop Humulus lupulus,1
+73.092,dandelions Taraxacum spp.,1
+73.092, Hedge Bedstraw Galium album,1
+73.092,docks Rumex spp.,1
+73.092, Common Nettle Urtica dioica,1
+73.092, Goat Willow Salix caprea,1
+73.092,Orpine Hylotelephium telephium,1
+73.092,teasels Dipsacus spp.,1
+73.095,Cereals ,1
+73.095,grasses ,1
+73.095,plantains Plantago spp.,1
+73.095, Garden Pea Lathyrus oleraceus,1
+73.096,dead-nettles Lamium spp.,1
+73.096, Common Sorrel Rumex acetosa,1
+73.096,Primrose Primula vulgaris,1
+73.096,stitchworts Stellaria spp.,1
+73.096,plantains Plantago spp.,1
+73.096,dandelions Taraxacum spp.,1
+73.096,docks Rumex spp.,1
+73.097,knotgrasses Polygonum spp.,1
+73.097,stitchworts Stellaria spp.,1
+73.097,grasses ,2
+73.097,plantains Plantago spp.,1
+73.097,dandelions Taraxacum spp.,1
+73.097,docks Rumex spp.,1
+73.099, Prickly Lettuce Lactuca serriola,1
+73.099,Primrose Primula vulgaris,1
+73.099,Groundsel Senecio vulgaris,1
+73.099,plantains Plantago spp.,1
+73.1, Common Reed Phragmites australis,1
+73.101, Greater Plantain Plantago major,1
+73.101,knotgrasses Polygonum spp.,1
+73.101,dandelions Taraxacum spp.,1
+73.101,knapweeds Centaurea spp.,1
+73.101, Dwarf Thistle Cirsium acaule,1
+73.102,violets Viola spp.,1
+73.102,Groundsel Senecio vulgaris,1
+73.102,plantains Plantago spp.,1
+73.102,dandelions Taraxacum spp.,1
+73.102,docks Rumex spp.,1
+73.102,Bramble Rubus fruticosus,1
+73.102,strawberries Fragaria spp.,1
+73.102,vetches,1
+73.102,bistorts Bistorta spp.,1
+73.103, Ribwort Plantain Plantago lanceolata,1
+73.105,sorrels Rumex spp.,1
+73.105,Knotgrass Polygonum aviculare,1
+73.105,docks Rumex spp.,1
+73.106,oraches Atriplex spp.,1
+73.106,goosefoots,1
+73.106,Knotgrass Polygonum aviculare,1
+73.107, Rosebay Willowherb Chamaenerion angustifolium,1
+73.107,stitchworts Stellaria spp.,1
+73.107, Wild Strawberry Fragaria vesca,1
+73.107, Common Ivy Hedera helix,1
+73.107,docks Rumex spp.,1
+73.107,elms Ulmus spp.,1
+73.107,willows Salix spp.,1
+73.107,birches Betula spp.,1
+73.107,Blackthorn Prunus spinosa,1
+73.107,Hawthorn Crataegus monogyna,1
+73.107, Water Dock Rumex hydrolapathum,1
+73.107,spindles Euonymus spp.,1
+73.108,Honeysuckle Lonicera periclymenum,1
+73.108,oaks Quercus spp.,2
+73.109,Mat-grass Nardus stricta,1
+73.109, Annual Meadow-grass Poa annua,1
+73.109,grasses ,1
+73.109, Silver Hair-grass Aira caryophyllea,1
+73.11, Touch-me-not Balsam Impatiens noli-tangere,1
+73.11,Bearberry Arctostaphylos uva-ursi,1
+73.11,Cowberry Vaccinium vitis-idaea,1
+73.11,Raspberry Rubus idaeus,1
+73.11,willows Salix spp.,1
+73.11,Bramble Rubus fruticosus,1
+73.11,Bilberry Vaccinium myrtillus,1
+73.113,chrysanthemums Chrysanthemum spp.,1
+73.113, Red Valerian Centranthus ruber,1
+73.113,Potato Solanum tuberosum,1
+73.113, Touch-me-not Balsam Impatiens noli-tangere,1
+73.113,geraniums Pelargonium spp.,1
+73.113,Bracken Pteridium aquilinum,1
+73.113,Groundsel Senecio vulgaris,1
+73.113,docks Rumex spp.,1
+73.113,Honeysuckle Lonicera periclymenum,1
+73.113,Blackthorn Prunus spinosa,1
+73.113,Hazel Corylus avellana,1
+73.113,lady's-mantles Alchemilla spp.,1
+73.113, Giant Fir Abies grandis,1
+73.113,Enchanter’s-nightshade Circaea lutetiana,1
+73.113,Firethorn Pyracantha coccinea,1
+73.113, Great Mullein Verbascum thapsus,1
+73.113,borages Borago spp.,1
+73.113,Celery Apium graveolens,1
+73.113,Polyanthus Primula x polyantha,1
+73.114,Foxglove Digitalis purpurea,1
+73.114,thistles,1
+73.114,currants Ribes spp.,1
+73.114,Bracken Pteridium aquilinum,1
+73.114, Common Ivy Hedera helix,1
+73.114,willows Salix spp.,1
+73.114,birches Betula spp.,1
+73.114,oaks Quercus spp.,1
+73.114,Hazel Corylus avellana,1
+73.114,ferns,1
+73.114,mallows Malva spp.,1
+73.114,nettles Urtica spp.,1
+73.114, Touch-me-not Balsam Impatiens noli-tangere,1
+73.114,Male-fern Dryopteris filix-mas,1
+73.116, Blue Moor-grass Sesleria caerulea,1
+73.118, Common Cottongrass Eriophorum angustifolium,1
+73.119,Lyme-grass Leymus arenarius,1
+73.119, Yellow Iris Iris pseudacorus,1
+73.119, Great Fen-sedge Cladium mariscus,1
+73.119,bulrushes Typha spp.,1
+73.119,pond-sedges Carex spp.,1
+73.119, Common Sedge Carex nigra,1
+73.12,oat-grasses,1
+73.12,Cereals ,1
+73.12, Common Couch Elymus repens,1
+73.12,Cock’s-foot Dactylis glomerata,1
+73.12,grasses ,1
+73.12,quaking-grasses Briza spp.,1
+73.121,figworts Scrophularia spp.,1
+73.121,Butterfly-bush Buddleja davidii,1
+73.121, Common Knapweed Centaurea nigra,1
+73.121,burdocks Arctium spp.,1
+73.121,Foxglove Digitalis purpurea,1
+73.121,thistles,1
+73.121,ragworts,1
+73.121, Common Fleabane Pulicaria dysenterica,1
+73.121,Mugwort Artemisia vulgaris,1
+73.121, Common Nettle Urtica dioica,1
+73.121,Hemp-agrimony Eupatorium cannabinum,1
+73.122, Hog's Fennel Peucedanum officinale,1
+73.123, Sugar Beet Beta vulgaris,1
+73.123, Broad-leaved Dock Rumex obtusifolius,1
+73.123,Potato Solanum tuberosum,1
+73.123,sedges Carex spp.,1
+73.123, Ribwort Plantain Plantago lanceolata,1
+73.123, Yellow Iris Iris pseudacorus,1
+73.123,Meadowsweet Filipendula ulmaria,1
+73.123,Hop Humulus lupulus,1
+73.123,Raspberry Rubus idaeus,1
+73.123,horsetails Equisetum spp.,1
+73.123, Field Woundwort Stachys arvensis,1
+73.123, Lesser Burdock Arctium minus,1
+73.123,Galingale Cyperus longus,1
+73.123,Barley Hordeum sp.,1
+73.123,wheats Triticum spp.,1
+73.123,sea-lavenders Limonium spp.,1
+73.123, Garden Strawberry Fragaria ananassa,1
+73.124,Butterbur Petasites hybridus,1
+73.125,Marsh-mallow Althaea officinalis,1
+73.126, Common Saltmarsh-grass Puccinellia maritima,1
+73.127, Purple Moor-grass Molinia caerulea,1
+73.127, Common Cottongrass Eriophorum angustifolium,1
+73.128, Annual Meadow-grass Poa annua,1
+73.128, Tufted Hair-grass Deschampsia cespitosa,1
+73.128,grasses ,1
+73.129,irises Iris spp.,1
+73.131,Cereals ,1
+73.131,fescues Festuca spp.,1
+73.131,Marram Ammophila arenaria,1
+73.131, Common Couch Elymus repens,1
+73.131,grasses ,1
+73.132, Sand Couch Elymus junceiformis,1
+73.132, Bulbous Meadow-grass Poa bulbosa,1
+73.132, Common Saltmarsh-grass Puccinellia maritima,1
+73.132, Borrer's Saltmarsh-grass Puccinellia fasciculata,1
+73.134, Common Reed Phragmites australis,1
+73.135, Lesser Pond-sedge Carex acutiformis,1
+73.136,Bulrush Typha latifolia,1
+73.136, Lesser Bulrush Typha angustifolia,1
+73.137, Common Reed Phragmites australis,1
+73.138,Lyme-grass Leymus arenarius,1
+73.139, Common Reed Phragmites australis,1
+73.14, Common Reed Phragmites australis,1
+73.141, Common Reed Phragmites australis,1
+73.142, Sharp-flowered Rush Juncus acutiflorus,1
+73.142, Jointed Rush Juncus articulatus,1
+73.142,Soft-rush Juncus effusus,1
+73.144,cottongrasses Eriophorum spp.,1
+73.144, Great Wood-rush Luzula sylvatica,1
+73.144, Reed Sweet-grass Glyceria maxima,1
+73.144, Glaucous Sedge Carex flacca,1
+73.144,sedges Carex spp.,1
+73.144,Tufted-sedge Carex elata,1
+73.144,grasses ,1
+73.144, Lesser Pond-sedge Carex acutiformis,1
+73.145, Wood Small-reed Calamagrostis epigejos,1
+73.146, Glaucous Sedge Carex flacca,1
+73.146, Blue Moor-grass Sesleria caerulea,1
+73.147, Tufted Hair-grass Deschampsia cespitosa,1
+73.148, Tall Fescue Schedonorus arundinaceus,1
+73.149, Purple Small-reed Calamagrostis canescens,1
+73.149, Wood Small-reed Calamagrostis epigejos,1
+73.15, Common Reed Phragmites australis,1
+73.151, Common Club-rush Schoenoplectus lacustris,1
+73.151,Bulrush Typha latifolia,1
+73.151, Lesser Bulrush Typha angustifolia,1
+73.151, Yellow Iris Iris pseudacorus,1
+73.151, Branched Bur-reed Sparganium erectum,1
+73.151, Grey Club-rush Schoenoplectus tabernaemontani,1
+73.152, Yellow Iris Iris pseudacorus,1
+73.152, Common Club-rush Schoenoplectus lacustris,1
+73.152,Bulrush Typha latifolia,1
+73.152, Lesser Bulrush Typha angustifolia,1
+73.154, Reed Canary-grass Phalaris arundinacea,1
+73.154, Annual Meadow-grass Poa annua,1
+73.154, Common Couch Elymus repens,1
+73.154, False Brome Brachypodium sylvaticum,1
+73.154,grasses ,1
+73.155, Annual Meadow-grass Poa annua,1
+73.155, Tufted Hair-grass Deschampsia cespitosa,1
+73.155,Cock’s-foot Dactylis glomerata,1
+73.155,grasses ,1
+73.156, Wavy Hair-grass Avenella flexuosa,1
+73.156,Cock’s-foot Dactylis glomerata,1
+73.156,grasses ,1
+73.157,Cereals ,1
+73.157, Annual Meadow-grass Poa annua,1
+73.157, Common Couch Elymus repens,1
+73.157,Cock’s-foot Dactylis glomerata,1
+73.157,grasses ,1
+73.158,Cereals ,1
+73.158, Common Couch Elymus repens,1
+73.158,Cock’s-foot Dactylis glomerata,1
+73.158,grasses ,1
+73.159, Reed Canary-grass Phalaris arundinacea,1
+73.159, Wavy Hair-grass Avenella flexuosa,1
+73.159,sedges Carex spp.,2
+73.159, Annual Meadow-grass Poa annua,1
+73.159, Common Reed Phragmites australis,1
+73.159,grasses ,1
+73.16, Wood Meadow-grass Poa nemoralis,1
+73.16, Great Wood-rush Luzula sylvatica,1
+73.16,grasses ,1
+73.16, Wood Millet Milium effusum,1
+73.16, False Brome Brachypodium sylvaticum,1
+73.16, Wood Melick Melica uniflora,1
+73.161, Common Saltmarsh-grass Puccinellia maritima,1
+73.161, Red Fescue Festuca rubra,1
+73.161,grasses ,1
+73.161, Bulbous Meadow-grass Poa bulbosa,1
+73.161, Reflexed Saltmarsh-grass Puccinellia distans,1
+73.162, Common Couch Elymus repens,1
+73.162,Cock’s-foot Dactylis glomerata,1
+73.162,grasses ,1
+73.163, Annual Meadow-grass Poa annua,1
+73.163,grasses ,1
+73.164,grasses ,1
+73.165, Wood Meadow-grass Poa nemoralis,1
+73.165,grasses ,1
+73.165, Rough Meadow-grass Poa trivialis,1
+73.167,grasses ,1
+73.168, Reed Sweet-grass Glyceria maxima,1
+73.168, Reed Canary-grass Phalaris arundinacea,1
+73.168,Pampas-grass Cortaderia selloana,1
+73.169, Tall Fescue Schedonorus arundinaceus,1
+73.169, Hairy Wood-rush Luzula pilosa,1
+73.169,Cereals ,1
+73.169, Tufted Hair-grass Deschampsia cespitosa,1
+73.169,Cock’s-foot Dactylis glomerata,1
+73.169,grasses ,1
+73.17,Cock’s-foot Dactylis glomerata,1
+73.17,grasses ,1
+73.17,fescues Festuca spp.,1
+73.171,Holcus sp.,1
+73.171, False Oat-grass Arrhenatherum elatius,1
+73.171,Marram Ammophila arenaria,1
+73.171,Sheep’s-fescue Festuca ovina,1
+73.171,Cock’s-foot Dactylis glomerata,1
+73.171,grasses ,1
+73.171,Lyme-grass Leymus arenarius,1
+73.171, Glaucous Sedge Carex flacca,1
+73.171,Cereals ,1
+73.171, Stinking Iris Iris foetidissima,1
+73.172, Tall Fescue Schedonorus arundinaceus,1
+73.172,Sheep’s-fescue Festuca ovina,1
+73.172, Tufted Hair-grass Deschampsia cespitosa,1
+73.172,grasses ,1
+73.172, False Oat-grass Arrhenatherum elatius,1
+73.173, Reed Canary-grass Phalaris arundinacea,1
+73.173, Common Couch Elymus repens,1
+73.173,Cock’s-foot Dactylis glomerata,1
+73.173,grasses ,1
+73.174,Cock’s-foot Dactylis glomerata,1
+73.174,grasses ,1
+73.175, Wavy Hair-grass Avenella flexuosa,1
+73.175, Tufted Hair-grass Deschampsia cespitosa,1
+73.175,Cock’s-foot Dactylis glomerata,1
+73.175,grasses ,1
+73.176,Yorkshire-fog Holcus lanatus,1
+73.176, Tufted Hair-grass Deschampsia cespitosa,1
+73.176,grasses ,1
+73.178, Annual Meadow-grass Poa annua,1
+73.178, Common Couch Elymus repens,1
+73.178,grasses ,1
+73.179, Small-leaved Lime Tilia cordata,1
+73.179, Wych Elm Ulmus glabra,2
+73.179,Lime Tilia x  europaea,1
+73.18, Field Maple Acer campestre,1
+73.18,Hornbeam Carpinus betulus,1
+73.18,Sycamore Acer pseudoplatanus,1
+73.18, Pedunculate Oak Quercus robur,1
+73.18,Beech Fagus sylvatica,1
+73.181, Wych Elm Ulmus glabra,1
+73.181,docks Rumex spp.,1
+73.181,poplars Populus spp.,1
+73.181,willows Salix spp.,1
+73.182, Wych Elm Ulmus glabra,1
+73.182,dandelions Taraxacum spp.,1
+73.182,docks Rumex spp.,1
+73.182,poplars Populus spp.,1
+73.182,willows Salix spp.,1
+73.183, English Elm Ulmus procera,1
+73.183, Wych Elm Ulmus glabra,1
+73.184,Lombardy-poplar Populus nigra,1
+73.184,Black-poplar Populus nigra,1
+73.184,docks Rumex spp.,1
+73.184, Hybrid Black-poplar Populus x canadensis,1
+73.186,buttercups Ranunculus spp.,1
+73.186,stitchworts Stellaria spp.,1
+73.186,clovers Trifolium spp.,1
+73.186,Groundsel Senecio vulgaris,1
+73.186,dandelions Taraxacum spp.,1
+73.186,docks Rumex spp.,1
+73.186,grasses ,1
+73.186,willows Salix spp.,1
+73.186,Hawthorn Crataegus monogyna,1
+73.186,Bilberry Vaccinium myrtillus,1
+73.186,oat-grasses,1
+73.187, Bladder Campion Silene vulgaris,1
+73.187, Common Sorrel Rumex acetosa,1
+73.187,Meadowsweet Filipendula ulmaria,1
+73.187,stitchworts Stellaria spp.,1
+73.187,Ash Fraxinus excelsior,1
+73.187,roses Rosa spp.,1
+73.187,Honeysuckle Lonicera periclymenum,1
+73.187,docks Rumex spp.,1
+73.187,willows Salix spp.,1
+73.187,oaks Quercus spp.,1
+73.187,Hawthorn Crataegus monogyna,1
+73.187,Bramble Rubus fruticosus,1
+73.188, Burnet Rose Rosa spinosissima,1
+73.188,elms Ulmus spp.,1
+73.188,willows Salix spp.,1
+73.188,birches Betula spp.,1
+73.188,oaks Quercus spp.,1
+73.188,Hawthorn Crataegus monogyna,1
+73.188,Heather Calluna vulgaris,1
+73.188,Heather Calluna vulgaris,1
+73.188,Bilberry Vaccinium myrtillus,1
+73.189,willows Salix spp.,1
+73.19, Common Sorrel Rumex acetosa,1
+73.19,poplars Populus spp.,1
+73.19,Beech Fagus sylvatica,1
+73.19,willows Salix spp.,1
+73.19,birches Betula spp.,1
+73.19,oaks Quercus spp.,1
+73.19,Hawthorn Crataegus monogyna,1
+73.19,Heather Calluna vulgaris,1
+73.191, Bell Heath Erica cinerea,1
+73.191, Cross-leaved Heath Erica tetralix,1
+73.192, Midland Hawkbit Crataegus laevigata,1
+73.192, Wych Elm Ulmus glabra,1
+73.192,Ash Fraxinus excelsior,1
+73.192,poplars Populus spp.,1
+73.192,willows Salix spp.,1
+73.192,Blackthorn Prunus spinosa,1
+73.192,Aspen Populus tremula,1
+73.193, Annual Meadow-grass Poa annua,1
+73.193,grasses ,1
+73.193,Yorkshire-fog Holcus lanatus,1
+73.194,dandelions Taraxacum spp.,1
+73.194,roses Rosa spp.,1
+73.194,Sycamore Acer pseudoplatanus,1
+73.194, Sweet Chestnut Castanea sativa,1
+73.194,elms Ulmus spp.,1
+73.194, Downy Birch Betula pubescens,1
+73.194,docks Rumex spp.,1
+73.194,willows Salix spp.,1
+73.194,Blackthorn Prunus spinosa,1
+73.194,oaks Quercus spp.,1
+73.194,Hawthorn Crataegus monogyna,1
+73.194, European Larch Larix decidua,1
+73.195,Dogwood Cornus sanguinea,1
+73.195,dandelions Taraxacum spp.,1
+73.195,cherries Prunus spp.,1
+73.195,elms Ulmus spp.,1
+73.195,docks Rumex spp.,1
+73.195,willows Salix spp.,1
+73.195,birches Betula spp.,1
+73.195,Blackthorn Prunus spinosa,1
+73.195,oaks Quercus spp.,1
+73.195,Hawthorn Crataegus monogyna,1
+73.195,Gooseberry Ribes uva-crispa,1
+73.197,Apple Malus domestica,1
+73.2,Ash Fraxinus excelsior,1
+73.201,Lilac Syringa vulgaris,1
+73.201, Wild Privet Ligustrum vulgare,1
+73.201,Ash Fraxinus excelsior,1
+73.201,limes Tilia spp.,1
+73.201,Apple Malus domestica,1
+73.201,willows Salix spp.,1
+73.201,birches Betula spp.,1
+73.201,Bramble Rubus fruticosus,1
+73.201,Horse-chestnut Aesculus hippocastanum,1
+73.201,Plum Prunus domestica,1
+73.202, Pedunculate Oak Quercus robur,1
+73.206, Leyland Cypress Cupressus x leylandii,1
+73.206, Lawson's Cypress Cupressus lawsoniana,1
+73.206, Monterey Cypress Cupressus macrocarpa,1
+73.206, Common Juniper Juniperus communis,1
+73.207,Bearberry Arctostaphylos uva-ursi,1
+73.207,Cowberry Vaccinium vitis-idaea,1
+73.207,willows Salix spp.,1
+73.207,birches Betula spp.,1
+73.207,Heather Calluna vulgaris,1
+73.207,Bilberry Vaccinium myrtillus,1
+73.208, Creeping Cinquefoil Potentilla reptans,1
+73.208,thistles,1
+73.208, Common Restharrow Ononis repens,1
+73.208, Yellow Iris Iris pseudacorus,1
+73.208, Black Currant Ribes nigrum,1
+73.208,Groundsel Senecio vulgaris,1
+73.208,Hop Humulus lupulus,1
+73.208,Bog-myrtle Myrica gale,1
+73.208,docks Rumex spp.,1
+73.208, Sugar Beet Beta vulgaris,1
+73.208,chrysanthemums Chrysanthemum spp.,1
+73.208,Ploughman’s-spikenard Inula conyzae,1
+73.208,stonecrops Sedum spp.,1
+73.208,Mangel-wurzel Beta vulgaris,1
+73.209, Marsh Thistle Cirsium palustre,1
+73.209, Yellow Iris Iris pseudacorus,1
+73.209,Meadowsweet Filipendula ulmaria,1
+73.209, Purple Moor-grass Molinia caerulea,1
+73.209,Hop Humulus lupulus,1
+73.209,Bog-myrtle Myrica gale,1
+73.209,docks Rumex spp.,1
+73.209,willows Salix spp.,1
+73.209,Heather Calluna vulgaris,1
+73.209, Sharp-flowered Rush Juncus acutiflorus,1
+73.209,Soft-rush Juncus effusus,1
+73.209,sedges Carex spp.,1
+73.209, Devil's-bit Scabious Succisa pratensis,1
+73.209, Compact Rush Juncus conglomeratus,1
+73.21, Field Maple Acer campestre,1
+73.21,limes Tilia spp.,1
+73.21, Sweet Chestnut Castanea sativa,1
+73.21,Apple Malus domestica,1
+73.21,elms Ulmus spp.,1
+73.21,poplars Populus spp.,1
+73.21,Beech Fagus sylvatica,1
+73.21,willows Salix spp.,1
+73.21,birches Betula spp.,1
+73.21,Blackthorn Prunus spinosa,1
+73.21,oaks Quercus spp.,1
+73.21,Hawthorn Crataegus monogyna,1
+73.21,Hazel Corylus avellana,1
+73.21,Aspen Populus tremula,1
+73.211, Silver Birch Betula pendula,1
+73.211, Downy Birch Betula pubescens,1
+73.211,Aspen Populus tremula,1
+73.212, Purple Willow Salix purpurea,1
+73.212,Black-poplar Populus nigra,1
+73.212, Goat Willow Salix caprea,1
+73.212, Grey Willow Salix cinerea,1
+73.213,poplars Populus spp.,1
+73.213,Aspen Populus tremula,1
+73.213,Lombardy-poplar Populus nigra,1
+73.213, White Poplar Populus alba,1
+73.213, Eastern Balsam-poplar Populus balsamifera,1
+73.214, Small-leaved Elm Ulmus minor,1
+73.214, English Elm Ulmus procera,1
+73.214, Wych Elm Ulmus glabra,1
+73.215, Small-leaved Elm Ulmus minor,1
+73.215, English Elm Ulmus procera,1
+73.215, Wych Elm Ulmus glabra,1
+73.215,elms Ulmus spp.,1
+73.216,larches Larix spp.,1
+73.216, Field Maple Acer campestre,1
+73.216, Sweet Chestnut Castanea sativa,1
+73.216,hawthorns Crataegus spp.,1
+73.216,Apple Malus domestica,1
+73.216,elms Ulmus spp.,1
+73.216, Pedunculate Oak Quercus robur,1
+73.216,willows Salix spp.,1
+73.216,birches Betula spp.,1
+73.216,Blackthorn Prunus spinosa,1
+73.216,Hazel Corylus avellana,1
+73.216,Aspen Populus tremula,1
+73.217, English Elm Ulmus procera,1
+73.217,Pear Pyrus communis,1
+73.217,limes Tilia spp.,1
+73.217,hawthorns Crataegus spp.,1
+73.217,Apple Malus domestica,1
+73.217,elms Ulmus spp.,1
+73.217,Blackthorn Prunus spinosa,1
+73.217,oaks Quercus spp.,1
+73.217,Bullace Prunus domestica,1
+73.217, Small-leaved Elm Ulmus minor,1
+73.217, Wych Elm Ulmus glabra,1
+73.218, Pedunculate Oak Quercus robur,1
+73.219,Ash Fraxinus excelsior,1
+73.22, White Willow Salix alba,1
+73.22, Eared Willow Salix aurita,1
+73.22, Goat Willow Salix caprea,1
+73.22, Grey Willow Salix cinerea,1
+73.22,Aspen Populus tremula,1
+73.22, Purple Willow Salix purpurea,1
+73.22, Tea-leaved Willow Salix phylicifolia,1
+73.221,willows Salix spp.,1
+73.221,birches Betula spp.,1
+73.222,poplars Populus spp.,1
+73.222,willows Salix spp.,1
+73.223, Holm Oak Quercus ilex,1
+73.224, Pedunculate Oak Quercus robur,1
+73.225, Holm Oak Quercus ilex,1
+73.225, Sessile Oak Quercus petraea,1
+73.225,hawthorns Crataegus spp.,1
+73.225,Hazel Corylus avellana,1
+73.225, Pedunculate Oak Quercus robur,1
+73.227, Holm Oak Quercus ilex,1
+73.228, Smooth Sowthistle Sonchus oleraceus,1
+73.228,mints Mentha spp.,1
+73.228,Foxglove Digitalis purpurea,1
+73.228,Thrift Armeria maritima,1
+73.228, Ribwort Plantain Plantago lanceolata,1
+73.228, Yellow Iris Iris pseudacorus,1
+73.228,Groundsel Senecio vulgaris,1
+73.228,dandelions Taraxacum spp.,1
+73.228, Common Nettle Urtica dioica,1
+73.228, Goat Willow Salix caprea,1
+73.228,docks Rumex spp.,1
+73.228,Hawthorn Crataegus monogyna,1
+73.228,Laburnum Laburnum anagyroides,1
+73.228,thistles,1
+73.229, Broad-leaved Dock Rumex obtusifolius,1
+73.229, Ribwort Plantain Plantago lanceolata,1
+73.229, Curled Dock Rumex crispus,1
+73.23, Common Chickweed Stellaria media,1
+73.23, Sea Campion Silene uniflora,1
+73.23, Common Sorrel Rumex acetosa,1
+73.23,Bramble Rubus fruticosus,1
+73.23,Chicory Cichorium intybus,1
+73.23, Wood Sage Teucrium scorodonia,1
+73.231, Meadow Buttercup Ranunculus acris,1
+73.231, Broad-leaved Dock Rumex obtusifolius,1
+73.231, Annual Meadow-grass Poa annua,1
+73.231, Tufted Hair-grass Deschampsia cespitosa,1
+73.231,Groundsel Senecio vulgaris,1
+73.231,Broom Cytisus scoparius,1
+73.231,Blackthorn Prunus spinosa,1
+73.231,Heather Calluna vulgaris,1
+73.231,cinquefoils Potentilla spp.,1
+73.231,Sainfoin Onobrychis viciifolia,1
+73.231,sorrels Rumex spp.,1
+73.231,Yarrow Achillea millefolium,1
+73.231, Field Gromwell Buglossoides arvensis,1
+73.231, Corn Mint Mentha arvensis,1
+73.232,clovers Trifolium spp.,1
+73.232, Common Bird's-foot-trefoil Lotus corniculatus,1
+73.232,Heather Calluna vulgaris,1
+73.232,Bilberry Vaccinium myrtillus,1
+73.232,grasses ,1
+73.233, Sweet Sweet-grass Anthoxanthum odoratum,1
+73.233, Common Rock-rose Helianthemum nummularium,1
+73.233,stitchworts Stellaria spp.,1
+73.233, Creeping Willow Salix repens,1
+73.233,clovers Trifolium spp.,1
+73.233, Tufted Hair-grass Deschampsia cespitosa,1
+73.233,plantains Plantago spp.,1
+73.233, Hedge Bedstraw Galium album,1
+73.233,dandelions Taraxacum spp.,1
+73.233,docks Rumex spp.,1
+73.233,Heather Calluna vulgaris,1
+73.233, Bristle Bent Agrostis curtisii,1
+73.234,Hogweed Heracleum sphondylium,1
+73.234, Wild Angelica Angelica sylvestris,1
+73.235, Biting Stonecrop Sedum acre,1
+73.235, Red Valerian Centranthus ruber,1
+73.235, Wild Cabbage Brassica oleracea,1
+73.235,Hound’s-tongue Cynoglossum officinale,1
+73.235,Foxglove Digitalis purpurea,1
+73.235,Thrift Armeria maritima,1
+73.235,ragworts,1
+73.235,plantains Plantago spp.,1
+73.235,dandelions Taraxacum spp.,1
+73.235,docks Rumex spp.,1
+73.235,Bramble Rubus fruticosus,1
+73.235, Hoary Cress Lepidium draba,1
+73.235,trefoils,1
+73.236,Harebell Campanula rotundifolia,2
+73.236, Sea Plantain Plantago maritima,2
+73.236, White Campion Silene latifolia,2
+73.236, Sea Campion Silene uniflora,2
+73.236,Thrift Armeria maritima,1
+73.236,dandelions Taraxacum spp.,2
+73.236, Sweet Violet Viola odorata,2
+73.236, Kidney Vetch Anthyllis vulneraria,2
+73.237, Red Valerian Centranthus ruber,1
+73.237,spruces Picea spp.,1
+73.237,Foxglove Digitalis purpurea,1
+73.237, Rosebay Willowherb Chamaenerion angustifolium,1
+73.237,Mugwort Artemisia vulgaris,1
+73.237,Groundsel Senecio vulgaris,1
+73.237,plantains Plantago spp.,1
+73.237,roses Rosa spp.,1
+73.237,cherries Prunus spp.,1
+73.237,Honeysuckle Lonicera periclymenum,1
+73.237,docks Rumex spp.,1
+73.237,Michaelmas-daisies Symphyotrichum spp.,1
+73.237,mints Mentha spp.,1
+73.237,currants Ribes spp.,1
+73.237, Common Ivy Hedera helix,1
+73.237, Yellow Corydalis Pseudofumaria lutea,1
+73.237,Londonpride Saxifraga x urbium,1
+73.237, Sweet Pea Lathyrus odoratus,1
+73.238, Bladder Campion Silene vulgaris,1
+73.238, Lodgepole Pine Pinus contorta,1
+73.238, Sitka Spruce Picea sitchensis,1
+73.238,Bog-myrtle Myrica gale,1
+73.238,birches Betula spp.,1
+73.238,Heather Calluna vulgaris,1
+73.238,grasses ,1
+73.238,Alder Alnus glutinosa,1
+73.238, Great Willowherb Epilobium hirsutum,1
+73.241, Lodgepole Pine Pinus contorta,1
+73.241,larches Larix spp.,1
+73.241, Maritime Pine Pinus pinaster,1
+73.241, Corsican Pine Pinus nigra,1
+73.241, Scots Pine Pinus sylvestris,1
+73.241, Dwarf Mountain-pine Pinus mugo,1
+73.242, Sitka Spruce Picea sitchensis,2
+73.242,Sycamore Acer pseudoplatanus,1
+73.242,limes Tilia spp.,1
+73.242, Sweet Chestnut Castanea sativa,1
+73.242,elms Ulmus spp.,1
+73.242,willows Salix spp.,1
+73.242,birches Betula spp.,1
+73.242,oaks Quercus spp.,1
+73.242,docks Rumex spp.,2
+73.242,Hawthorn Crataegus monogyna,1
+73.242,Hazel Corylus avellana,1
+73.243,Meadowsweet Filipendula ulmaria,1
+73.243,birches Betula spp.,1
+73.243,Blackthorn Prunus spinosa,1
+73.243,oaks Quercus spp.,1
+73.243,Hawthorn Crataegus monogyna,1
+73.243,Hazel Corylus avellana,1
+73.243,Bramble Rubus fruticosus,1
+73.244, Sweet Chestnut Castanea sativa,1
+73.244,elms Ulmus spp.,1
+73.244,willows Salix spp.,1
+73.244,birches Betula spp.,1
+73.244,Blackthorn Prunus spinosa,1
+73.244,oaks Quercus spp.,1
+73.244,Hawthorn Crataegus monogyna,1
+73.244,Hazel Corylus avellana,1
+73.244,Aspen Populus tremula,1
+73.244,Alder Alnus glutinosa,1
+73.244,Beech Fagus sylvatica,1
+73.244,black-poplars Populus nigra,1
+73.244,Guelder-rose Viburnum opulus,1
+73.244, Snow Gum Eucalyptus niphophila,1
+73.245, Crab Apple Malus sylvestris,1
+73.245, Field Maple Acer campestre,1
+73.245,roses Rosa spp.,1
+73.245, Sweet Chestnut Castanea sativa,1
+73.245, Downy Birch Betula pubescens,1
+73.245,willows Salix spp.,1
+73.245,Blackthorn Prunus spinosa,1
+73.245,oaks Quercus spp.,1
+73.245,Hazel Corylus avellana,1
+73.245,Aspen Populus tremula,1
+73.246,Black-poplar Populus nigra,1
+73.246,poplars Populus spp.,1
+73.246,Aspen Populus tremula,1
+73.247, Dyer's Greenweed Genista tinctoria,1
+73.247, Creeping Thistle Cirsium arvense,1
+73.247,Meadowsweet Filipendula ulmaria,1
+73.247, Sessile Oak Quercus petraea,1
+73.247,Bog-myrtle Myrica gale,1
+73.247, Common Bird's-foot-trefoil Lotus corniculatus,1
+73.247,willows Salix spp.,1
+73.247,Blackthorn Prunus spinosa,1
+73.247,Bramble Rubus fruticosus,1
+73.247,Bilberry Vaccinium myrtillus,1
+73.247, Pedunculate Oak Quercus robur,1
+73.247, Spear Thistle Cirsium vulgare,1
+73.247,St John’s-worts Hypericum spp.,1
+73.247,Purple-loosestrife Lythrum salicaria,1
+73.247, Greater Bird's-foot-trefoil Lotus pedunculatus,1
+73.247, Common Fleabane Pulicaria dysenterica,1
+73.247,Black-poplar Populus nigra,1
+73.248, Common Sea-lavender Limonium vulgare,1
+73.248, Dyer's Greenweed Genista tinctoria,1
+73.248,Hound’s-tongue Cynoglossum officinale,1
+73.248,Marram Ammophila arenaria,1
+73.248,willows Salix spp.,1
+73.248,birches Betula spp.,1
+73.248, Burnet Rose Rosa spinosissima,1
+73.248,ragworts,1
+73.248,Mugwort Artemisia vulgaris,1
+73.249,Buckthorn Rhamnus cathartica,1
+73.249,Meadowsweet Filipendula ulmaria,1
+73.249,clovers Trifolium spp.,1
+73.249,larches Larix spp.,1
+73.249,Broom Cytisus scoparius,1
+73.249, Common Nettle Urtica dioica,1
+73.249,dandelions Taraxacum spp.,1
+73.249,limes Tilia spp.,1
+73.249,Honeysuckle Lonicera periclymenum,1
+73.249,hawthorns Crataegus spp.,1
+73.249,willows Salix spp.,1
+73.249,birches Betula spp.,1
+73.249,oaks Quercus spp.,1
+73.249,docks Rumex spp.,1
+73.249,Heather Calluna vulgaris,1
+73.249,Bilberry Vaccinium myrtillus,1
+73.249,Alder Alnus glutinosa,1
+73.249, Germander Speedwell Veronica chamaedrys,1
+73.249,Lilac Syringa vulgaris,1
+73.249, Sitka Spruce Picea sitchensis,1
+73.25,Hop Humulus lupulus,1
+73.25,cherries Prunus spp.,1
+73.25,Honeysuckle Lonicera periclymenum,1
+73.25, Sweet Chestnut Castanea sativa,1
+73.25,elms Ulmus spp.,1
+73.25,willows Salix spp.,1
+73.25,birches Betula spp.,1
+73.25,Blackthorn Prunus spinosa,1
+73.25,oaks Quercus spp.,1
+73.25,Aspen Populus tremula,1
+73.25, Field Maple Acer campestre,1
+73.25,Ash Fraxinus excelsior,1
+73.25,poplars Populus spp.,1
+73.252,Mat-grass Nardus stricta,1
+73.252, Wavy Hair-grass Avenella flexuosa,1
+73.252,grasses ,1
+73.253,Mat-grass Nardus stricta,1
+73.253,meadow-grasses Poa spp.,2
+73.253,Sheep’s-fescue Festuca ovina,1
+73.253,grasses ,1
+73.254,Sheep’s-fescue Festuca ovina,1
+73.254, Purple Moor-grass Molinia caerulea,1
+73.254, Tufted Hair-grass Deschampsia cespitosa,1
+73.254,grasses ,1
+73.254, Hare's-tail Cottongrass Eriophorum vaginatum,1
+73.254, Jointed Rush Juncus articulatus,1
+73.254,Mat-grass Nardus stricta,1
+73.254,Deergrass Trichophorum germanicum,1
+73.254, Heath Rush Juncus squarrosus,1
+73.255,Beet Beta vulgaris,1
+73.255, Field Bindweed Convolvulus arvensis,1
+73.255,oraches Atriplex spp.,1
+73.255,goosefoots,1
+73.255,Flixweed Descurainia sophia,1
+73.255,dandelions Taraxacum spp.,1
+73.255,docks Rumex spp.,1
+73.255,conifer seedlings ,1
+73.255,onions Allium spp.,1
+73.256,Bearberry Arctostaphylos uva-ursi,1
+73.256,Crowberry Empetrum nigrum,1
+73.256,Cowberry Vaccinium vitis-idaea,1
+73.256,Bilberry Vaccinium myrtillus,1
+73.257, Bell Heath Erica cinerea,1
+73.257,Heather Calluna vulgaris,1
+73.258,Bearberry Arctostaphylos uva-ursi,1
+73.259, Broad-leaved Dock Rumex obtusifolius,1
+73.26,plantains Plantago spp.,1
+73.26,Bog-myrtle Myrica gale,1
+73.26,Honeysuckle Lonicera periclymenum,1
+73.26,willows Salix spp.,1
+73.26,birches Betula spp.,1
+73.26,docks Rumex spp.,1
+73.26,Hawthorn Crataegus monogyna,1
+73.26,Bilberry Vaccinium myrtillus,1
+73.26,grasses ,1
+73.261,Primrose Primula vulgaris,1
+73.261,dandelions Taraxacum spp.,1
+73.261,Honeysuckle Lonicera periclymenum,1
+73.261,willows Salix spp.,1
+73.261,birches Betula spp.,1
+73.261,Blackthorn Prunus spinosa,1
+73.261,docks Rumex spp.,1
+73.261,Hazel Corylus avellana,1
+73.261,Bramble Rubus fruticosus,1
+73.261, Pedunculate Oak Quercus robur,1
+73.263,knotgrasses Polygonum spp.,1
+73.263, Dyer's Greenweed Genista tinctoria,1
+73.263,Broom Cytisus scoparius,1
+73.263,docks Rumex spp.,1
+73.263,Bramble Rubus fruticosus,1
+73.263,Redshank Persicaria maculosa,1
+73.264,knotgrasses Polygonum spp.,1
+73.264,Barberry Berberis vulgaris,1
+73.264,Groundsel Senecio vulgaris,1
+73.264,Broom Cytisus scoparius,1
+73.264, Sweet Chestnut Castanea sativa,1
+73.264,hawthorns Crataegus spp.,1
+73.264,Honeysuckle Lonicera periclymenum,1
+73.264,Apple Malus domestica,1
+73.264,willows Salix spp.,1
+73.264,birches Betula spp.,1
+73.264,Blackthorn Prunus spinosa,1
+73.264,oaks Quercus spp.,1
+73.264,docks Rumex spp.,1
+73.264,Aspen Populus tremula,1
+73.264,Potato Solanum tuberosum,1
+73.264, Crab Apple Malus sylvestris,1
+73.264,Larkspur Consolida ajacis,1
+73.265,Bracken Pteridium aquilinum,1
+73.265,Bog-myrtle Myrica gale,1
+73.265,Broom Cytisus scoparius,1
+73.265,willows Salix spp.,1
+73.265,birches Betula spp.,1
+73.265,oaks Quercus spp.,1
+73.265,docks Rumex spp.,1
+73.265,Hazel Corylus avellana,1
+73.265,Heather Calluna vulgaris,1
+73.265, Dyer's Greenweed Genista tinctoria,1
+73.265, Wild Angelica Angelica sylvestris,1
+73.265,Goldenrod Solidago virgaurea,1
+73.265,Gorse Ulex europaeus,1
+73.265,Rowan Sorbus aucuparia,1
+73.266,knotgrasses Polygonum spp.,1
+73.266, Sea Plantain Plantago maritima,1
+73.266,goosefoots,1
+73.266,dandelions Taraxacum spp.,1
+73.266,docks Rumex spp.,1
+73.266, Greater Plantain Plantago major,1
+73.266, Common Sea-lavender Limonium vulgare,1
+73.267,Fat-hen Chenopodium album,1
+73.267,Spinach Spinacia oleracea,1
+73.267,willowherbs Epilobium spp.,1
+73.267,oraches Atriplex spp.,1
+73.267,Traveller’s-joy Clematis vitalba,1
+73.267,Hop Humulus lupulus,1
+73.267, Common Nettle Urtica dioica,1
+73.267,willows Salix spp.,1
+73.267,Hazel Corylus avellana,1
+73.267,Tomato Solanum lycopersicum,1
+73.267, Reed Sweet-grass Glyceria maxima,1
+73.267,Tamarisk Tamarix gallica,1
+73.267, English Elm Ulmus procera,1
+73.267,bindweeds,1
+73.267,Black-bindweed Fallopia convolvulus,1
+73.268, Hedge Bindweed Calystegia sepium,1
+73.27,Dahlia Dahlia x hortensis,1
+73.27,Butterfly-bush Buddleja davidii,1
+73.27, Broad-leaved Dock Rumex obtusifolius,1
+73.27, Common Toadflax Linaria vulgaris,1
+73.27,Bracken Pteridium aquilinum,1
+73.27,larches Larix spp.,1
+73.27,Hop Humulus lupulus,1
+73.27, Common Nettle Urtica dioica,1
+73.27,Broom Cytisus scoparius,1
+73.27,willows Salix spp.,1
+73.27,Hazel Corylus avellana,1
+73.27,Hollyhock Alcea rosea,1
+73.27, Field Bindweed Convolvulus arvensis,1
+73.27,Elder Sambucus nigra,1
+73.27,Barberry Berberis vulgaris,1
+73.27, Black Currant Ribes nigrum,1
+73.27, Garden Lupin Lupinus polyphyllus,1
+73.271,conifers,1
+73.271,Sea-buckthorn Hippophae rhamnoides,1
+73.271,spruces Picea spp.,1
+73.271,Bracken Pteridium aquilinum,1
+73.271,larches Larix spp.,1
+73.271,Bog-myrtle Myrica gale,1
+73.271,Broom Cytisus scoparius,1
+73.271,birches Betula spp.,1
+73.271,docks Rumex spp.,1
+73.271,Heather Calluna vulgaris,1
+73.271,Bramble Rubus fruticosus,1
+73.271,Bilberry Vaccinium myrtillus,1
+73.271,elms Ulmus spp.,1
+73.271, Sea Aster Tripolium pannonicum,1
+73.271, Marsh Thistle Cirsium palustre,1
+73.271, Creeping Thistle Cirsium arvense,1
+73.271,pines Pinus spp.,1
+73.271, Common Toadflax Linaria vulgaris,1
+73.271, Yellow Iris Iris pseudacorus,1
+73.271,Dog-rose Rosa canina,1
+73.272,knotgrasses Polygonum spp.,1
+73.272, Eared Willow Salix aurita,1
+73.272,Meadowsweet Filipendula ulmaria,1
+73.272, Creeping Willow Salix repens,1
+73.272,Bog-myrtle Myrica gale,1
+73.272, Grey Willow Salix cinerea,1
+73.272,Heather Calluna vulgaris,1
+73.272,Bilberry Vaccinium myrtillus,1
+73.272,Colt’s-foot Tussilago farfara,1
+73.272, Smooth Sowthistle Sonchus oleraceus,1
+73.272,Bearberry Arctostaphylos uva-ursi,1
+73.272,heaths Erica spp.,1
+73.273, Smooth Hawk's-beard Crepis capillaris,1
+73.273, Common Chickweed Stellaria media,1
+73.273,Knotgrass Polygonum aviculare,1
+73.273,dandelions Taraxacum spp.,1
+73.273,Mouse-ear-hawkweed Pilosella officinarum,1
+73.273,Lucerne Medicago sativa,1
+73.274,tobaccos Nicotiana spp.,1
+73.274,geraniums Pelargonium spp.,1
+73.274,Cabbage Brassica oleracea,1
+73.274,goosefoots,1
+73.274,willows Salix spp.,1
+73.274,birches Betula spp.,1
+73.274,oaks Quercus spp.,1
+73.274,docks Rumex spp.,1
+73.274,Dahlia Dahlia x hortensis,1
+73.274,Basil Ocimum basilicum,1
+73.275, Sea Rocket Cakile maritima,1
+73.275, Sea Sandwort Honckenya peploides,1
+73.275, Sand Spurrey Spergularia rubra,1
+73.275, Sea Bindweed Calystegia soldanella,1
+73.275, Common Chickweed Stellaria media,1
+73.275,oraches Atriplex spp.,1
+73.275, Sea Campion Silene uniflora,1
+73.275, Ribwort Plantain Plantago lanceolata,1
+73.275,Flixweed Descurainia sophia,1
+73.275,goosefoots,1
+73.275,dandelions Taraxacum spp.,1
+73.275,docks Rumex spp.,1
+73.275, Sea Plantain Plantago maritima,1
+73.275, Common Restharrow Ononis repens,1
+73.276,Ragged-Robin Silene flos-cuculi,1
+73.276, Bladder Campion Silene vulgaris,1
+73.276, White Campion Silene latifolia,1
+73.276, Red Campion Silene dioica,1
+73.276, Sea Campion Silene uniflora,1
+73.277, Sea Campion Silene uniflora,1
+73.278, Rock Sea-spurrey Spergularia rupicola,1
+73.278, Sea Campion Silene uniflora,1
+73.278, Sand Spurrey Spergularia rubra,1
+73.279, Prickly Lettuce Lactuca serriola,1
+73.279,sowthistles Sonchus spp.,1
+73.279, Smooth Hawk's-beard Crepis capillaris,1
+73.279,hawk’s-beards Crepis spp.,1
+73.279,hawkweeds Hieracium spp.,1
+73.279,oxtongues,1
+73.28, Garden Lettuce Lactuca sativa,1
+73.28,sowthistles Sonchus spp.,1
+73.28, Wall Lettuce Mycelis muralis,1
+73.28, Prickly Lettuce Lactuca serriola,1
+73.28, Smooth Hawk's-beard Crepis capillaris,1
+73.28, Great Lettuce Lactuca virosa,1
+73.28, Bristly Oxtongue Helminthotheca echioides,1
+73.281,Sweet-William Dianthus barbatus,1
+73.281,Ragged-Robin Silene flos-cuculi,1
+73.281, Bladder Campion Silene vulgaris,1
+73.281, White Campion Silene latifolia,1
+73.281, Red Campion Silene dioica,1
+73.281, Night-flowering Catchfly Silene noctiflora,1
+73.281,Soapworts Saponaria officinalis,1
+73.282,Sweet-William Dianthus barbatus,1
+73.282, Bladder Campion Silene vulgaris,1
+73.283,pinks Dianthus spp.,1
+73.283, Rock Sea-spurrey Spergularia rupicola,1
+73.283, Nottingham Catchfly silene nutans,1
+73.283,Sweet-William Dianthus barbatus,1
+73.283, White Campion Silene latifolia,1
+73.283, Bladder Campion Silene vulgaris,1
+73.283, Sea Campion Silene uniflora,1
+73.283, Moss Campion Silene acaulis,1
+73.283,Ragged-Robin Silene flos-cuculi,1
+73.283, Red Campion Silene dioica,1
+73.284, Nottingham Catchfly silene nutans,1
+73.285, Bladder Campion Silene vulgaris,1
+73.285, Sea Campion Silene uniflora,1
+73.286,pinks Dianthus spp.,1
+73.286, Rock Sea-spurrey Spergularia rupicola,1
+73.286,Sweet-William Dianthus barbatus,1
+73.286, Nottingham Catchfly silene nutans,1
+73.286, White Campion Silene latifolia,1
+73.286, Bladder Campion Silene vulgaris,1
+73.286, Sea Campion Silene uniflora,1
+73.288, Field Wood-rush Luzula campestris,1
+73.288, Hairy Wood-rush Luzula pilosa,1
+73.288,Cock’s-foot Dactylis glomerata,1
+73.288,grasses ,1
+73.288, Common Bent Agrostis capillaris,1
+73.288, Wood Meadow-grass Poa nemoralis,1
+73.288, Sweet Sweet-grass Anthoxanthum odoratum,1
+73.288, Creeping Soft-grass Holcus mollis,1
+73.288, Carnation Sedge Carex panicea,1
+73.289, Reed Canary-grass Phalaris arundinacea,1
+73.289, Common Reed Phragmites australis,1
+73.289,grasses ,1
+73.289, Purple Moor-grass Molinia caerulea,1
+73.29, Common Couch Elymus repens,1
+73.29,Cock’s-foot Dactylis glomerata,1
+73.29,grasses ,1
+73.29, Red Fescue Festuca rubra,1
+73.291, Annual Meadow-grass Poa annua,1
+73.291, Common Couch Elymus repens,1
+73.291, Tufted Hair-grass Deschampsia cespitosa,1
+73.291,Cock’s-foot Dactylis glomerata,1
+73.291,grasses ,1
+73.292, Common Saltmarsh-grass Puccinellia maritima,1
+73.293, Field Wood-rush Luzula campestris,1
+73.293, Common Reed Phragmites australis,1
+73.293, Annual Meadow-grass Poa annua,1
+73.293, Tufted Hair-grass Deschampsia cespitosa,1
+73.293,Cock’s-foot Dactylis glomerata,1
+73.293,grasses ,1
+73.293, Hairy Wood-rush Luzula pilosa,1
+73.293,Tufted-sedge Carex elata,1
+73.294, Reed Canary-grass Phalaris arundinacea,1
+73.294, Common Reed Phragmites australis,1
+73.295, Annual Meadow-grass Poa annua,1
+73.295,Cock’s-foot Dactylis glomerata,1
+73.295,grasses ,1
+73.297,Cock’s-foot Dactylis glomerata,1
+73.297,grasses ,1
+73.297, Common Couch Elymus repens,1
+73.298,meadow-grasses Poa spp.,1
+73.298, Common Chickweed Stellaria media,1
+73.298,plantains Plantago spp.,1
+73.298,Cock’s-foot Dactylis glomerata,1
+73.298,dandelions Taraxacum spp.,1
+73.298,grasses ,1
+73.298, Tall Fescue Schedonorus arundinaceus,1
+73.299,Marram Ammophila arenaria,1
+73.3,Marram Ammophila arenaria,1
+73.301,Cock’s-foot Dactylis glomerata,1
+73.301,grasses ,1
+73.302, Common Reed Phragmites australis,1
+73.303,grasses ,1
+73.304,grasses ,1
+73.305, Common Reed Phragmites australis,1
+73.306,Bilberry Vaccinium myrtillus,1
+73.306, Heath Bedstraw Galium saxatile,1
+73.307,lettuces Lactuca spp.,1
+73.307,Cabbage Brassica oleracea,1
+73.307,clovers Trifolium spp.,1
+73.307,plantains Plantago spp.,1
+73.307,dandelions Taraxacum spp.,1
+73.307,docks Rumex spp.,1
+73.307, Oil-seed Rape Brassica napus,1
+73.307,tobaccos Nicotiana spp.,1
+73.307, Small Nettle Urtica urens,1
+73.308, Sea Bindweed Calystegia soldanella,1
+73.308, Common Chickweed Stellaria media,1
+73.308, Creeping Willow Salix repens,1
+73.308, Tree Lupin Lupinus arboreus,1
+73.308,restharrows Ononis spp.,1
+73.308, Sea Wormwood Artemisia maritima,1
+73.308,Marram Ammophila arenaria,1
+73.308, Common Bird's-foot-trefoil Lotus corniculatus,1
+73.308, Rush-leaved Fescue Festuca arenaria,1
+73.311, Sea Sandwort Honckenya peploides,1
+73.311,violets Viola spp.,1
+73.311,Hound’s-tongue Cynoglossum officinale,1
+73.311, Sand Couch Elymus junceiformis,1
+73.311, Early Hair-grass Aira praecox,1
+73.311, Sticky Mouse-ear Cerastium glomeratum,1
+73.311, Sea Spurge Euphorbia paralias,1
+73.312, Lady's Bedstraw Galium verum,1
+73.312, Common Rock-rose Helianthemum nummularium,1
+73.313, Common Chickweed Stellaria media,1
+73.313, Lady's Bedstraw Galium verum,1
+73.313, Hedge Bedstraw Galium album,1
+73.313, Corn Spurrey Spergula arvensis,1
+73.313,mouse-ears Cerastium spp.,1
+73.314,clovers Trifolium spp.,1
+73.314,plantains Plantago spp.,1
+73.314,docks Rumex spp.,1
+73.314,Hogweed Heracleum sphondylium,1
+73.316, Wild Thyme Thymus drucei,1
+73.317,conifers,1
+73.317, Common Chickweed Stellaria media,1
+73.317,plantains Plantago spp.,1
+73.317,docks Rumex spp.,1
+73.317,goosefoots,1
+73.319,larches Larix spp.,1
+73.319,firs Abies spp.,1
+73.319,spruces Picea spp.,1
+73.319, Douglas Fir Pseudotsuga menziesii,1
+73.32,Fat-hen Chenopodium album,1
+73.32,mulleins Verbascum spp.,1
+73.32,docks Rumex spp.,1
+73.32,knotgrasses Polygonum spp.,1
+73.32, Wild Carrot Daucus carota,1
+73.32,clovers Trifolium spp.,1
+73.322,bedstraws Galium spp.,1
+73.322,stitchworts Stellaria spp.,1
+73.322,grasses ,1
+73.322, Sea Sandwort Honckenya peploides,1
+73.323,Hound’s-tongue Cynoglossum officinale,1
+73.323, Common Orache Atriplex patula,1
+73.323,Sea-purslane Atriplex portulacoides,1
+73.323, Sea Rocket Cakile maritima,1
+73.323, Sea Bindweed Calystegia soldanella,1
+73.323,Sea-buckthorn Hippophae rhamnoides,1
+73.323, Red Goosefoot Oxybasis rubra,1
+73.323, Prickly Saltwort Salsola kali,1
+73.323, Annual Sea-blite Suaeda maritima,1
+73.323,Sea-holly Eryngium maritimum,1
+73.323,Sea-milkwort Lysimachia maritima,1
+73.324,Thrift Armeria maritima,1
+73.325,lettuces Lactuca spp.,1
+73.325,Knotgrass Polygonum aviculare,1
+73.325,dandelions Taraxacum spp.,1
+73.325,docks Rumex spp.,1
+73.328,lettuces Lactuca spp.,1
+73.328, White Dead-nettle Lamium album,1
+73.328,Knotgrass Polygonum aviculare,1
+73.328, Hedge Bedstraw Galium album,1
+73.328,plantains Plantago spp.,1
+73.328, Common Nettle Urtica dioica,1
+73.328,dandelions Taraxacum spp.,1
+73.328,docks Rumex spp.,1
+73.328,Fat-hen Chenopodium album,1
+73.328,Hound’s-tongue Cynoglossum officinale,1
+73.328,Hop Humulus lupulus,1
+73.329, Ribwort Plantain Plantago lanceolata,1
+73.329, Common Chickweed Stellaria media,1
+73.329,Knotgrass Polygonum aviculare,1
+73.329,Groundsel Senecio vulgaris,1
+73.329,dandelions Taraxacum spp.,1
+73.329,docks Rumex spp.,1
+73.329,Beet Beta vulgaris,1
+73.329,Woodruff Galium odoratum,1
+73.329,lettuces Lactuca spp.,1
+73.329, Lady's Bedstraw Galium verum,1
+73.331,plantains Plantago spp.,1
+73.331,dandelions Taraxacum spp.,1
+73.331,willows Salix spp.,1
+73.331,birches Betula spp.,1
+73.331,Blackthorn Prunus spinosa,1
+73.331,docks Rumex spp.,1
+73.331,Hawthorn Crataegus monogyna,1
+73.331,Bramble Rubus fruticosus,1
+73.331,Bilberry Vaccinium myrtillus,1
+73.332,Foxglove Digitalis purpurea,1
+73.332,Hornbeam Carpinus betulus,1
+73.332,willows Salix spp.,1
+73.332,birches Betula spp.,1
+73.332,Blackthorn Prunus spinosa,1
+73.332,docks Rumex spp.,1
+73.332,Heather Calluna vulgaris,1
+73.332,Bramble Rubus fruticosus,1
+73.332,Bilberry Vaccinium myrtillus,1
+73.332,figworts Scrophularia spp.,1
+73.332, Great Wood-rush Luzula sylvatica,1
+73.332,Bracken Pteridium aquilinum,1
+73.333,Primrose Primula vulgaris,1
+73.333,Knotgrass Polygonum aviculare,1
+73.333,plantains Plantago spp.,1
+73.333,hawthorns Crataegus spp.,1
+73.333,Honeysuckle Lonicera periclymenum,1
+73.333,willows Salix spp.,1
+73.333,birches Betula spp.,1
+73.333,Blackthorn Prunus spinosa,1
+73.333,docks Rumex spp.,1
+73.333,Hazel Corylus avellana,1
+73.333,Heather Calluna vulgaris,1
+73.333,Bramble Rubus fruticosus,1
+73.333,Bilberry Vaccinium myrtillus,1
+73.333,violets Viola spp.,1
+73.334,Foxglove Digitalis purpurea,1
+73.334, Common Chickweed Stellaria media,1
+73.334, Creeping Willow Salix repens,1
+73.334,plantains Plantago spp.,1
+73.334,docks Rumex spp.,1
+73.334,Heather Calluna vulgaris,1
+73.334,grasses ,1
+73.334,dandelions Taraxacum spp.,1
+73.336, Common Chickweed Stellaria media,1
+73.336,bedstraws Galium spp.,1
+73.336,Groundsel Senecio vulgaris,1
+73.336,willows Salix spp.,1
+73.336,docks Rumex spp.,1
+73.336,Bilberry Vaccinium myrtillus,1
+73.336, Bog Asphodel Narthecium ossifragum,1
+73.336, Heath Spotted-orchid Dactylorhiza maculata,1
+73.337, Rosebay Willowherb Chamaenerion angustifolium,1
+73.338, Bell Heath Erica cinerea,1
+73.338,Heather Calluna vulgaris,1
+73.338, Lodgepole Pine Pinus contorta,1
+73.341,Sheep’s-fescue Festuca ovina,1
+73.341,Primrose Primula vulgaris,1
+73.341,grasses ,1
+73.341,Harebell Campanula rotundifolia,1
+73.341, Purple Saxifrage Saxifraga oppositifolia,1
+73.341, Biting Stonecrop Sedum acre,1
+73.342,Foxglove Digitalis purpurea,1
+73.342,docks Rumex spp.,1
+73.342,grasses ,1
+73.342, Pot Marigold Calendula officinalis,1
+73.342,Spinach Spinacia oleracea,1
+73.342,conifers,1
+73.342,meadow-grasses Poa spp.,1
+73.342,Cabbage Brassica oleracea,1
+73.342,Mind-your-own-business Soleirolia soleirolii,1
+73.343,dead-nettles Lamium spp.,1
+73.343, Broad-leaved Dock Rumex obtusifolius,1
+73.343,Cleavers Galium aparine,1
+73.343,Primrose Primula vulgaris,1
+73.343, Common Nettle Urtica dioica,1
+73.343,willows Salix spp.,1
+73.343,Blackthorn Prunus spinosa,1
+73.343,Hawthorn Crataegus monogyna,1
+73.343,Bramble Rubus fruticosus,1
+73.343, Field Wood-rush Luzula campestris,1
+73.343, Wild Privet Ligustrum vulgare,1
+73.343,Sycamore Acer pseudoplatanus,1
+73.344,Cowslip Primula veris,1
+73.344,Sheep’s-fescue Festuca ovina,1
+73.344, Common Chickweed Stellaria media,1
+73.344,couches Elymus spp.,1
+73.344, Meadow Buttercup Ranunculus acris,1
+73.344, Creeping Cinquefoil Potentilla reptans,1
+73.344, Reed Canary-grass Phalaris arundinacea,1
+73.344, Wavy Hair-grass Avenella flexuosa,1
+73.344, Tufted Hair-grass Deschampsia cespitosa,1
+73.344,Cock’s-foot Dactylis glomerata,1
+73.344, Brown Bent Agrostis vinealis,1
+73.345, Broad-leaved Dock Rumex obtusifolius,1
+73.345,Bog-myrtle Myrica gale,1
+73.345, Common Nettle Urtica dioica,1
+73.345,Broom Cytisus scoparius,1
+73.345,willows Salix spp.,1
+73.345,birches Betula spp.,1
+73.345,Blackthorn Prunus spinosa,1
+73.345,Hawthorn Crataegus monogyna,1
+73.345,Heather Calluna vulgaris,1
+73.345,Bramble Rubus fruticosus,1
+73.345, Red Valerian Centranthus ruber,1
+73.345, Wild Cabbage Brassica oleracea,1
+73.345, Common Knapweed Centaurea nigra,1
+73.345,Foxglove Digitalis purpurea,1
+73.346, White Dead-nettle Lamium album,1
+73.346,Primrose Primula vulgaris,1
+73.346,hawthorns Crataegus spp.,1
+73.346,willows Salix spp.,1
+73.346,docks Rumex spp.,1
+73.346,Bramble Rubus fruticosus,1
+73.346,grasses ,1
+73.346, Barren Strawberry Potentilla sterilis,1
+73.346, Common Mallow Malva sylvestris,1
+73.346, Marsh Valerian Valeriana dioica,1
+73.346,Meadowsweet Filipendula ulmaria,1
+73.348,Lords-and-Ladies Arum maculatum,1
+73.348, Broad-leaved Dock Rumex obtusifolius,1
+73.348, White Dead-nettle Lamium album,1
+73.348,Primrose Primula vulgaris,1
+73.348,stitchworts Stellaria spp.,1
+73.348,hawthorns Crataegus spp.,1
+73.348,willows Salix spp.,1
+73.348,birches Betula spp.,1
+73.348,Blackthorn Prunus spinosa,1
+73.348,Hazel Corylus avellana,1
+73.348,Bramble Rubus fruticosus,1
+73.348,grasses ,1
+73.348,elms Ulmus spp.,1
+73.348, Scentless Mayweed Tripleurospermum inodorum,1
+73.348,oraches Atriplex spp.,1
+73.35,Primrose Primula vulgaris,1
+73.35,Bog-myrtle Myrica gale,1
+73.35,willows Salix spp.,1
+73.35,birches Betula spp.,1
+73.35,Blackthorn Prunus spinosa,1
+73.35,docks Rumex spp.,1
+73.35,Heather Calluna vulgaris,1
+73.35,Bramble Rubus fruticosus,1
+73.35,Bilberry Vaccinium myrtillus,1
+73.351,willows Salix spp.,1
+73.351,birches Betula spp.,1
+73.351,Blackthorn Prunus spinosa,1
+73.351,oaks Quercus spp.,1
+73.351,elms Ulmus spp.,1
+73.351, Broad-leaved Dock Rumex obtusifolius,1
+73.351,hawthorns Crataegus spp.,1
+73.352, Dog's Mercury Mercurialis perennis,1
+73.352,Primrose Primula vulgaris,1
+73.352,Honeysuckle Lonicera periclymenum,1
+73.352,willows Salix spp.,1
+73.352,birches Betula spp.,1
+73.352,docks Rumex spp.,1
+73.352,Bramble Rubus fruticosus,1
+73.352,Bilberry Vaccinium myrtillus,1
+73.352,Alder Alnus glutinosa,1
+73.352,Knotgrass Polygonum aviculare,1
+73.353, Common Chickweed Stellaria media,1
+73.353,Primrose Primula vulgaris,1
+73.353,Bog-myrtle Myrica gale,1
+73.353, Common Nettle Urtica dioica,1
+73.353,willows Salix spp.,1
+73.353,birches Betula spp.,1
+73.353,Blackthorn Prunus spinosa,1
+73.353,docks Rumex spp.,1
+73.353,Hawthorn Crataegus monogyna,1
+73.353,Bramble Rubus fruticosus,1
+73.353,Bilberry Vaccinium myrtillus,1
+73.353,dandelions Taraxacum spp.,1
+73.353, Red Dead-nettle Lamium purpureum,1
+73.353, Bird Cherry Prunus padus,1
+73.353,heathers,1
+73.353,Hornbeam Carpinus betulus,1
+73.353,roses Rosa spp.,1
+73.354, Cow Parsley Anthriscus sylvestris,1
+73.354,Cleavers Galium aparine,1
+73.354,Primrose Primula vulgaris,1
+73.354, Common Nettle Urtica dioica,1
+73.354,Bramble Rubus fruticosus,1
+73.354,Lords-and-Ladies Arum maculatum,1
+73.354, Dog's Mercury Mercurialis perennis,1
+73.354, Creeping Buttercup Ranunculus repens,1
+73.354,Oxlip Primula elatior,1
+73.355, Bell Heath Erica cinerea,1
+73.355,Bog-myrtle Myrica gale,1
+73.355, Grey Willow Salix cinerea,1
+73.355,Heather Calluna vulgaris,1
+73.355,Cowberry Vaccinium vitis-idaea,1
+73.355, Cross-leaved Heath Erica tetralix,1
+73.356, Bell Heath Erica cinerea,1
+73.356,Heather Calluna vulgaris,1
+73.357,Crowberry Empetrum nigrum,1
+73.357,Cleavers Galium aparine,1
+73.357, White Dead-nettle Lamium album,1
+73.357, Common Chickweed Stellaria media,1
+73.357, Creeping Willow Salix repens,1
+73.357, Hedge Bedstraw Galium album,1
+73.357,plantains Plantago spp.,1
+73.357,docks Rumex spp.,1
+73.357,Hawthorn Crataegus monogyna,1
+73.357,Bilberry Vaccinium myrtillus,1
+73.357, Annual Meadow-grass Poa annua,1
+73.357,oaks Quercus spp.,1
+73.357,grasses ,1
+73.358,Bluebell Hyacinthoides non-scripta,1
+73.358,Bramble Rubus fruticosus,1
+73.358, Water Figwort Scrophularia auriculata,1
+73.358, Ribwort Plantain Plantago lanceolata,1
+73.358, Hedge Bedstraw Galium album,1
+73.359,willowherbs Epilobium spp.,1
+73.359, Creeping Willow Salix repens,1
+73.359,Groundsel Senecio vulgaris,1
+73.359,plantains Plantago spp.,1
+73.359, Common Nettle Urtica dioica,1
+73.359,docks Rumex spp.,1
+73.359,Bilberry Vaccinium myrtillus,1
+73.359,dandelions Taraxacum spp.,1
+73.359, Garden Lettuce Lactuca sativa,1
+73.359,mulleins Verbascum spp.,1
+73.359,burdocks Arctium spp.,1
+73.359,Flixweed Descurainia sophia,1
+73.359, White Dead-nettle Lamium album,1
+73.359, Common Chickweed Stellaria media,1
+73.36,Primrose Primula vulgaris,1
+73.36,Honeysuckle Lonicera periclymenum,1
+73.36,willows Salix spp.,1
+73.36,birches Betula spp.,1
+73.36,Blackthorn Prunus spinosa,1
+73.36,docks Rumex spp.,1
+73.36,Hawthorn Crataegus monogyna,1
+73.36,Hazel Corylus avellana,1
+73.36,Bramble Rubus fruticosus,1
+73.36,dandelions Taraxacum spp.,1
+73.36,Dogwood Cornus sanguinea,1
+73.361,Raspberry Rubus idaeus,1
+73.361,Primrose Primula vulgaris,1
+73.361,plantains Plantago spp.,1
+73.361,birches Betula spp.,1
+73.361,Blackthorn Prunus spinosa,1
+73.361,docks Rumex spp.,1
+73.361,Hawthorn Crataegus monogyna,1
+73.361,Hazel Corylus avellana,1
+73.361,Bramble Rubus fruticosus,1
+73.361,buttercups Ranunculus spp.,1
+73.361, Wood Spurge Euphorbia amygdaloides,1
+73.361,forget-me-nots Myosotis spp.,1
+73.361, Cow Parsley Anthriscus sylvestris,1
+73.361,Traveller’s-joy Clematis vitalba,1
+73.361,willows Salix spp.,1
+73.361,dandelions Taraxacum spp.,1
+73.362, Bell Heath Erica cinerea,1
+73.362,Heather Calluna vulgaris,1
+73.362,Bilberry Vaccinium myrtillus,1
+73.363,Crowberry Empetrum nigrum,1
+73.364,Bilberry Vaccinium myrtillus,1
+73.364,cottongrasses Eriophorum spp.,1
+73.364,Crowberry Empetrum nigrum,1
+73.364,Bog-myrtle Myrica gale,1
+73.364,Bog-rosemary Andromeda polifolia,1
+73.365, Creeping Willow Salix repens,1
+73.365,birches Betula spp.,1
+73.365,docks Rumex spp.,1
+73.365,Heather Calluna vulgaris,1
+73.365,Bluebell Hyacinthoides non-scripta,1
+73.365,Sheep’s-fescue Festuca ovina,1
+73.365,bedstraws Galium spp.,1
+73.365, Bell Heath Erica cinerea,1
+73.365,plantains Plantago spp.,1
+73.365,Broom Cytisus scoparius,1
+73.365, Common Vetch Vicia sativa,1
+73.366,dead-nettles Lamium spp.,1
+73.366, Sheep's Sorrel Rumex acetosella,1
+73.366,Cowslip Primula veris,1
+73.366, Common Sorrel Rumex acetosa,1
+73.366,stitchworts Stellaria spp.,1
+73.366,Primrose Primula vulgaris,1
+73.366, Common Nettle Urtica dioica,1
+73.366,docks Rumex spp.,1
+73.367, Eared Willow Salix aurita,1
+73.367,birches Betula spp.,1
+73.367,Heather Calluna vulgaris,1
+73.367,Bilberry Vaccinium myrtillus,1
+73.368,Pear Pyrus communis,1
+73.368,Apple Malus domestica,1
+73.368,Blackthorn Prunus spinosa,1
+73.368,Hawthorn Crataegus monogyna,1
+73.368, Common Comfrey Symphytum officinale,1
+73.368,sowthistles Sonchus spp.,1
+73.368,Butterfly-bush Buddleja davidii,1
+73.368,geraniums Pelargonium spp.,1
+73.368,willowherbs Epilobium spp.,1
+73.368,Cleavers Galium aparine,1
+73.368,Groundsel Senecio vulgaris,1
+73.368,Honeysuckle Lonicera periclymenum,1
+73.368,Auricula Primula auricula,1
+74.001, Pedunculate Oak Quercus robur,1
+74.002,Dewberry Rubus caesius,1
+74.002, Wild Strawberry Fragaria vesca,1
+74.002,Raspberry Rubus idaeus,1
+74.002,Bramble Rubus fruticosus,1
+74.003,Apple Malus domestica,1
+74.003,Blackthorn Prunus spinosa,1
+74.003, Midland Hawkbit Crataegus laevigata,1
+74.003,Pear Pyrus communis,1
+74.003,cherries Prunus spp.,1
+74.003,Hawthorn Crataegus monogyna,1
+74.004, Holm Oak Quercus ilex,1
+74.004, Downy Birch Betula pubescens,1
+74.004,Blackthorn Prunus spinosa,1
+74.004, Pedunculate Oak Quercus robur,1
+74.004,Beech Fagus sylvatica,1
+74.004, Small-leaved Lime Tilia cordata,1
+74.004,Buckthorn Rhamnus cathartica,1
+74.004,Apple Malus domestica,1
+74.007, Sessile Oak Quercus petraea,1
+74.007, Silver Birch Betula pendula,1
+74.007, Downy Birch Betula pubescens,1
+74.007, Pedunculate Oak Quercus robur,1
+74.007,Beech Fagus sylvatica,1
+74.008, Pedunculate Oak Quercus robur,1
+74.008, Sessile Oak Quercus petraea,1
+74.008,limes Tilia spp.,1
+74.008, Silver Birch Betula pendula,1
+74.008, Sweet Chestnut Castanea sativa,1
+74.008, Downy Birch Betula pubescens,1
+74.008,Blackthorn Prunus spinosa,1
+74.008,Hazel Corylus avellana,1
+74.008,Aspen Populus tremula,1
+74.008,Alder Alnus glutinosa,1
+74.008,Beech Fagus sylvatica,1
+74.008,elms Ulmus spp.,1
+74.009, Holm Oak Quercus ilex,1
+74.009,larches Larix spp.,1
+74.009, Pedunculate Oak Quercus robur,1
+74.011,Osier Salix viminalis,1
+74.011, Hybrid Salix x fragilis,1
+74.011, White Willow Salix alba,1
+74.011, Creeping Willow Salix repens,1
+74.011, Goat Willow Salix caprea,1
+74.011, Grey Willow Salix cinerea,1
+74.011, Almond Willow Salix triandra,1
