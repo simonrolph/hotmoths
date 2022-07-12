@@ -1,6 +1,39 @@
 'use strict';
 
 
+// shuffling
+function shuffle() {
+  console.log("test");
+  var container = document.getElementById("tindercards");
+  var elementsArray = Array.prototype.slice.call(container.getElementsByClassName('tinder--card'));
+    elementsArray.forEach(function(element){
+    container.removeChild(element);
+  })
+  shuffleArray(elementsArray);
+  elementsArray.forEach(function(element){
+  container.appendChild(element);
+})
+}
+
+function shuffleArray(array) {
+    for (var i = array.length-1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+
+shuffle();
+
+const nelements = document.getElementById("tindercards").childElementCount;
+
+for (var i=100; i < nelements;i++ ) {
+  console.log("test");
+  document.getElementById("tindercards").removeChild(document.getElementById("tindercards").lastElementChild);
+}
+
 // Get the modal
 var modal = document.getElementById("myModal");
 
@@ -180,10 +213,7 @@ function getPosition(position) {
   var lat = position.coords.latitude;
   var lng = position.coords.longitude;
 
-  console.log(document.getElementById("tindercards"));
-
-  async function getDist() {
-    let species = "Deilephila elpenor"
+  async function getDist(species,divid) {
     let species_nearby = await getData('https://api.inaturalist.org/v1/observations?taxon_name='+ species+'&lat=' + lat + '&lng=' + lng + '&radius=25&per_page=15');
     const distances = [];
   
@@ -191,11 +221,16 @@ function getPosition(position) {
       let location = species_nearby.results[sp].location.split(',');
       distances.push(distance(lat,lng,Number(location[0]),Number(location[1]),"K"));
     }
-    document.getElementById("moth-dist-1").innerHTML = Math.round(Math.min(...distances)); 
+    document.getElementById(divid).innerHTML = Math.round(Math.min(...distances)); 
     //document.getElementById("locationtext").setAttribute('href', "https://www.inaturalist.org/observations?q="+species+"&lat=",lat,"&lng="+lng);
   }; 
 
-  getDist()
+  for (const i in Array.from(Array(document.getElementsByClassName("sci-name").length).keys())) {
+    getDist(document.getElementsByClassName("sci-name")[i].innerHTML,document.getElementsByClassName("sci-name")[i].innerHTML+"id")
+  }
+  
+
+  
 }
 
   

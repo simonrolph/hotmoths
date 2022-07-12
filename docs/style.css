@@ -81,6 +81,17 @@ body {
   cursor: grab;
 }
 
+.tinder--bottomcard {
+  display: inline-block;
+  width: 75vw;
+  max-width: 400px;
+  height: 70vh;
+  padding-bottom: 40px;
+  border-radius: 8px;
+  overflow: auto;
+  position: absolute;
+}
+
 .moving.tinder--card {
   transition: none;
   cursor: -webkit-grabbing;
@@ -95,7 +106,7 @@ body {
 .tinder--card h3 {
   text-align: left;
   margin-top: 32px;
-  font-size: 32px;
+  font-size: 25px;
   padding: 0 16px;
   pointer-events: none;
 }
@@ -103,12 +114,13 @@ body {
 .tinder--card p {
   text-align: left;
   margin-top: 24px;
-  font-size: 20px;
+  font-size: 16px;
   padding: 0 16px;
   pointer-events: none;
 }
 
 .tinder--buttons {
+  z-index: 8;
   flex: 0 0 100px;
   text-align: center;
   padding-top: 20px;
@@ -148,6 +160,8 @@ h1{
   text-align: center;
   font-family: 'Contrail One', cursive;
   font-size: 50px;
+  z-index: 5;
+  text-shadow: 0 0 10px #fde4c1;
 }
 
 
@@ -155,7 +169,7 @@ h1{
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
-  z-index: 4; /* Sit on top */
+  z-index: 9; /* Sit on top */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -216,4 +230,12 @@ h1{
   text-align: center;
   text-decoration: none;
   display: inline-block;
+}
+
+img{
+  object-fit: cover;
+}
+
+.sci-name{
+  display:none;
 }
