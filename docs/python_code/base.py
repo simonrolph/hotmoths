@@ -7,7 +7,8 @@ import numpy as np
 # and the database that we will have created in data/stats_for_page.csv
 # and data/text_from_facts.csv 
 
-templatefile = '../index.html'
+templatefile = '../indextemplate.html'
+outputfile = '../index.html'
 statsfile = '../../data/cleaned_stats_for_page.csv'
 textfile = '../../data/text_from_facts2.csv'
 tstartline = 61 # <div class="tinder-cards" id="tindercards"> line
@@ -31,8 +32,8 @@ template = \
       height="300"
       title=IMGATT/>
       <h3>MOTHNAME</h3>
-      <span class="sci-name">Deilephila elpenor</span>
-      <p><a id="locationtext"><i class="fa fa-map-marker"></i> <span id="moth-dist-1">?</span> km from your location</a></p>
+      <span class="sci-name">SCINAME</span>
+      <p><a id="locationtext"><i class="fa fa-map-marker"></i> <span class="moth-dist-1">?</span> km from your location</a></p>
 '''
 ptemplate = 'FACT'
 templateend = '    </div>'
@@ -75,6 +76,8 @@ for moth in range(0, nmoths):
     
     # 5) Edit template with data from step 4
     newtemplate = template.replace('MOTHNAME', mothname)
+    newtemplate = newtemplate.replace('SCINAME', sciname)
+    
     if pd.isna(plants):
         pass
     else:
@@ -151,7 +154,7 @@ for moth in range(0, nmoths):
     
     # image url
     if pd.isna(imgurl):
-        imgurl = "https://placeimg.com/600/300/nature"
+        imgurl = "images/no-image.png"
     newtemplate = newtemplate.replace('IMAGEURL', imgurl)
     if pd.isna(imgatt):
         imgatt = ''
@@ -170,7 +173,10 @@ for moth in range(0, nmoths):
             rint = np.random.randint(0, 2)
             if t == 0:
                 if rint == 0:
-                    newptemplate2 = ptemplates[t] + '. '
+                    if ptemplates[t][-1] == '.':
+                        newptemplate2 = ptemplates[t] + ' '
+                    else:
+                        newptemplate2 = ptemplates[t] + '. '
                 elif rint == 1:
                     newptemplate2 = ptemplates[t] + '</p>\n<p>'
                 newptemplate2 = '<p>' + newptemplate2
@@ -178,7 +184,10 @@ for moth in range(0, nmoths):
                 newptemplate2 = ptemplates[t] + '</p>'
             else:
                 if rint == 0:
-                    newptemplate2 = ptemplates[t] + '. '
+                    if ptemplates[t][-1] == '.':
+                        newptemplate2 = ptemplates[t] + ' '
+                    else:
+                        newptemplate2 = ptemplates[t] + '. '
                 elif rint == 1:
                     newptemplate2 = ptemplates[t] + '</p>\n<p>'
             newptemplates.append(newptemplate2)
@@ -191,9 +200,7 @@ for moth in range(0, nmoths):
 # 6) Write beginning, edited templates and end to new file
 # Shuffle order of edited templates to randomise the order of the cards
 random.shuffle(newtemplates)
-outdir = os.path.dirname(templatefile)
-outpath = os.path.join(outdir, 'testindex.html')
-with open(outpath, mode='w+', encoding='utf-8') as outfile:
+with open(outputfile, mode='w+', encoding='utf-8') as outfile:
     outfile.writelines(filestart)
     outfile.writelines(newtemplates)
     outfile.writelines(fileend)

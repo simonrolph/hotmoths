@@ -29,7 +29,7 @@ shuffle();
 
 const nelements = document.getElementById("tindercards").childElementCount;
 
-for (var i=100; i < nelements;i++ ) {
+for (var i=10; i < nelements;i++ ) {
   console.log("test");
   document.getElementById("tindercards").removeChild(document.getElementById("tindercards").lastElementChild);
 }
@@ -213,20 +213,23 @@ function getPosition(position) {
   var lat = position.coords.latitude;
   var lng = position.coords.longitude;
 
-  async function getDist(species,divid) {
-    let species_nearby = await getData('https://api.inaturalist.org/v1/observations?taxon_name='+ species+'&lat=' + lat + '&lng=' + lng + '&radius=25&per_page=15');
+  async function getDist(species,class_i) {
+    let species_nearby = await getData('https://api.inaturalist.org/v1/observations?taxon_name='+ species+'&lat=' + lat + '&lng=' + lng + '&radius=100&per_page=15');
     const distances = [];
   
     for (const sp in species_nearby.results){
       let location = species_nearby.results[sp].location.split(',');
       distances.push(distance(lat,lng,Number(location[0]),Number(location[1]),"K"));
     }
-    document.getElementById(divid).innerHTML = Math.round(Math.min(...distances)); 
+    console.log(document.getElementsByClassName("moth-dist-1")[class_i].innerHTML)
+    document.getElementsByClassName("moth-dist-1")[class_i].innerHTML = Math.round(Math.min(...distances)); 
     //document.getElementById("locationtext").setAttribute('href', "https://www.inaturalist.org/observations?q="+species+"&lat=",lat,"&lng="+lng);
   }; 
 
   for (const i in Array.from(Array(document.getElementsByClassName("sci-name").length).keys())) {
-    getDist(document.getElementsByClassName("sci-name")[i].innerHTML,document.getElementsByClassName("sci-name")[i].innerHTML+"id")
+    console.log(i);
+    console.log(document.getElementsByClassName("sci-name")[i].innerHTML);
+    getDist(document.getElementsByClassName("sci-name")[i].innerHTML,i);
   }
   
 
