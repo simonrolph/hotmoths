@@ -2,7 +2,7 @@
 
 By [Simon Rolph](https://github.com/simonrolph) and [Matt Brown](https://github.com/mattjbr123)
 
-🥈🥈 Won second place in the #CDE22 hackathon! 🥈🥈
+🥈🥈 Won [second place](https://cde22-data-sciences-art.devpost.com/project-gallery) in the #CDE22 hackathon! 🥈🥈
 
 ## What on earth!?!
 
