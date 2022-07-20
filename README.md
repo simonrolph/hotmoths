@@ -2,6 +2,8 @@
 
 By [Simon Rolph](https://github.com/simonrolph) and [Matt Brown](https://github.com/mattjbr123)
 
+🥈🥈 Won second place in the #CDE22 hackathon! 🥈🥈
+
 ## What on earth!?!
 
 Hot Moths was created as part of a hackathon running alongside the Constructing a Digital Environmnet conference. The hackathon was titled "Bridging data sciences and the public with art (hybrid)" and was run on the DEVPOST platform. You can find our entry here: https://devpost.com/software/hot-moths
