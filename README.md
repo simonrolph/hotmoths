@@ -8,7 +8,7 @@ By [Simon Rolph](https://github.com/simonrolph) and [Matt Brown](https://github.
 
 Hot Moths was created as part of a hackathon running alongside the Constructing a Digital Environmnet conference. The hackathon was titled "Bridging data sciences and the public with art (hybrid)" and was run on the DEVPOST platform. You can find our entry here: https://devpost.com/software/hot-moths
 
-The goal of the hackathon was to "turn scientific data into art creations, in any format, to enhance the communications between scientists and the public." Insect declines are an active topic of research and often makes the news with concerning headlines of 'insectmageddon'. Big trends like this can be overwhelming and we feel a disconnect from these phenomena. We wanted to create a piece of art that helps users appreciate the diversity in an underappreciated taxonomic group. We turned data about moths into an interactive experiental art piece framed around a reimagining of the swipe-style dating app in a near future where we could talk to moths...
+The goal of the hackathon was to "turn scientific data into art creations, in any format, to enhance the communications between scientists and the public." Insect declines are an active topic of research and often make the news with concerning headlines of 'insectmageddon'. Big trends like this can be overwhelming and we feel a disconnect from these phenomena. We wanted to create a piece of art that helps users appreciate the diversity in an underappreciated taxonomic group. We turned data about moths into an interactive experiental art piece framed around a reimagining of the swipe-style dating app in a near future where we could talk to moths...
 
 a.k.a. we created Tinder for moths!
 
